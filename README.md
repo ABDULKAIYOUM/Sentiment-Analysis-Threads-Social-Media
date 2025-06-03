@@ -1,0 +1,1 @@
+The main goal is to compare the sentiment scores from the original raw articles with those from the summarized versions to understand how summarization affects perceived sentiment across different media categories.
