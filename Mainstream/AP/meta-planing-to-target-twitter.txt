@@ -1,0 +1,18 @@
+date_published=10:21 AM GMT, July 4, 2023
+published_by=KELVIN CHAN
+title=Meta looks to target Twitter with a rival app called Threads
+body=LONDON (AP) — Meta is poised to unveil a new app that appears to mimic Twitter — a direct challenge to the social media platform owned by Elon Musk.
+A listing for the app, called Threads, appeared on Apple’s App Store, indicating it would debut as early as Thursday. It is billed as a “text-based conversation app” that is linked to Instagram, with the listing teasing a Twitter-like microblogging experience.
+“Threads is where communities come together to discuss everything from the topics you care about today to what’ll be trending tomorrow,” it said.
+Instagram users will be able to keep their user names and follow the same accounts on the new app, according to screenshots displayed on the App Store listing. Meta declined to comment on the app. 
+Musk replied “yeah” to a tweet from Twitter co-founder Jack Dorsey saying, “All your Threads are belong to us,” along with a screenshot from the App Store’s privacy section showing what personal information might be collected by the new Meta app.
+Threads could be the latest headache for Musk, who acquired Twitter last year for $44 billion and has been making changes that have unnerved advertisers and turned off users, including new daily limits on the number of tweets people can view.
+Meta has good timing because Twitter users are growing frustrated with Musk’s changes and looking for a viable alternative, said Matt Navarra, a social media consultant.
+Threads presents the “opportunity to jump to a platform that can give them many of the things that they want Twitter to continue to be that it no longer is,” he said.
+Allowing Instagram users to port their profile to Threads could give the new app more traction with potential users by providing a ready-made set of accounts for them to follow, said Navarra, former director of social media at tech news site The Next Web and digital communications adviser for the British government.
+Twitter has rolled out a series of unpopular changes in recent days, including a requirement for users to be verified to use the online dashboard TweetDeck. The policy announced Monday takes effect in 30 days and appears to be aimed at raising extra revenue because users need to pay have their accounts verified under Musk’s changes.
+TweetDeck is popular with companies and news organizations, allowing users to manage multiple Twitter accounts.
+It comes after outcry over Musk’s announcement this weekend that Twitter has limited the number of tweets users can view each day — restrictions that the billionaire Tesla CEO described as an attempt to stop unauthorized scraping of potentially valuable data.
+Still, some users might be put off by Meta’s data privacy track record, Navarra said. And would-be Twitter challengers like Mastodon have found it a challenge to sign up users.
+“It’s hard to tell whether the upset and discontent is strong enough to make a mass exodus or whether it will be somewhat of a slow erosion,” Navarra said.
+Musk’s rivalry with Meta Platforms also could end up spilling over into real life. In an online exchange between Musk and Meta CEO Mark Zuckerberg, the two tech billionaires seemingly agreed to a cage match face-off, though it’s unclear if they will actually make it to the ring.

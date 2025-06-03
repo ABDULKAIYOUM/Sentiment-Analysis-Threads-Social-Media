@@ -1,0 +1,13 @@
+Instagram Threads, the Twitter clone Meta launched two weeks ago, is being updated to include new features, including a follows tab.
+
+Cameron Roth, a software engineer for Instagram, shared a Threads post Tuesday, announcing additions to the app as part of an update to Apple’s iOS.
+
+The follows tab will presumably make it easier for people to see who is following them. Users will also be able to access a translate button to read text in other languages and more easily read posts from people they don’t follow. Roth said the iOS update includes some software bug fixes and loading improvements.
+
+Threads was an instant hit for Meta, which reported a record 100 million sign-ups in just five days, eliciting defensive responses from Twitter founder Elon Musk and new CEO Linda Yaccarino. However, data from Sensor Tower and Similarweb showed that the service saw some drops in growth and engagement the following week.
+
+Advertisers told CNBC they’re hoping for Threads to incorporate more features such as chronological feeds and the ability to search for hashtags, which could help them create better ad campaigns when Meta opens up that opportunity.
+
+In a separate Threads post Tuesday, Roth said regarding the update that users “may need to restart your app to see some of these or otherwise wait until the end of the day!”
+
+“We use a system of server-delivered flags which can take awhile to fully release,” he wrote.

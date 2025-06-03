@@ -1,0 +1,12 @@
+date_published=July 14, 2023 11:32 a.m. PT
+published_by=Kourtnee Jackson ,Nelson Aguilar 
+title=Threads Keeps Growing, and New Updates Have Arrived: What You Need to Know 
+body=After logging 100 million sign-ups in less than a week, Meta's new app, Threads, has received a software update for users of iOS 17. Meta's Instagram team launched Threads on July 5, and the text-based conversation app, billed as a Twitter rival, quickly caught on.
+TechCrunch earlier spotted the news about the update, noting that Instagram's Cameron Roth listed a bug fix for the iOS 17 beta that prevents Threads from crashing. Some iPhone users had experienced problems when attaching photos, leading people to find workarounds like using copy and paste. Other updates include profile tweaks and a feature that lets you double tap to search. The Threads user count continues to climb.
+"Threads reached 100 million sign-ups over the weekend," Zuckerberg wrote in a post Monday on Threads. "That's mostly organic demand and we haven't even turned on many promotions yet. Can't believe it's only been 5 days!"
+Adam Mosseri, the head of Instagram, on Monday called the surge of sign-ups on Threads "insane," and promised the team would "make this thing great." 
+While the burst of sign-ups doesn't necessarily mean people will use Threads long term, the milestone is notable. For comparison, OpenAI's chatbot ChatGPT, which kicked off an AI rush late last year, surpassed 100 million monthly active users after two months. At the end of 2022, Twitter had 259 million daily active users. Instagram has 1.39 billion daily active users.
+Joining Threads is pretty easy: Sign in with your Instagram credentials and keep your username, followers and verification status.
+Though the platform has reportedly been in the works since January, the Threads rollout comes on the heels of Twitter owner Elon Musk announcing limits to how many tweets you can read on Twitter per day. The limits were temporary, but the damage done seems to be a bit more permanent.
+Amid all the changes at Twitter, social media users have been looking for an alternative, such as Mastodon and Bluesky. Threads provides the option to post text, videos and photos, and the ability to engage in real-time conversations.
+Read on to learn more about how to join Threads and what features are available. For more, here's why you might want to wait to join Threads and how Meta is using AI to organize your feeds.

@@ -1,0 +1,64 @@
+Washington
+
+In less than 48 hours, Meta’s Twitter rival Threads has surpassed 70 million sign-ups, upended the social media landscape and appears to have rattled Twitter enough that it is now threatening legal action against Meta.
+
+But even as users signed up for Threads in droves, with some clearly eager to flee the chaos of Elon Musk’s Twitter, the sudden success of Meta’s app could raise a new set of concerns.
+
+Meta has long been criticized for its market dominance, and for allegedly trying to choke off competition by copying and killing rival applications. Now, some competition experts and even some Threads users worry that if the new app’s traction continues, it may simply lead to the accumulation of even more power and dominance for Meta and its CEO Mark Zuckerberg.
+“The prospect of total monopoly by Meta, yikes,” wrote one user. “It’s a real problem for society when a few dozen people and companies own every single thing so that no alternative paradigms can exist that they don’t co-opt from the cradle,” replied another.
+
+Twitter had always been much smaller than Meta’s platforms, but it had an outsized influence in tech, media and politics. As Twitter faltered under Musk, though, a cottage industry emerged of smaller apps trying to capture some of its magic. Now more than any of them, Meta seems best positioned to claim the crown.
+
+Threads’ blockbuster launch this week highlights the uncomfortable reality of the modern digital economy: To potentially beat some of the biggest players in the industry, you might have to be a giant yourself.
+
+The power of Instagram
+The overnight success of Threads is a testament both to the dissatisfaction with Musk’s ownership of Twitter and to the unique power and reach of one of Meta’s most important properties: Instagram.
+
+Instagram has more than two billion users, far more than the 238 million users Twitter reported having in the months before Musk took over. When new users sign up for Threads, which they do using an Instagram account, the app prompts them to follow all of their existing Instagram contacts with a single tap. It’s optional, but is easy to accept, and it takes a conscious decision to decline.
+
+By promoting Threads through Instagram, and by sharing Instagram user data with Threads to let people instantly recreate their social networks, Meta has significantly greased the onboarding process. That frictionless experience has allowed Threads to leapfrog what’s known in the industry as the “cold start” problem, in which a new platform struggles to gain new users because there are no other users there to attract them.
+
+Thanks to the Instagram integration, “that biggest problem, the chicken-egg problem, has been solved from the jump,” Reddit co-founder and venture investor Alexis Ohanian said in a video Thursday (posted, naturally, on Threads).
+
+That Threads appeared to clear that hurdle easily, Ohanian said, makes him “bullish” on the new app.
+
+Competition concerns
+But that same innovation that made signing up so many users so quickly may raise competition concerns, particularly in Europe where new antitrust rules for digital platforms are set to go into effect in a matter of months.
+
+“From a competition perspective this can be problematic because Meta can use it to leverage its market power and raise barriers to entry, as other rivals would not have the customer base Meta has via Instagram,” said Agustin Reyna, director of legal and economic affairs at the Brussels-based consumer advocacy organization BEUC.
+Under the EU’s Digital Markets Act (DMA), “digital gatekeepers” — a term that’s expected to cover Meta and/or its subsidiaries — will be prohibited from combining a user’s data from multiple platforms without consent, Reyna said. Another restriction forbids requiring users to sign up for one platform as a condition of using another.
+
+Instagram CEO Adam Mosseri appeared to acknowledge those issues this week in an interview with The Verge. Threads won’t be launching in the EU for now, he said, because of “complexities with complying with some of the laws coming into effect next year” — a statement The Verge suggested was a reference to the DMA.
+
+The DMA was passed specifically to deal with the antitrust concerns raised by large tech platforms. That Threads apparently cannot (yet) comply with rules designed to protect competition underscores uncertainty about the app’s potential competitive impact.
+
+Meta’s approach to Threads could also revive longstanding criticisms about the company’s alleged practice of copying and killing rivals, particularly as Twitter has warned Meta it may sue over claims of trade secret theft (an allegation Meta denies).
+
+The issue isn’t limited to the realm of social media. As the world races to develop artificial intelligence, Threads represents a huge new opportunity for Meta to gather training data for its own AI technology, in a way that could help it catch up to industry leaders such as OpenAI and Google. That could complicate any attempt at a comprehensive analysis of what Threads means for competition in tech.
+
+An uncertain impact on advertisers and users
+Part of what makes the debate so complicated is Threads’ seemingly very real threat to Twitter.
+
+If Threads puts pressure on Twitter to improve its service, that is a form of competition between apps, said Geoffrey Manne, founder of the Portland, Oregon-based International Center for Law and Economics.
+
+But, he added, if it leads to a concentration of power in the social media industry more broadly, it could mean a reduction in competition overall. It all depends on how you define the market.
+
+“I’m inclined to say it does both simultaneously, and the ultimate consequences aren’t so clear,” Manne said.
+
+Rather than viewing it through the lens of a social media market, one helpful way to look at the issue is from the perspective of the advertising market, he said. It’s possible that once Threads introduces advertising — which Zuckerberg has said won’t happen until the app has increased to significant scale — Threads simply reinforces Meta’s advertising market power, Manne said. That could lead to further antitrust scrutiny for Meta even if the question about competition in social media is ambiguous.
+
+Jeff Blattner, a former DOJ antitrust official, said it can only benefit consumers to have Threads as a rival to Twitter.
+
+“Two platforms run by maniac billionaires are better than one,” he wrote on Threads — though if Threads is so successful as to effectively knock out Twitter altogether, then in some ways the original question about Meta’s dominance will still stand.
+
+An olive branch
+Threads has one thing going for it that may nip any competition concerns in the bud: A commitment to integrate with the same open protocols used by other distributed social media alternatives, such as Mastodon.
+
+That would give users the option to migrate their accounts, along with all their follower data intact, to a rival like Mastodon that isn’t controlled by Meta.
+
+While that interoperability isn’t available yet, Mosseri has repeatedly highlighted it as a priority on his to-do list.
+
+When and if it happens, that could be a significant step. What may appear now as an audience grab by Meta could someday wind up being how millions of people were onboarded to a massive, decentralized social networking infrastructure that is not controlled by any single company, individual or organization.
+
+“This is why we think interoperability requirements are so important,” said Charlotte Slaiman, a competition expert at the Washington-based consumer group Public Knowledge. If users could port their entire social graph from one rival to another whenever they wanted, she said, “we could have more fair competition based on the quality of the product, not just incumbency advantage.”
+

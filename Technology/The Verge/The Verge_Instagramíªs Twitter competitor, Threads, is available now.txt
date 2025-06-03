@@ -1,0 +1,19 @@
+Threads, the Twitter competitor created by Meta, has finally arrived after months of rumors, leaks, and a billionaire cage fight challenge between Mark Zuckerberg and Elon Musk. Now, you can access the new platform from its desktop site at Threads.net or by downloading the app for iOS and Android. (If you’re not seeing it on iOS or get an error, try force quitting the App Store and going back in.)
+
+In an interview about the Threads launch with The Verge’s Alex Heath, Instagram head Adam Mosseri said, “Obviously, Twitter pioneered the space... but just given everything that was going on, we thought there was an opportunity to build something that was open and something that was good for the community that was already using Instagram.”
+
+On Threads, you can create text-based posts with up to 500 characters as well as share photos and videos up to five minutes long. The app looks relatively similar to Twitter, featuring a minimal interface with the options to like, comment, repost, and share threads. Since Threads is closely tied to Instagram, you can log in with your Instagram username and easily follow all the same people you follow on the other platform.
+
+Similar to Instagram, the main feed on Threads contains both recommended content and posts from people you follow. It doesn’t look like there’s an option to switch between streams of recommended and following-only content like there is on Twitter, however, but that’s always something Meta could add later.
+
+Meta is extending some of Instagram’s privacy controls to Threads as well, such as the ability to filter out certain words in replies. You can also limit who can reply to your threads to everyone on the platform, people you follow, or only the users who you mentioned in your post.
+
+Meta isn’t including Threads support for ActivityPub at launch. The decentralized social networking protocol, also used by Mastodon, would make it possible to transfer your information from Threads to another host, among other things.
+
+“We believe this decentralized approach, similar to the protocols governing email and the web itself, will play an important role in the future of online platforms,” Meta says. “Threads is Meta’s first app envisioned to be compatible with an open social networking protocol — we hope that by joining this fast-growing ecosystem of interoperable services, Threads will help people find their community, no matter what app they use.”
+
+The launch of Threads comes as Twitter imposes more restrictions on users, including a temporary rate limit barring unverified users from viewing more than 600 posts per day (or 300 posts for “new unverified” accounts). Twitter also blocked logged-out users from viewing tweets on the platform before quietly reversing the change and creating a new version of TweetDeck that requires a verified subscription.
+
+Meta is launching Threads in over 100 countries, including the US, but it won’t be available in the European Union to start. Mosseri, who says he lives in Europe now, explained the decision not to launch there to The Verge:
+
+The complexities with complying with some of the laws coming into effect next year are significant. We don’t want to launch anything that isn’t forward-compatible with what we know and what we think is coming. It’s just going to take longer to make sure not only that it’s compliant but that any claims we make about how we’ve implemented compliance stand up to our very high set of documentation and testing centers internally. 

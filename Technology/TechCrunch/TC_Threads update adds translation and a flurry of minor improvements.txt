@@ -1,0 +1,13 @@
+Threads exploded onto the crowded scene of aspiring Twitter rivals earlier this month, but it’s still very early days for the Instagram-adjacent text-first social network.
+
+Meta released an update to the iOS version of the app on Tuesday, the second since its debut two weeks ago and the first to add any noteworthy features.
+According to Threads developer Cameron Roth, the new iOS update offers a cluster of smaller changes along with one key missing feature: translations. Threads is available in many countries around the world, with the EU being one big exception, as Meta is currently embroiled in a fight over regulations that restrict its ad business there. Being able to translate posts in a foreign language is invaluable on an international social platform, although Instagram’s own translations in some languages can be nonsensical, from our experience.
+
+Beyond the addition of translations, Threads is also adding a new “follows tab” on the activity feed, the part of the app that collects interactions like replies and mentions. Unfortunately the tab isn’t as exciting as it might sound, only letting you display all of your latest Threads followers.
+
+The latest Threads update also adds some under-the-hood improvements to the activity feed, “tappable reposter labels,” the ability to subscribe to unfollowed users and an option to open a list of Instagram followers for a given user. While the update is out now, Roth says users may need to restart the app or wait until the end of the day to see the changes (they weren’t showing up for us yet, but if we find anything else surprising, you’ll hear about it).
+
+Threads is extremely slick by the normal standards of a new social app, but still lacks many useful utilities that some users might deem to be essential. Since its launch, some Threads users have bemoaned the app’s lack of accessibility features like alt text at launch. Twitter rivals Mastodon and Bluesky already include customizable alt text for image descriptions — a tool seen as a basic standard of accessible app design.
+Since Threads debuted, users have also been asking for a feed that only displays content from the people you follow. Right now that seems to be the main complaint about Threads — the algorithm serving up a brand-heavy mix of fresh content certainly doesn’t seem to be knocking it out of the park for much of anybody, yet at least.
+
+While Instagram’s Adam Mosseri has indicated a follows-only feed of some kind is in the works, this is Meta we’re talking about — don’t count on a pleasantly ad-free or ad-lite chronological feed unsullied by an algorithm any time soon.

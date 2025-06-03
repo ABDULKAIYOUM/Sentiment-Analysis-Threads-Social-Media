@@ -1,0 +1,21 @@
+User traffic on Twitter has slowed since the launch of Meta’s text-based platform Threads, which has already surpassed 100 million sign-ups since its debut last week.
+
+Threads launched in the U.S. on Wednesday and is being touted by Meta executives like Instagram chief Adam Mosseri as a more positive “public square” for communities “that never really embraced Twitter.” So far, users seem to be on board.
+
+“Threads reached 100 million sign ups over the weekend. That’s mostly organic demand and we haven’t even turned on many promotions yet. Can’t believe it’s only been 5 days!” Meta CEO Mark Zuckerberg said in a post Monday.
+
+Twitter appears to have taken a hit. Matthew Prince, CEO of Cloudflare, shared a screenshot to Twitter Sunday showing that traffic on the platform was “tanking.”
+
+According to Similarweb, a data company that specializes in web analytics, web traffic to Twitter was down 5% for the first two full days Threads was generally available compared with the previous week. The company said Twitter’s web traffic is down 11% compared with the same days in 2022.
+
+Twitter responded to CNBC’s request for comment with an automated response. Meta didn’t offer additional comment beyond Zuckerberg’s post.
+
+The booming growth on Threads is helped by the fact that it is tied to an existing social network, Meta’s Instagram. Users can sign up with their existing handles on Instagram and are able to retain some of their following as others sign up for the app.
+
+Threads reached the 100 million milestone even faster than OpenAI’s generative chatbot ChatGPT, which surpassed 100 million monthly users in two months.
+
+The app still has lots of room to grow, having not yet launched in Europe, where Mosseri said there is still some regulatory complexity to navigate. If Threads is able to retain its userbase, it could solidify its position as a real competitor for Twitter, which reported nearly 238 million monetizable daily active users in its last quarterly earnings report as public company last summer.
+
+Twitter owner Elon Musk appears to have already shown some concern about Threads, as his longtime lawyer Alex Spiro wrote a letter to Meta accusing the company of “unlawful misappropriation” of trade secrets.
+
+Musk and Zuckerberg were also taking shots at one another over the weekend, as Zuckerberg mocked Musk’s tweet style and Musk called Zuckerberg a derogatory name.

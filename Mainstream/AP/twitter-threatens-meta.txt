@@ -1,0 +1,16 @@
+date_published=8:46 PM GMT, July 6, 2023
+published_by=The Associated Press
+title=Twitter threatens legal action against Meta over its new rival app Threads
+body=NEW YORK (AP) — Twitter has threatened legal action against Meta over its new text-based app called Threads, which has drawn tens of millions of users since launching this week as a rival to Elon Musk’s social media platform.
+In a letter Wednesday to Meta CEO Mark Zuckerberg, Alex Spiro, an attorney representing Twitter, accused Meta of unlawfully using Twitter’s trade secrets and other intellectual property by hiring former Twitter employees to create a “copycat” app.
+The move ramps up the tensions between the social media giants after Threads debuted Wednesday, targeting those who are seeking out alternatives to Twitter amid unpopular changes Musk has made to the platform since buying it last year for $44 billion.
+Meta spokesperson Andy Stone wrote Thursday on Threads: “No one on the Threads engineering team is a former Twitter employee — that’s just not a thing.”
+In the letter, which news website Semafor first reported Thursday, Spiro said Twitter “intends to strictly enforce its intellectual property rights” and noted the company’s right to seek civil remedies or a court injunction.
+He said the letter marked a “formal notice” for Meta to preserve documents relevant for a potential dispute between the companies.
+In a reply to a tweet about the possibility of legal action against Meta, Musk wrote: “Competition is fine, cheating is not.”
+The Associated Press reached out to Spiro on Thursday for further information. Twitter responded to an email seeking comment with a crude automated reply, its standard response to journalists.
+New Twitter CEO Linda Yaccarino has not publicly commented on the letter but appeared to address Threads’ launch.
+“We’re often imitated — but the Twitter community can never be duplicated,” Yaccarino tweeted.
+Some analysts say Meta’s new offering, billed as a text-based version of the photo-sharing app Instagram, could be a significant headache for Twitter — pointing to the excitement surrounding Threads’ launch and impressive download numbers so far.
+But success isn’t guaranteed. Industry watchers point to Meta’s track record of starting standalone apps that were later shut down and note that Threads is still in its early days.
+Besides some glitches and gripes about missing features, Meta’s new app also has raised data privacy concerns. While Threads launched in more than 100 countries, it is notably unavailable in the European Union, which has strict data privacy rules.

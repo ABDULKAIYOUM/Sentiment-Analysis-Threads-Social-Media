@@ -1,0 +1,373 @@
+Here’s what personal data is collected by Meta’s Threads, as well as by Twitter, Bluesky, Mastodon, Spill, and Hive Social.
+
+META'S LONG-AWAITED TWITTER alternative is here, and it's called Threads. The new social media app launches at a time when alternatives, like Bluesky, Mastodon, and Spill, are vying for users who are dissatisfied with Elon Musk's handling of Twitter's user experience, with its newly introduced rate limits and an uptick in hate speech.
+
+Meta owns Facebook, Instagram, and WhatsApp, so the company’s attempt to recreate an online experience similar to Twitter is likely to attract plenty of normies, lurkers, and nomadic shitposters. Meta is working to incorporate Threads as part of the online Fediverse, a group of shared servers where users can interact across multiple platforms.
+
+If you’re hesitant to share more of your personal data with a company on the receiving end of a billion dollar fine, that’s understandable. For those who are curious, however, here’s what we know about the service’s privacy policy, what data you hand over when you use Threads, and how it compares to the data collected by other apps.
+
+Looking to further protect your privacy while using smartphone apps? For iPhone users, here’s how to set up and read your app privacy report. If you use an Android phone, here’s a bunch of settings worth checking out, including a privacy dashboard.
+
+Threads
+Threads (Android, Apple) potentially collects a wide assortment of personal data that remains connected to you, based on the information available in Apple’s App Store, from your purchase history and physical address to your browsing history and health information. Apple’s privacy labels for the App Store were first introduced in 2020. While the exact meaning of what’s collected remains murky, it's a decent gauge of how data collection varies between apps.
+
+“Sensitive information” is also listed as a type of data collected by the Threads app. Some information this could include is your race, sexual orientation, pregnancy status, and religion as well as your biometric data.
+
+Threads falls under the larger privacy policy covering Meta’s other social media platforms. Want to see the whole thing? You can read it for yourself here. There’s one caveat, though. The app has a supplemental privacy policy that’s also worth reading. A noteworthy detail from this document is that while you’re able to deactivate your Threads account whenever, you must delete your Instagram if you fully want to delete your Threads account.
+
+Below is all the data potentially collected by Threads that’s mentioned in the App Store. Do you have the Facebook or Instagram app on your phone? Keep in mind that this data collection by Meta is comparable to the data those apps collect about you.
+
+For Android users, the Google Play Store doesn’t have the same app labels as Apple. Take a look under Data Safety to see what data Threads wants to collect on Android.
+Data Linked to You
+Third-Party Advertising:
+
+Purchases (Purchase History)
+Financial Info (Other Financial Info)
+Location (Precise Location, Coarse Location)
+Contact Info (Physical Address, Email Address, Name, Phone Number, Other User Contact Info)
+Contacts
+User Content (Photos or Videos, Gameplay Content, Other User Content)
+Search History
+Browsing History
+Identifiers (User ID, Device ID)
+Usage Data (Product Interaction, Advertising Data, Other Usage Data)
+Diagnostics (Crash Data, Performance Data, Other Diagnostic Data)
+Other Data
+FEATURED VIDEO
+
+
+Cybersecurity Expert Answers Hacking Questions From Twitter
+
+Developer's Advertising or Marketing:
+
+Purchases (Purchase History)
+Financial Info (Other Financial Info)
+Location (Precise Location, Coarse Location)
+Contact Info (Physical Address, Email Address, Name, Phone Number, Other User Contact Info)
+Contacts
+User Content ( Photos or Videos, Gameplay Content, Other User Content)
+Search History
+Browsing History
+Identifiers (User ID, Device ID)
+Usage Data (Product Interaction, Advertising Data, Other Usage Data)
+Diagnostics (Crash Data, Performance Data, Other Diagnostic Data)
+Other Data
+Analytics:
+
+Health & Fitness (Health, Fitness)
+Purchases (Purchase History, Financial Info, Payment Info, Other Financial Info)
+Location (Precise Location, Coarse Location)
+Contact Info (Physical Address, Email Address, Name, Phone Number, Other User Contact Info)
+Contacts
+User Content (Photos or Videos, Audio Data, Gameplay Content, Customer Support, Other User Content)
+Search History
+Browsing History
+Identifiers (User ID, Device ID)
+Usage Data (Product Interaction, Advertising Data, Other Usage Data)
+Sensitive Info
+Diagnostics (Crash Data, Performance Data, Other Diagnostic Data)
+Other Data
+Product Personalization:
+
+Purchases (Purchase History)
+Financial Info (Other Financial Info)
+Location (Precise Location, Coarse Location)
+Contact Info (Physical Address, Email Address, Name, Phone Number, Other User Contact Info)
+Contacts
+User Content (Photos or Videos, Gameplay Content, Other User Content)
+Search History
+Browsing History
+Identifiers (User ID, Device ID)
+Usage Data (Product Interaction, Advertising Data, Other Usage Data)
+Sensitive Info
+Diagnostics (Crash Data, Performance Data, Other Diagnostic Data)
+Other Data
+App Functionality:
+
+Health & Fitness (Health, Fitness)
+Purchases (Purchase History)
+Financial Info (Payment Info, Credit Info, Other Financial Info)
+Location (Precise Location, Coarse Location)
+Contact Info (Physical Address, Email Address, Name, Phone Number, Other User Contact Info)
+Contacts
+User Content (Emails or Text Messages, Photos or Videos, Audio Data, Gameplay Content, Customer Support, Other User Content)
+Search History
+Browsing History
+Identifiers (User ID, Device ID)
+Usage Data (Product Interaction, Advertising Data, Other Usage Data)
+Sensitive Info
+Diagnostics (Crash Data, Performance Data, Other Diagnostic Data)
+Other Data
+Other Purposes:
+
+Purchases (Purchase History)
+Financial Info (Other Financial Info)
+Location (Precise Location, Coarse Location)
+Contact Info (Physical Address, Email Address, Name, Phone Number, Other User Contact Info)
+Contacts
+User Content (Photos or Videos, Gameplay Content, Customer Support, Other User Content)
+Search History
+Browsing History
+Identifiers (User ID, Device ID)
+Usage Data (Product Interaction, Advertising Data, Other Usage Data)
+Diagnostics (Crash Data, Performance Data, Other Diagnostic Data)
+Other Data
+Bluesky
+Looking for an app that collects less personal data? Bluesky (Android, Apple) is a buzzy Twitter alternative started by Twitter founder Jack Dorsey and managed by CEO Jay Graber. Bluesky uses the AT Protocol that it created. The app is currently invite-only, but it does not currently collect anywhere near as much information as Threads or Twitter.
+
+For Bluesky, the data that’s linked to you is focused on app functionality, like remembering your email and user ID, or access to photos and videos on your device so you can post memes. Here’s where you can find more info about Bluesky’s privacy policy. Keep in mind the service is still new and adding features, so there will likely be changes as it evolves.
+
+Below is all the data collected by Bluesky that’s mentioned in the App Store. (Remember that this is only for iPhone owners. If you use an Android smartphone, you have different app store labels that can be found under Data Safety.)
+
+Data Linked to You
+Third-Party Advertising:
+
+Purchases (Purchase History)
+Financial Info (Other Financial Info)
+Location (Precise Location, Coarse Location)
+Contact Info (Physical Address, Email Address, Name, Phone Number, Other User Contact Info)
+Contacts
+User Content (Photos or Videos, Gameplay Content, Other User Content)
+Search History
+Browsing History
+Identifiers (User ID, Device ID)
+Usage Data (Product Interaction, Advertising Data, Other Usage Data)
+Diagnostics (Crash Data, Performance Data, Other Diagnostic Data)
+Other Data
+Developer's Advertising or Marketing:
+
+Purchases (Purchase History)
+Financial Info (Other Financial Info)
+Location (Precise Location, Coarse Location)
+Contact Info (Physical Address, Email Address, Name, Phone Number, Other User Contact Info)
+Contacts
+User Content ( Photos or Videos, Gameplay Content, Other User Content)
+Search History
+Browsing History
+Identifiers (User ID, Device ID)
+Usage Data (Product Interaction, Advertising Data, Other Usage Data)
+Diagnostics (Crash Data, Performance Data, Other Diagnostic Data)
+Other Data
+Analytics:
+
+Health & Fitness (Health, Fitness)
+Purchases (Purchase History, Financial Info, Payment Info, Other Financial Info)
+Location (Precise Location, Coarse Location)
+Contact Info (Physical Address, Email Address, Name, Phone Number, Other User Contact Info)
+Contacts
+User Content (Photos or Videos, Audio Data, Gameplay Content, Customer Support, Other User Content)
+Search History
+Browsing History
+Identifiers (User ID, Device ID)
+Usage Data (Product Interaction, Advertising Data, Other Usage Data)
+Sensitive Info
+Diagnostics (Crash Data, Performance Data, Other Diagnostic Data)
+Other Data
+Product Personalization:
+
+Purchases (Purchase History)
+Financial Info (Other Financial Info)
+Location (Precise Location, Coarse Location)
+Contact Info (Physical Address, Email Address, Name, Phone Number, Other User Contact Info)
+Contacts
+User Content (Photos or Videos, Gameplay Content, Other User Content)
+Search History
+Browsing History
+Identifiers (User ID, Device ID)
+Usage Data (Product Interaction, Advertising Data, Other Usage Data)
+Sensitive Info
+Diagnostics (Crash Data, Performance Data, Other Diagnostic Data)
+Other Data
+App Functionality:
+
+Health & Fitness (Health, Fitness)
+Purchases (Purchase History)
+Financial Info (Payment Info, Credit Info, Other Financial Info)
+Location (Precise Location, Coarse Location)
+Contact Info (Physical Address, Email Address, Name, Phone Number, Other User Contact Info)
+Contacts
+User Content (Emails or Text Messages, Photos or Videos, Audio Data, Gameplay Content, Customer Support, Other User Content)
+Search History
+Browsing History
+Identifiers (User ID, Device ID)
+Usage Data (Product Interaction, Advertising Data, Other Usage Data)
+Sensitive Info
+Diagnostics (Crash Data, Performance Data, Other Diagnostic Data)
+Other Data
+Other Purposes:
+
+Purchases (Purchase History)
+Financial Info (Other Financial Info)
+Location (Precise Location, Coarse Location)
+Contact Info (Physical Address, Email Address, Name, Phone Number, Other User Contact Info)
+Contacts
+User Content (Photos or Videos, Gameplay Content, Customer Support, Other User Content)
+Search History
+Browsing History
+Identifiers (User ID, Device ID)
+Usage Data (Product Interaction, Advertising Data, Other Usage Data)
+Diagnostics (Crash Data, Performance Data, Other Diagnostic Data)
+Other Data
+Bluesky
+Looking for an app that collects less personal data? Bluesky (Android, Apple) is a buzzy Twitter alternative started by Twitter founder Jack Dorsey and managed by CEO Jay Graber. Bluesky uses the AT Protocol that it created. The app is currently invite-only, but it does not currently collect anywhere near as much information as Threads or Twitter.
+
+For Bluesky, the data that’s linked to you is focused on app functionality, like remembering your email and user ID, or access to photos and videos on your device so you can post memes. Here’s where you can find more info about Bluesky’s privacy policy. Keep in mind the service is still new and adding features, so there will likely be changes as it evolves.
+
+Below is all the data collected by Bluesky that’s mentioned in the App Store. (Remember that this is only for iPhone owners. If you use an Android smartphone, you have different app store labels that can be found under Data Safety.)
+Data Linked to You
+App Functionality:
+
+Contact Info (Email Address)
+User Content (Photos or Videos, Customer Support, Other User Content)
+Identifiers (User ID)
+Data Not Linked to You
+Analytics:
+
+Diagnostics (Crash Data, Performance Data, Other Diagnostic Data)
+App Functionality:
+
+Diagnostics (Crash Data, Performance Data, Other Diagnostic Data)
+Mastodon
+What if you want a social media app that doesn’t suck up all your personal data? Mastodon (Android, Apple) might be a good option for you. Originally launched in 2016 by Eugen Rochko, Mastodon uses a decentralized protocol that’s different from Bluesky, called ActivityPub. It’s part of the Fediverse of shared servers. Mastodon is not exactly a new pick; it has positioned itself for years as an alternative to Twitter. (Remember, 2023 isn’t the first time users have considered ditching Twitter for something new and exciting.)
+Are you trying it out for the first time? Here’s a great guide to getting started on Mastodon. There’s a bit of a learning curve with this one.
+
+Below is all the data collected by Mastodon that’s mentioned in the App Store.
+Spill
+Are you part of (or a fan of) Black Twitter and on the search for a new posting platform, preferably one that’s inclusive and voicey? Spill (Apple) is a Black-owned social media app that’s made with diverse communities in mind, specifically people of color. It was founded by Alphonzo “Phonz” Terrell and Devaris Brown, who both used to work at Twitter, and it launched earlier this year. Spill is not part of the Fediverse of shared servers.
+
+Spill is currently invite-only, but you can sign up for the waiting list. While Spill does gather sensitive info, the other aspects of its data collection are not as extensive as Threads. Here’s the full privacy policy you can read over.
+
+Below is all the data collected by Spill that’s mentioned in the App Store. It’s worth noting that Spill’s dev team is working on an Android app, but it’s not yet available to use.
+
+Data Linked to You
+Developer's Advertising or Marketing:
+
+Location (Coarse Location)
+Contact Info (Email Address, Name, Phone Number)
+User Content (Emails or Text Messages, Photos or Videos, Audio Data)
+Sensitive Info
+Analytics:
+
+Location (Coarse Location)
+Contact Info (Email Address, Name, Phone Number)
+User Content (Emails or Text Messages, Photos or Videos, Audio Data)
+Sensitive Info
+Product Personalization:
+
+Location (Coarse Location)
+Contact Info (Email Address, Name, Phone Number)
+Contacts
+User Content (Emails or Text Messages, Photos or Videos, Audio Data)
+Sensitive Info
+App Functionality:
+
+Location (Coarse Location)
+Contact Info (Email Address, Name, Phone Number)
+Contacts
+User Content (Emails or Text Messages, Photos or Videos, Audio Data)
+Sensitive Info
+Other Purposes:
+
+Contact Info (Email Address, Phone Number)
+Hive Social
+It’s a bit smaller than other platforms, but Hive Social (Android, Apple) is another contender for your attention span that’s particularly popular with gamers. This app is not part of the Fediverse. Nostalgic for the days when curated music would automatically play when a person visited your profile? This feature is one way Hive differentiates itself from Twitter, along with a built-in Q&A feature that lets your followers ask you questions (sometimes anonymously) that you can answer in posts to your feed. Want to give Hive a try? Check out our guide with tips for getting started.
+
+The app collects information about you for functionality and analytics, but it’s not connected specifically to you. Learn more about what data the app uses by taking a look at its privacy policy.
+
+Below is all the data collected by Hive Social that’s mentioned in the App Store for iPhone owners. (Have a Google Pixel or other Android device in your pocket? You can go to the Data Safety section in the app’s listing to see what data Hive collects.)
+
+Data Not Linked to You
+Analytics:
+
+Contact Info (Email Address, Name, Phone Number)
+User Content (Photos or Videos, Customer Support, Other User Content)
+Identifiers (User ID)
+Usage Data (Product Interaction, Other Usage Data)
+Diagnostics (Crash Data, Performance Data, Other Diagnostic Data)
+App Functionality:
+
+Contact Info (Email Address, Name, Phone Number)
+User Content (Photos or Videos, Customer Support, Other User Content)
+Identifiers (User ID)
+Usage Data (Product Interaction, Other Usage Data)
+Diagnostics (Crash Data, Performance Data, Other Diagnostic Data)
+What About Twitter?
+It may seem like Threads collects a ton of personal data. (Because it does!) For more context, let’s go over what Twitter asks for as well. Twitter (Android, Apple) keeps plenty of data that’s linked to users and used to track you, like your purchase history and browsing history. With that in mind, the app does not list “sensitive information” as one of the disclosed categories of data collection. Check out its full privacy policy for an in-depth breakdown.
+
+Below is all the data collected by Twitter that’s mentioned in the App Store. (Escaped from Apple’s walled garden? Go to the Data Safety section of the Android app for Twitter to see what personal data could be collected, like your precise location and web browsing history.)
+
+Data Used to Track You
+Purchases (Purchase History)
+Location (Precise Location, Coarse Location)
+Contact Info (Email Address)
+User Content
+Browsing History
+Identifiers (User ID, Device ID)
+Usage Data (Product Interaction, Advertising Data)
+Data Linked to You
+Third-Party Advertising:
+
+Purchases (Purchase History)
+Location (Precise Location, Coarse Location)
+Contact Info (Email Address)
+Browsing History
+Identifiers (User ID, Device ID)
+Usage Data (Product Interaction, Advertising Data)
+Diagnostics (Performance Data)
+Developer's Advertising or Marketing:
+
+Purchases (Purchase History)
+Location (Precise Location, Coarse Location)
+Contact Info (Email Address)
+User Content
+Browsing History
+Identifiers (User ID, Device ID)
+Usage Data (Product Interaction, Advertising Data)
+Analytics:
+
+Purchases (Purchase History)
+Location (Precise Location, Coarse Location)
+Contacts
+User Content (Photos or Videos, Audio Data, Other User Content)
+Search History
+Browsing History
+Identifiers (User ID, Device ID)
+Usage Data (Product Interaction, Advertising Data)
+Diagnostics (Crash Data, Performance Data)
+Product Personalization:
+
+Purchases (Purchase History)
+Location (Precise Location, Coarse Location)
+Contact Info (Email Address, Phone Number)
+Contacts
+User Content
+Search History
+Browsing History
+Identifiers (User ID, Device ID)
+Usage Data (Product Interaction, Advertising Data)
+Diagnostics (Crash Data, Performance Data, Other Diagnostic Data)
+Other Purposes:
+
+Location (Precise Location, Coarse Location)
+Contact Info (Email Address, Name, Phone Number)
+Contacts
+User Content (Photos or Videos)
+Search History
+Identifiers (User ID)
+Data Not Linked to You
+Third-Party Advertising:
+
+Other Data
+Developer's Advertising or Marketing:
+
+Other Data
+Analytics:
+
+User Content (Emails or Text Messages)
+Other Data
+App Functionality:
+
+Contact Info (Physical Address)
+User Content (Emails or Text Messages)
+Other Data
+

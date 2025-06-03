@@ -1,0 +1,56 @@
+Meta’s microblogging app is intuitive, has already been downloaded by millions of people, and has other advantages over Twitter’s would-be rivals.
+Blue feather floating in front of a blue background
+
+THE ANNOUNCEMENT OF Threads, Meta’s Instagram-Twitter hybrid, had been met with confusion and skepticism. Then, when it launched yesterday, 30 million people signed up within hours.
+
+Threads, the latest of Meta’s copycat innovations, faces a long slog in its bid to topple Twitter as the microblogging platform of choice. It has jumped into a feeding frenzy for users that has grown increasingly heated since Elon Musk bought the platform last year. But Threads comes with big potential, thanks to its polished tech, built-in user base, and a reputation for better moderation that’s likely to please big-money advertisers.
+
+The platform also arrives at a particularly weak moment for Twitter. Musk’s recent announcement that free Twitter accounts would, temporarily, only be able to view 600 tweets per day was met with derision. Such moves will likely further hurt advertising on the platform—worsening a crisis that’s been ongoing throughout Musk’s tenure.
+
+It’s a perfect storm: Technical troubles at Twitter converging with a slow news week have set the stage for Threads. “Suddenly, you have something that’s improbable: Meta has gotten into microblogging and people are actually digging it,” says John Wihbey, a professor in the School of Journalism and Media Innovation at Northeastern University who has worked as a contracted consultant for Twitter.
+
+Threads, which is closely linked to Instagram but is actually a different app, has a major advantage over other Twitter copycats—it already has a huge potential pool of users on Instagram, and those people can choose to follow accounts they already follow on Instagram as they come onto Threads.
+
+With the backing of Meta, Threads has a team of engineers that volunteer-run networks like Mastodon can’t rival. People can also post Threads directly to their Instagram stories. And, according to a post yesterday from Instagram head Adam Mosseri, Threads will eventually have support for ActivityPub, the protocol behind Mastodon, which would let people take their followers to another service if they leave Threads or the app ever shuts down.
+
+Threads can’t do all that Twitter can—yet. People need an Instagram account to sign up, and Threads is not available in the European Union, which has strict privacy standards that the app may not meet. The feed defaults to a mix of accounts people follow and a slurry of posts selected by an algorithm; there’s no direct messaging feature; and the feed’s order is algorithmic, not chronological. Threads doesn’t have a trending topics section, and the search feature seems to only bring up accounts, not specific topics or posts, which makes it initially less appealing for anyone following big news events. There are also no ads—yet.
+
+But Threads had a mostly smooth launch and largely positive reception, aside from a slight hiccup when Zuckerberg’s own Threads failed to load this morning. Still, microblogging remains a risky bet, as social platforms focusing on it haven’t been consistently profitable. At the same time, Threads may boost Meta’s brand as Twitter’s reputation falters. And it’s a chance to capitalize on advertisers that have ditched Twitter.
+
+After months of chaos at Twitter, many people are looking for something different—but most have yet to commit to a single platform, which is good news for Threads. “They’ve definitely got a fighting chance if all of their protections for communities and individuals are firmly in place,” says Tama Leaver, a professor of internet studies at Curtin University in Australia. “If Threads can displace Twitter’s current toxicity, it may well steal Musk’s crown.”
+
+That also matters to brands, and by extension advertisers, who flooded Threads as it opened to users. Netflix and Spotify were there right away, as were news organizations. Instagram has long been brand-friendly, and Twitter is increasingly losing trust. “It’s a play for advertising,” Matthew Bailey, principal analyst of media and entertainment at consultancy firm Omdia, says of Meta’s venture into Threads. “It wants to pick up that exodus of Twitter advertisers. Developing this brand-safe environment is crucial.”
+Other competitors haven’t killed Twitter, despite ongoing technical and ethical difficulties at the bird app. Decentralized Mastodon saw a surge of new users, but interest eventually waned, with active monthly users sitting at 1.7 million as of July. Bluesky has gotten attention, but it isn’t fully open to new users. There’s Post.news and Spill, too, though none of these has emerged as a clear victor, and Twitter continues to stumble along eight months after Musk’s takeover.
+
+Instagram, and Threads by extension, has its own challenges. Instagram has struggled with harassment and hate speech, and it is still trying to shake its reputation for negatively affecting teens’ mental health. But its reputation is better than Twitter’s, which has seen hate speech increase since Musk took over. And it’s telling that Meta chose to link Threads to Instagram rather than Facebook, which has an older audience and a worse reputation for toxic political fighting.
+
+But Meta has a mixed history when it comes to cannibalizing its competitors. Instagram Reels leveraged some of TikTok’s popularity, and Instagram Stories, a Snapchat copy, has become a key part of the app—although neither has killed the rival networks, which remain two of Meta’s top competitors for attention among younger generations.
+
+MOST POPULAR
+An Abandoned Arctic Military Base Just Spilled a Scientific Secret
+SCIENCE
+An Abandoned Arctic Military Base Just Spilled a Scientific Secret
+MATT SIMON
+
+The New Futurama Successfully Reboots the Show for 2023
+CULTURE
+The New Futurama Successfully Reboots the Show for 2023
+RAMIN SKIBBA
+
+Oppenheimer and the Dharma of Death
+CULTURE
+Oppenheimer and the Dharma of Death
+JOHN SEMLEY
+
+A One-Time Shot for Type 2 Diabetes? A Biotech Company Is On It
+SCIENCE
+A One-Time Shot for Type 2 Diabetes? A Biotech Company Is On It
+EMILY MULLIN
+
+Threads might be the shiny Twitter rival of the week, but Meta has a rotten record with projects outside its core apps. Its all-in bet on the metaverse hasn’t yielded the immersive world Zuckerberg envisioned, even when it added legs. In the past year alone, Meta has killed other offshoots, including Super (a Cameo copy), Facebook live shopping, and Neighborhoods (a Nextdoor clone). A podcast push also packed up shop earlier in 2022. And Meta followed Twitter in announcing a paid subscription tier that would come with verification and better features earlier this year.
+
+And people don’t generally seek out Twitter and Instagram to meet the same needs. Twitter allows some nudity, while Instagram has barred it. Instagram is, at times, about aesthetics and positivity and personal updates—though it’s notorious for veering into toxic positivity and overly edited and carefully selected images. Twitter’s brand lies in snark, memes, and breaking news. It’s doubtful those two energies can merge seamlessly. “My take is it’s less about text versus photos and videos and more about what public conversations you want to have,” Mosseri wrote in a Thread about the platform’s purpose.
+
+Threads might never be Twitter—but it might be a friendlier place for conversations. For now, most of the posts on Threads are about the platform itself. But it will have to hold attention past its launch to avoid being shuffled off into the Meta graveyard of failed imitators.
+
+

@@ -1,0 +1,17 @@
+At the end of last week, Threads had 12.6 million daily active users on Android, or about 12% of Twitter’s audience, according to SimilarWeb.
+
+After a launch that saw a surge in sign-ups, interest in Meta’s Twitter competitor, Threads, continues to drop off.
+
+Threads’ daily active users for the Android app fell to 12.6 million on Sunday, according(Opens in a new window) to SimilarWeb, an internet traffic tracker. That's a 74% drop from the 49 million users Threads saw on July 7, a day after the social media platform launched. 
+
+Those 12.6 million users also represent around 12% of Twitter’s audience on Android. In addition, the average amount of time Threads users spend on the app continues to plummet. 
+
+“US Android users spent nearly 21 minutes per day on the app immediately after launch, but over the past week they’ve spent less than 5 minutes per day with it. In contrast, Twitter users consistently engaged with the app for about 25 minutes per day,” SimilarWeb said in the report.  
+
+Last week, app-tracking firm SensorTower reported(Opens in a new window) a similar downward trend for Threads.
+
+SimilarWeb added: “We don’t yet have daily numbers for iOS, but we suspect the boom-and-bust pattern is similar. Threads took off like a rocket, with its close linkage to Instagram as the booster. However, the developers of Threads will need to fill in missing features and add some new and unique ones if they want to make checking the app a daily habit for users.”
+
+Indeed, Threads has yet to introduce an official desktop version of the site. And just yesterday, Meta finally began adding a “Following” feed to the app, which will only show posts from accounts you follow in chronological order.
+
+However, the drop in traffic at Threads isn’t necessarily converting to more activity on Twitter, which is undergoing its own controversial changes. Although time spent on the site remains the same, SimilarWeb says user traffic to Twitter is down about 8% to 10% year over year. 

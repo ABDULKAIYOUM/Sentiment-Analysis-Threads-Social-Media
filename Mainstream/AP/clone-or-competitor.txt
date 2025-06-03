@@ -1,0 +1,31 @@
+date_published=9:50 PM GMT, July 7, 2023
+published_by=MATT O’BRIEN and WYATTE GRANTHAM-PHILIPS
+title=Clone or competitor? Users and lawyers compare Twitter and Threads
+body=Just how similar is Instagram’s chatty new app, Threads, to Twitter?
+In a cease-and-desist letter earlier this week, Twitter threatened legal action against Instagram parent company Meta over the new text-based app Threads, which it called a “copycat.”
+Threads has drawn tens of millions of users since launching as the latest rival to Elon Musk’s social media platform. 
+Threads creators pushed back on the accusations, and legal experts note that much is still unknown. For now, “it’s sort of a big question mark,” Jacob Noti-Victor, an associate professor at Yeshiva University’s Cardozo Law School who specializes in intellectual property, told The Associated Press.
+The people starting to explore Threads, however, are already making their own observations.
+“People are calling it a Twitter clone but I think there are some key product differences,” said Alexandra Popken, Twitter’s former head of trust and safety operations.
+One difference, she thinks, will likely be the people who use it. At Threads, “you’re essentially taking your audience from Instagram and putting this into a new text-based app, whereas Twitter is a kind of a niche audience for politicians, celebrities and news junkies,” she said.
+Yet even though Threads makers have said they aren’t particularly interested in making it a politics forum, it’s likely to attract journalists and politicians, among others, looking for a Twitter alternative.
+Instagram’s CEO, Adam Mosseri, said Threads isn’t aiming to replace Twitter.
+“The goal is to create a public square for communities on Instagram that never really embraced Twitter and for communities on Twitter (and other platforms) that are interested in a less angry place for conversations, but not all of Twitter,” he said.
+Politics and hard news will inevitably show up on Threads, he acknowledged, “but we’re not going to do anything to encourage those verticals.”
+In a Wednesday letter addressed to Meta CEO Mark Zuckerberg, Alex Spiro, an attorney representing Twitter, accused Meta of unlawfully using Twitter’s trade secrets and other intellectual property by hiring former Twitter employees to create a “copycat” app.
+In a reply to a tweet about the possibility of legal action against Meta, Musk wrote: “Competition is fine, cheating is not.”
+Meta spokesperson Andy Stone responded in a Threads post Thursday that “no one on the Threads engineering team is a former Twitter employee.”
+From Spiro’s letter, which was first obtained by news outlet Semafor on Thursday, Noti-Victor said it’s hard to tell what the trade secrets referred to might be.
+Spiro says ex-Twitter employees “improperly retained” company documents and electronic devices — pointing to ongoing confidentiality obligations. There was no explicit reference, however, to a breach of any binding agreement in the letter, and most noncompete clauses, for example, are prohibited in California.
+In addition, despite Threads’ similarities to Twitter, “just the idea of creating a social media platform involving text (is) certainly not something that would be a trade secret,” Noti-Victor added.
+He is skeptical of intellectual property violations for similar reasons, noting that companies “can’t patent something that’s obvious” or copyright a general idea for a social media platform. Copyright can protect source code and the text of a website, but Noti-Victor said he doesn’t see that reproduced in Threads.
+Experts add that companies in Silicon Valley are constantly making products or services inspired by competitors’ versions.
+“The industry has a storied past of borrowing ideas from each other,” said Popken, adding that Threads and other platforms such as Mastodon and Bluesky are “trying to capitalize on what is demand for a suitable, safer alternative to Twitter.”
+Meta has a track record of starting standalone apps that mirror competitors, although many later shut down.
+Beyond trade secret and intellectual property allegations, Spiro also wrote that Meta is prohibited from “engaging in any crawling or scraping of Twitter’s followers or following data.” He said the letter marked a “formal notice” for Meta to preserve documents relevant for a potential dispute between the companies.
+Any letter of this kind should be taken seriously, said Carl Tobias, law professor at the University of Richmond’s School of Law — but he, too, added that much is still unknown. More specific allegations and documents could come forward if litigation is pursued.
+Tobias speculated that Twitter’s move could be partly about publicity, as well as a strategic response both legally and business-wise. Musk’s legal team has made similar moves before, such as a May letter to Microsoft objecting to alleged misuse of Twitter data to train artificial intelligence systems.
+Among those elevating the clone-or-not question this week was Twitter co-founder and former CEO Jack Dorsey, who has championed Bluesky, and joked in a tweet: “We wanted flying cars, instead we got 7 Twitter clones.”
+For Popken, who now works at content moderation startup WebPurify, what most stands out about Threads so far is how much fun she’s having using it.
+“I see brands like Slim Jim trying to be funny. I see influencers who I follow on Instagram and people who I care about in my life,” she said. “There’s like this period of time where the bad actors haven’t found it yet. It’s like this non-toxic, happy corner of the internet.”
+But “make no mistake,” she added, those content moderation problems that have plagued other platforms “will certainly strike Threads over time.”

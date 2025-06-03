@@ -1,0 +1,12 @@
+date_published=Thursday 6 Jul 2023 8:18 pm
+published_by=Ben Ashton
+title=Twitter sends letter threatening to sue Meta over new rival Threads app
+body=Twitter has threatened to sue Meta just one day after it launched a new rival app.
+Threads saw 30 million users sign up within 24 hours of going live.
+But now Twitter boss Elon Musk has sent a letter to Meta CEO Mark Zuckerberg, via his lawyer Alex Spiro, warning of potential legal action.
+The letter says: ‘Twitter has serious concerns that Meta Platforms (Meta) has engaged in systematic, willful and unlawful misappropriation of Twitter’s trade secrets and other intellectual property.’
+It claims that Meta has hired ‘dozens’ of former Twitter employees and that they have access to the company’s ‘trade secrets’.
+Mr Spiro also says that many of these employees have ‘improperly retained Twitter documents and electronic devices’, reports Semafor.
+He wrote: ‘Twitter intends to strictly enforce its intellectual property rights, and demands that Meta take immediate steps to stop using any Twitter trade secrets or other highly confidential information.’
+However, a source at Meta reportedly told Semafor that Twitter’s accusations are baseless.
+They said: ‘No one on the Threads engineering team is a former Twitter employee – that’s just not a thing.’

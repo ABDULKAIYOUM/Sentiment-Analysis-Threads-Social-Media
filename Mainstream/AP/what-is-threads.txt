@@ -1,0 +1,41 @@
+date_published=5:26 PM GMT, July 6, 2023
+published_by=WYATTE GRANTHAM-PHILIPS
+title=What is Threads? All your questions about Meta’s new Twitter rival, answered
+body=NEW YORK (AP) — Threads, a text-based app built by Meta to rival Twitter, is live.
+The app, billed as the text version of Meta’s photo-sharing platform Instagram, became available Wednesday night to users in more than 100 countries — including the U.S., Britain, Australia, Canada and Japan. Despite some early glitches, 30 million people had signed up before noon on Thursday, Meta CEO Mark Zuckerberg said on Threads.
+New arrivals to the platform include celebrities like Oprah, pop star Shakira and chef Gordon Ramsay — as well as corporate accounts from Taco Bell, Netflix, Spotify, the Washington Post and other media outlets.
+Threads, which Meta says provides “a new, separate space for real-time updates and public conversations,” arrives at a time when many are looking for Twitter alternatives to escape Elon Musk’s raucous oversight of the platform since acquiring it last year for $44 billion. But Meta’s new app has also raised data privacy concerns, and is notably unavailable in the European Union. 
+Here’s what you need to know about Threads.
+HOW CAN I USE THREADS?
+Threads is now available for download in Apple and Google Android app stores for people in more than 100 countries. 
+Threads was built by the Instagram team, so Instagram users can log into Threads through their Instagram account. Your username and verification status will carry over, according to the platform, but you will also have options to customize other areas of your profile — including whether or not you want to follow the same people that you do on Instagram.
+Because Threads and Instagram are so closely linked, it’s also important to be cautious of account deletion. According to Threads’ supplemental privacy policy, you can deactivate your profile at any time, “but your Threads profile can only be deleted by deleting your Instagram account.”
+CAN I USE THREADS IF I DON’T HAVE AN INSTAGRAM ACCOUNT?
+For now, only Instagram users can create Threads accounts. If you want to access Threads, you will have to sign up for Instagram first.
+While this may receive some pushback, VP and research director at Forrester Mike Proulx said making Threads an extension of Instagram was a smart move on Meta’s part.
+“It’s piquing (user) curiosity,” Proulx said, noting that Instagram users are getting alerts about their followers joining Threads — causing more and more people to sign up. “That’s one of the reasons why Threads got over 10 million people to sign up in just a seven hour period” after launching.
+Still, Proulx added, maintaining momentum and continuing to capture user attention past the initial curiosity bump will be crucial down the line — noting “the long term nature of threads is what’s going to ultimately predict its success or failure.”
+HOW IS THREADS SIMILAR TO TWITTER?
+Threads’ microblogging experience is very similar to Twitter. Users can repost, reply to or quote a thread, for example, and can see the number of likes and replies that a post has received. “Threads” can run up to 500 characters — compared with Twitter’s 280-character threshold — and can include links, photos and videos up to five minutes long.
+In early replies on Threads, Zuckerberg said making the app “a friendly place” will be a key to success — adding that that was “one reason why Twitter never succeeded as much as I think it should have, and we want to do it differently.”
+IS TWITTER SEEKING LEGAL ACTION AGAINST META?
+According to a letter obtained by Semafor on Thursday, Twitter has threatened legal action against Meta over Threads. In the letter, which was addressed to Meta CEO Mark Zuckerberg and dated Wednesday, Alex Spiro, an attorney representing Twitter, accused Meta of unlawfully using Twitter’s trade secrets and other intellectual property by hiring former Twitter employees to create a “copycat” app.
+Meta spokesperson Andy Stone responded to the report of Spiro’s letter on Threads Thursday afternoon, writing, “no one on the Threads engineering team is a former Twitter employee.”
+Musk hasn’t directly tweeted about the possibility of legal action, but he has replied to several snarky takes on the Threads launch. The Twitter owner responded to one tweet suggesting that Meta’s app was built largely through the use of the copy and paste function, with a laughing emoji.
+Twitter CEO Linda Yaccarino has also not publicly commented on Wednesday’s letter, but seemingly appeared to address Threads’ launch in a Thursday tweet — writing that “the Twitter community can never be duplicated.”
+HASN’T THIS BEEN DONE BEFORE?
+The similarities of Meta’s new text-based app suggests that the company is working to directly challenge Twitter. The tumultuous ownership has resulted in a series of unpopular changes that have turned off users and advertisers, some of whom are searching for Twitter alternatives.
+Threads is the latest Twitter rival to emerge in this landscape following Bluesky, Mastodon and Spill.
+HOW DOES THREADS MODERATE CONTENT?
+According to Meta, Threads will use the same safety measures deployed on Instagram — which includes enforcing Instagram’s community guidelines and providing tools to control who can mention or reply to users.
+Content warnings — on search queries ranging from conspiracy theory groups to misinformation about COVID-19 vaccinations — also appear to be similar to Instagram.
+WHAT ARE THE PRIVACY CONCERNS?
+Threads could collect a wide range of personal information — including health, financial, contacts, browsing and search history, location data, purchases and “sensitive info,” according to its data privacy disclosure on the App Store.
+Threads also isn’t available in the European Union right now, which has strict data privacy rules.
+Meta informed Ireland’s Data Privacy Commission, Meta’s main privacy regulator for the EU, that it has no plans yet to launch Threads in the 27-nation bloc, commission spokesman Graham Doyle said. The company said it is working on rolling the app out to more countries — but pointed to regulatory uncertainty for its decision to hold off on a European launch.
+WHATS THE FUTURE FOR THREADS?
+Success for Threads is far from guaranteed. Industry watchers point to Meta’s track record of starting standalone apps that were later shut down — including an Instagram messaging app also called “Threads” that shut down less than two years after its 2019 launch, Proulx notes.
+Still, Proulx and others say the new app could be a significant headache for Musk and Twitter.
+“The euphoria around a new service and this initial explosion will probably settle down. But it is apparent that this alternative is here to stay and will prove to be a worthy rival given all of Twitter’s woes,” technology analyst Paolo Pescatore of PP Foresight said, noting that combining Twitter-style features with Instagram’s look and feel could drive user engagement.
+Threads is in its early days, however, and much depends on user feedback. Pescatore believes the close tie between Instagram and Threads might not resonate with everyone. The rollout of new features will also be key.
+“The real test is not if we can build up a lot of hype, but if you all find enough value in the app to keep using it over time,” Instagram head Adam Mosseri wrote Thursday in a Threads post. He also acknowledged, as many users have already done, that there are “tons of basics” missing, including hashtags and direct messaging between users. “Full disclosure, it’ll take time.”

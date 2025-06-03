@@ -1,0 +1,29 @@
+There's a new episode coming up everyday on the excruciating drama of Twitter, Elon Musk, and everything that goes in their way.
+In a dramatic turn of events, Twitter sent the Meta CEO Mark Zuckerberg a letter, warning him that his newly launched app Threads could face a lawsuit from the huffy blue bird and its owner Elon Musk.
+
+Threads is a Meta plan to replace the increasingly notorious Twitter after Musk’s $44 billion acquisition. Closely connected to Instagram, Threads activated over 30 million profiles and 95 million posts in the first 24 hours after its launch.
+
+
+The stand-alone app has an interface similar to Twitter. Users can like, comment, repost, and share text-based posts. They can also choose what audience can reply to posts – everyone, people you follow, or only those mentioned in the post—another interesting feature reminiscent of Twitter. By logging into Threads using their Instagram account, users can post up to 500 characters long text posts and include links, photos, and videos up to 5 minutes in length.
+
+Although the dazzling numbers associated with Threads are increasing every second, the app is far from smooth sailing.
+
+The letter
+In the letter obtained by Semafor, Twitter lawyer Alex Spiro accuses Meta of using Twitter’s trade secrets and intellectual property to build Threads.
+
+According to Spiro, who’s also Musk’s personal lawyer, Meta has reportedly hired numerous ex-Twitter employees to work on Threads. This may be quite natural considering the substantial number of staff who were laid off after Musk’s acquisition. However, Twitter has raised concerns that these former employees still possess access to confidential information and trade secrets. Twitter alleges that Meta exploited this situation, assigning these employees to develop an app that’s a “copycat” of their platform, which is believed to be in violation of state and federal laws in the US.
+
+
+As a response to the accusation, Meta’s communications director Andy Stone posted on Threads, saying that “No one on the Threads engineering team is a former Twitter employee — that’s just not a thing.”
+
+A data privacy nightmare
+iOS requires mandatory disclosures of any app that’s launched on the Apple App Store. And that’s how people started to notice something fishy about Threads’ privacy policy. The information showed that the app may collect highly sensitive information about users in order to profile their digital activity, including health and financial data, precise location, browsing history, contacts, search history, and other sensitive information.
+
+For this reason, Threads could not be launched in the EU, where regulations state that a higher level of explicit consent is needed for sensitive information like health data to be legally processed.
+
+It might be scary but certainly not surprising, considering Facebook made its way up by tracking and profiling web users to attract their attention with its behavioral advertising tools.
+
+You are transparent on Threads
+Unlike Twitter, where people shoot random thoughts all over the space, Threads was launched following the same stringent content guidelines that Instagram imposes on its users. But that has a lot to do with the characters of the two social media platforms. Users are more likely to connect with people they know in real life on Instagram, which translates to Threads. However, general Twitter users are almost completely anonymous and stay within a bubble of their interests. This anonymity makes Twitter users post with a mindset that’s more separated from their real life, especially with an almost nonexistent moderation for speech after Musk’s takeover.
+
+Will the massive user base from Instagram stick to Threads? We won’t know until the end, and the show must go on.

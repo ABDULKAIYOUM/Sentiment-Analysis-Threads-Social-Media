@@ -1,0 +1,72 @@
+Meta’s Twitter alternative promises that it will work with decentralized platforms, giving you greater control of your data. You can hold the company to that—if you don't sign up.
+AS META’S TWITTER competitor, Threads, started generating buzz ahead of yesterday’s launch, curious netizens spotted a placeholder listing for the app in Apple’s App Store. Like all iOS apps, the listing included details about the user data the app is designed to collect and track. And observers couldn’t help but notice that this brand-new app was already listing a whopping 14 categories of data that “may be collected and linked to your identity.” 
+It might be a jarring reminder, but this is par for the course with Meta-owned apps, which the company monetizes by selling targeted ads and personalized marketing. Facebook and Instagram’s iOS apps list even more categories than Threads, the Messenger app lists about as many, and even the secure messaging app WhatsApp discloses nine categories of “Data Linked to You.” So for people fed up with Twitter’s rapidly deteriorating platform (and vibes), a Meta-owned alternative—with its predictability and relative stability—could even potentially appeal to those who are generally concerned about data privacy. 
+
+Early data suggests as much: Threads, which is directly linked to users’ Instagram accounts, saw 10 million sign-ups in its first seven hours, according to CEO Mark Zuckerberg. Ultimately, Meta’s pitch for Threads is simply that it’s the devil you know.
+
+But one thing is different this time: Meta is dangling an opportunity to essentially be on Threads without signing up for the platform at all. The company announced yesterday that it is planning to make Threads interoperable with other, non-Meta social networks that support a decentralized protocol already used by WordPress and 2022’s decentralization poster child, Mastodon. This means that if Meta follows through, you’ll be able to see and interact with Threads content from other platforms and services that support the standard, which is known as ActivityPub.
+
+Meta says that Threads will start supporting ActivityPub “soon,” a descriptor that doesn’t necessarily inspire confidence. The company has already spent years, for example, working on its longtime promise of default end-to-end encryption on Messenger. But incorporating decentralization into Threads, and specifically supporting ActivityPub, has reportedly been a core aspect of Meta’s vision for the app from the beginning. Meta has also already sketched out details of the plan in its supplemental privacy policy for Threads.
+All of this means that if you’re sick of Meta’s data-gobbling ways, or you don’t already have an Instagram account and don’t want to get one, you actually have some leverage: Don’t join Threads. Use Mastodon or another ActivityPub platform until Threads comes to you. Or hang out on Bluesky, which doesn’t support ActivityPub but is working on its own vision of a decentralized, portable social network.
+
+FEATURED VIDEO
+
+
+Scam Fighters Answer Scam Questions From Twitter
+
+MOST POPULAR
+An Abandoned Arctic Military Base Just Spilled a Scientific Secret
+SCIENCE
+An Abandoned Arctic Military Base Just Spilled a Scientific Secret
+MATT SIMON
+
+The New Futurama Successfully Reboots the Show for 2023
+CULTURE
+The New Futurama Successfully Reboots the Show for 2023
+RAMIN SKIBBA
+
+Oppenheimer and the Dharma of Death
+CULTURE
+Oppenheimer and the Dharma of Death
+JOHN SEMLEY
+
+A One-Time Shot for Type 2 Diabetes? A Biotech Company Is On It
+SCIENCE
+A One-Time Shot for Type 2 Diabetes? A Biotech Company Is On It
+EMILY MULLIN
+
+“The fact that large platforms are adopting ActivityPub is not only validation of the movement towards decentralized social media, but a path forward for people locked into these platforms to switch to better providers. Which in turn, puts pressure on such platforms to provide better, less exploitative services," Mastodon CEO Eugen Rochko wrote in a blog post ahead of yesterday’s Threads launch.
+
+Easy examples of decentralized services you already intuitively understand are phones and email. You can call anyone on any number, even if you and the person you’re calling buy phone service from different companies. Same with email. Even if pretty much everyone you know uses Gmail, there’s nothing materially different about emailing with the Yahoo and Hotmail holdouts in your life. And maybe your friend Jane runs her own email server and her address is jane@janerox.com. Love that for you, Jane—doesn’t change anything for anyone else.
+
+That’s it. That’s how “the fediverse,” or federated services, work too. You join a server, and you’re trusting that server with your data. But then you can communicate with all the other servers running the same protocol, and the only data everyone on all those other servers can see from you is the content you choose to put out there. So Gmail has all of your emails and usage history, and Jane has all of her own emails and usage history, but the only data she has about you on her server is the emails you’ve sent her. And the only data Gmail has about Jane comes from her interactions with you and any other Gmail users.
+
+Decentralization doesn’t change the basic functions of a social network, and that’s fine. The whole point of these services is to be a platform for publicly posting and consuming information. They aren’t designed around implementing end-to-end encryption. The servers still have access to user data and can be subpoenaed by governments or hacked. But decentralization creates a model through which users can elect to entrust their information to servers based on which ones have less-predatory data practices.
+Ross Schulman, senior fellow for decentralization at digital rights nonprofit the Electronic Frontier Foundation, notes that if Threads emerges as a massive player in the fediverse, there could be concerns about what he calls “social graph slurping." Meta will know who all of its users interact with and follow within Threads, and it will also be able to see who its users follow in the broader fediverse. And if Threads builds up anywhere near the reach of other Meta platforms, just this little slice of life would give the company a fairly expansive view of interactions beyond its borders.
+
+“I am perhaps equal parts excited and apprehensive to see how things play out with Threads, but it is really underlining the beauty of the fediverse that you have every option and the opportunity to choose,” Schulman says. “If you like Meta and you want to be in there, great. Go join Threads, you’ll be happy there, and you’ll also have access to everything else. If you don’t want to be a part of Meta, but you’ve got friends or family that do or public figures or whatever, then fine. You can get an account on any number of other fediverse servers and then follow the people that you want. Or if you want nothing to do at all with Meta, then there are plenty of servers out there [that] have already announced that they're preemptively blocking Threads. So you can live that life, too.”
+
+MOST POPULAR
+An Abandoned Arctic Military Base Just Spilled a Scientific Secret
+SCIENCE
+An Abandoned Arctic Military Base Just Spilled a Scientific Secret
+MATT SIMON
+
+The New Futurama Successfully Reboots the Show for 2023
+CULTURE
+The New Futurama Successfully Reboots the Show for 2023
+RAMIN SKIBBA
+
+Oppenheimer and the Dharma of Death
+CULTURE
+Oppenheimer and the Dharma of Death
+JOHN SEMLEY
+
+A One-Time Shot for Type 2 Diabetes? A Biotech Company Is On It
+SCIENCE
+A One-Time Shot for Type 2 Diabetes? A Biotech Company Is On It
+EMILY MULLIN
+
+No matter who you throw your lot in with, an important concept is that the server you choose is still going to have access to your data, even though all the other servers won't. If Threads implements ActivityPub and you use it to interact with the fediverse, you’re choosing Meta as your server and everything that comes with that. If you run your own server, like Jane, you can retain full control. But if you’re somewhere in the middle and use a server run by someone else, you need to keep an eye out for future changes. Mastodon is currently a crowdfunded platform, but it’s largely unclear what the business model will be for decentralized services like Bluesky. And future pivots could mean that your server eventually implements more user-monitoring or data-tracking practices. Then it might be time to move on—a process made easier by the portability that's built into the fediverse, allowing you to switch servers while maintaining your connections.
+
+If you’re a Twitter user, or used to be, you have already dealt with a service that makes dramatic changes and completely upends your expectations and trust. But the Twitter case study illustrates a crucial idea. From a data privacy perspective, the worst-case scenario is no worse in the world of decentralization, the best-case scenario is much better, and, for once, you get a say in where you end up.

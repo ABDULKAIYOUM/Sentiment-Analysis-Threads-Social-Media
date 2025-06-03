@@ -1,0 +1,35 @@
+After months of chaos under its new owner, Twitter is facing its most heavyweight competitor yet in Threads, Meta’s text-based conversation platform, which launched in 100 countries Wednesday. The app has attracted 30 million users in less than a day, with celebrities and media platforms alike signing up, but its release in Europe has been delayed amid data privacy concerns.
+
+Meta CEO and Facebook founder Mark Zuckerberg billed the app as a “friendly” rival to Twitter, which has deterred some users since it was purchased by Elon Musk for $44 billion in October. “Let’s do this. Welcome to Threads,” Zuckerberg wrote in his debut post on the platform. He also offered up his first tweet since January 2012, making a jibe at Twitter by using a popular Spiderman meme that appears to acknowledge that apps have a similar interface.
+
+Read More: How Meta’s New Platform Threads Compares to Twitter
+
+Users on the social media app can share posts of up to 500 characters, as well as links and multimedia. Much like Twitter, it has ‘like’ and ‘comment’ functions but no direct messages can be sent. Threads is linked to Instagram, Meta’s photo-sharing app with over 2 billion users, and allows users to sign up using their Instagram usernames and networks.
+
+Responding to a post asking if the app is likely to supersede Twitter, Zuckerberg wrote: “It’ll take some time, but I think there should be a public conversations app with 1 billion+ people on it. Twitter has had the opportunity to do this but hasn’t nailed it. Hopefully we will.”
+
+Musk also engaged with a tweet about Instagram on Thursday, writing: “It is infinitely preferable to be attacked by strangers on Twitter, than indulge in the false happiness of hide-the-pain Instagram.” Threads’ release comes as Musk has relaxed Twitter moderation efforts and lost 50% of its annual advertising revenue. Twitter has also pivoted to an $8 per month premium service for features that were once free on the platform, leaving many users hungry for an alternative like Threads.
+
+But despite the obvious appetite for the new app, privacy concerns have prevented Meta from rolling the app out in many European countries.
+
+Why isn’t Threads available in the European Union?
+The release of Threads in the European Union was postponed amid regulatory uncertainty about how the app will use personal data. This is because of the E.U.’s Digital Markets Act, which includes provisions for sharing user data across multiple platforms. Meta must await approval from the European Commission, the E.U.’s executive arm, before it can launch Threads in E.U. countries.
+
+According to the app’s own data privacy disclosure, Threads can collect information about a user’s health, finance, contacts, search history, location, and other sensitive information via their digital activity. The app can also forward data to third parties about a user’s sexual orientation, religious and political beliefs, race and ethnicity, body, and employment status.
+
+Read More: What to Know About Spill: The Black-Owned Twitter Alternative
+
+Once a user has committed to a Threads account it can’t be deleted without the user also losing the associated Instagram account. Users wishing to keep their Instagram account will only be able to deactivate their Threads page.
+
+According to Ireland’s Independent newspaper, a spokesperson for Ireland’s Data Protection Commission (DPC) said that the watchdog had been in contact with Meta about Threads and that the platform wouldn’t be rolled out in the E.U. “at this point.”
+
+Meta’s recent history with E.U. regulators
+Two recent rulings have highlighted data and privacy concerns about Meta’s operations in the E.U. On Tuesday, Luxembourg’s Court of Justice of the European Union (CJEU) ruled that a German watchdog may investigate privacy breaches in which user consent was not acquired before the company used personal data to target adverts to users.
+
+Additionally, in May, Ireland’s DPC, which regulates Meta across the E.U., ordered Facebook to stop the transfer of data from within E.U. to the U.S. and fined the tech giant a record 1.2 billion euros ($1.3 billion) for breaching General Data Protection Regulation (GDPR) laws. Meta said it would appeal the decision and claimed it had been “singled out” by the DPC despite many other businesses using similar data migration processes.
+
+“We are therefore disappointed to have been singled out when using the same legal mechanism as thousands of other companies looking to provide services in Europe,” wrote Nick Clegg, Meta’s president of global affairs, and Jennifer Newstead, the company’s chief legal officer, in a statement on May 22.
+
+The statement added: “This decision is flawed, unjustified and sets a dangerous precedent for the countless other companies transferring data between the EU and US.”
+
+In 2018, before it rebranded to Meta, Facebook made headlines when a whistleblower revealed that the company had allowed British consulting firm Cambridge Analytica to access the personal data of up to 87 million users and which was used to build psychological profiles of voters. Last year Meta agreed to pay out $725 million to settle a class action lawsuit relating to Cambridge Analytica and other third parties.

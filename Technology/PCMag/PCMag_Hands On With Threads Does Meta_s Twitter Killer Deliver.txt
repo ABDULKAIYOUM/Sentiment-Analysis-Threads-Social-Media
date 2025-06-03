@@ -1,0 +1,57 @@
+Finally, a competitor that could make a real dent in Twitter's waning domination of social media. Here’s how to get going with Threads from Meta's Instagram.
+
+Instagram Threads, the new Twitter-like social network from Meta, has a major advantage over its rivals thanks to a built-in audience of more than 2 billion Instagram users. As of Thursday afternoon, 30 million people had already signed up, according to Meta CEO Mark Zuckerberg.
+
+As chaos consumed Twitter following Elon Musk's takeover, I tried using Mastodon after a long break, and once again found it unusable because of its limited audience, clunky implementation, and user interface. Unusable is probably too strong, but it’s certainly not smooth and pleasant to navigate. In any case, Threads already has more users than Mastodon in just one day of its existence. As for Bluesky, I'm still waiting on the waitlist.
+
+Perhaps sheer momentum and incumbency will preserve Twitter’s status as the de facto public forum no matter how much its owner messes it up. But MySpace was once the leading social network and Napster was the top online music service, so things can change even when it seems in the moment that they will live on forever.
+
+How to Get Instagram Threads
+The first thing that struck me is that Threads isn’t available on the web, like Twitter. That's a big minus for me, since I like to not be hunched over a phone and squinting at my feeds. Currently, you can only view a Thread in a web browser from a link (like this from Instagram head Adam Mosseri(Opens in a new window)), though it seems that web access is in the works, The Verge reports(Opens in a new window), likely at Threads.net(Opens in a new window).
+
+For now, you can download Threads from the Google Play Store(Opens in a new window) and the iOS App Store(Opens in a new window). Or, open the Instagram app, tap the avatar icon on the bottom right, select the hamburger menu on the top right and tap Threads, which will redirect you to your phone's app store.
+
+Tapping the Threads entry launches a rotating image with an @ sign on one side and date, timestamp, username, and QR code on the other. None of that matters, though. It’s just eye candy. The only thing that matters is the Get Threads button at the bottom. Tap it and you’re taken to the app store to download Threads.
+
+Tap Install/Get just as you normally would, launch the app, and log in with your Instagram account. (You can switch accounts if you have multiple accounts.)
+
+After a brief Get ready for Threads delay, it’s time to set up your new Profile page. You can fill in a new profile picture, Bio, and add a link, or simply import all this from your Instagram account.
+
+As with Twitter and Instagram, you can make your account public or private. I have never understood why anyone would join a public forum but not share their thoughts with the public, unless they wanted to simply observe what other public accounts are sharing. Maybe they want a private network among just their friends and family? I set mine to public.
+
+To change it later, tap the chathead on the bottom right, select the two-line settings menu, tap Privacy and toggle Private profile to your preferred setting.
+
+How Do You Follow People on Threads?
+The next step is to choose people to follow. You can select any of the accounts you follow on Instagram, or follow them all at once. I’ve blurred the usernames in the screenshot below, even though most would be happy for more followers. I chose to follow all.
+
+Next, you're presented with some facts about the service:
+
+The most interesting bit here is that Threads will work with the fediverse. That means it's compatible with Mastodon and a bunch of other Twitter-like social networks. Aside from that, we already know that Threads is part of Instagram and Meta and that it makes its living with targeted advertising.
+
+If that hasn’t given you second thoughts, you have one last chance to back out. For now, you can't delete a Threads account without losing your Instagram account; you can only deactivate. Otherwise, tap Join Threads, as I did.
+
+The final option is whether to allow the app to send notifications to your phone. I usually turn this off for social media apps, but tried enabling it to see just how annoying it would become.
+
+First Look at the Threads Interface
+Threads' interface did not impress me at first glance. It was a blank white page. I guessed no one in my Instagram contacts had posted anything in the new social media app.
+
+This struck me as funny, since I’d been hearing from people that you can’t see a feed of just those you follow. A fellow PCMagger did not follow her Instagram follows on Threads and her Threads feed populated with posts from random celebs and other accounts she didn't follow on Instagram.
+
+The red dot below the heart icon gave me hope for some kind of content, though. Indeed, it led to a page (shown below) where I could confirm following all my followers and follow requesters. So, it seemed that when I chose to follow all the same accounts I follow on Instagram, it was actually just requesting to follow them. I wish I could confirm all in one step here as well. I then realized that I immediately had over 30 followers, whereas after a year of using Mastodon I still have only 44. Even after confirming everyone, though, I still had a blank white feed page. What gives?
+
+I decided to do a post, which the app calls a Thread. It seems to emphasize that you’re starting a conversation rather than proclaiming something. After posting my first Thread, my feed quickly populated with Threads from those I’d confirmed and others I follow on Instagram. It seems that you need to start one Thread before you can see your feed; at least that was my experience. Here’s the page where you start a new Thread: 
+
+It’s a clean and clear interface design. Posts can be up to 500 characters long and include links, photos, and videos up to 5 minutes in length. You attach an image or video by tapping the standard paperclip icon. The app supports high-res 4K content, as Marques Brownlee points out(Opens in a new window).
+
+How to Read Your Threads Feed
+As you can see from the screenshot above, you can heart, reply, reshare, and send a Thread. You can also @ another user in a Thread. The Send button offers the choice of adding a Thread to your Instagram story or feed, to copy a link to the Thread, or share via your phone’s share sheet.
+
+Much has been made of the “algorithm” Instagram uses to determine the order in which it shows content. It will take time to see how this works out, but I was pleased with the Threads in my feed, all of which were from Instagram accounts I follow.
+
+A couple of important Twitter features are as yet missing from Threads. For one, there’s no use of hashtags to set a topic (or search for one for that matter) for your post. Similarly, there is no Trends list. If you go to the Search page, it’s just for finding user accounts. These are features that I feel Meta will add to the service at some point. You should be able to search for posts on a topic, not just for accounts. I expect the company knows this; Mark Zuckerberg posted a Thread(Opens in a new window) saying, “We’ve got a lot of work ahead to build out the app.”
+
+Does Threads Support Links?
+One of the biggest beefs I have about Instagram is that it doesn’t allow links in posts. One gets tired of seeing “Click on the link in profile page.” Though in some ways this makes Instagram less of a marketing tool (though let’s be honest, a great deal of Instagram is marketing and promotion), it’s still an irksome limitation. On Threads, you can post a web link as a Thread and it expands to show the top image, as you can with Twitter.
+
+Should You Join Threads?
+If you’re dissatisfied with the limitations of Instagram, turned off by the unsavory path Twitter has taken, unimpressed by Mastodon’s lack of usability, and uninvited to Bluesky, then Threads may be just the ticket for you. Of course, you’ll need an Instagram account to get started, but that doesn’t mean you have to use Instagram’s app. If you’re a security-and-privacy head, you’ll probably want to stay clear of Threads. Though in that case you should stay clear of Twitter as well; Mastodon is your jam. But the broader user base as well as the much slicker, smoother app design of Threads will appeal to many, present company included. I was impressed with how much engaging activity and content was already on the service on day one.

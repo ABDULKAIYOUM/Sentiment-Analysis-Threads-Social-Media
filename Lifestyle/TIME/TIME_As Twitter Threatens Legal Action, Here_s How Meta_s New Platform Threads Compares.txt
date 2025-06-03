@@ -1,0 +1,65 @@
+Meta’s new text-based app Threads has joined a flood of new platforms looking to take market share from Twitter as the Elon Musk-owned company seeks to find a way toward profit under its new CEO Linda Yaccarino.
+
+Twitter has reportedly already sent Meta a letter raising concerns that Meta had engaged in “unlawful misappropriation” of its trade secrets and threatening legal action, Semafor reported. In response, a Meta spokesperson reportedly posted: “No one on the Threads engineering team is a former Twitter employee — that’s just not a thing.”
+
+Earlier on Thursday, Meta CEO Mark Zuckerberg said that the new app, available on Apple’s app store, Google Play and on the web, had seen 30 million sign-ups.
+
+Experts say the app, which is nearly identical to Twitter and has been billed by many as a “Twitter-killer,” is more than just another copycat, app: It’s also a reflection of a longstanding rivalry between two titans of the tech industry. “This latest entry is just an example of what has been a continuing rivalry between the two [companies],” says Darrell West, senior fellow at the Brookings Institution’s Center for Technology Innovation.
+
+More from TIME
+Other rivals to Twitter include Mastodon, Twitter co-founder Jack Dorsey’s Bluesky, and Spill, the Black-owned social media app.
+
+Read More: What to Know About Spill: The Black-Owned Twitter Alternative
+
+How to sign up for Threads
+“Whether you’re a creator or a casual poster, Threads offers a new, separate space for real-time updates and public conversations,” Meta said in a post. “Our vision with Threads is to take what Instagram does best and expand that to text, creating a positive and creative space to express your ideas.
+
+Threads is available for free download on iOS and Android in over 100 countries. Users can also sign up directly through the Instagram app by tapping the hamburger icon (three lines) on the top right of their profile and clicking “Threads” to be navigated to the app store.
+
+Read More: Why Twitter Rival Threads Isn’t Available in the E.U.
+
+The app will prompt users to log in with their Instagram accounts, and add profile information, like a profile picture and bio, or merge them from their Instagram. Users can then set their account’s privacy settings and find accounts to follow.
+
+Once a user has set up a profile on Threads, it can only be deleted if the associated Instagram account is also deleted.
+
+How Threads Compares to Twitter
+Threads is functionally identical to Twitter— and that’s the point. Meta executives reportedly touted the platform as a “sanely run” alternative to Twitter, The Verge reported. New platforms are not trying to reinvent the wheel as much as they are trying to replicate what Twitter used to be like before the app was plagued with technical issues, constantly changing strategy and criticism over content moderation, as Musk laid off roughly half the company’s workforce.
+
+Read More: A Brief History of Elon Musk Saying One Thing and Doing Another at Twitter
+
+“[There were] various needs that were being backed by the pre-existing systems…now folks are casting about to see if any of these new systems will meet those existing needs.” says Kevin Driscoll, assistant professor at the University of Virginia’s Department of Media Studies.
+
+Thread’s users will be able to sign up through their Instagram accounts, and will be able to keep their Instagram usernames and easily re-follow the same accounts on the new platform.
+
+Users can write posts of up to 500 characters—compared to Twitter’s 280 character-limit—and include links, photos, and videos up to 5 minutes in length. (Users of the paid subscription option Twitter Blue have a longer character limit of up to 25,000 on their posts.) The Threads algorithm is similar to Twitter’s and Instagram’s, and will show users a mix of content from followers and recommended content Vox reported.
+
+Responding to a question about whether Threads could eventually become bigger than Twitter, which has established a reputation as the world’s digital town square, Zuckerberg posted: “It’ll take some time, but I think there should be a public conversations app with 1 billion+ people on it. Twitter has had the opportunity to do this but hasn’t nailed it. Hopefully we will.”
+
+Unlike Twitter and Instagram, the service does not currently have any discovery features or options to send direct messages. The only way to view new posts on Threads is by scrolling through a feed.
+
+In a cluttered landscape, Meta’s reputation will give it a leg up against competitors like Mastodon and Bluesky, experts say. “’It’s an advantage to be associated with a big brand,” says West. “Threads is not going to be a niche player.”
+
+Meta’s reputation isn’t entirely positive, though. It has faced its own share of controversy, such as criticism of the spread of misinformation on its platforms—including during the Jan. 6 riots in the U.S. Capitol—and the Cambridge Analytica scandal. In 2021, disclosures by whistleblower Frances Haugen sparked a reckoning over what the company knew about how it contributed to harms ranging from Instagram’s impact on teenagers’ mental health and the extent of misinformation on its platforms, to human traffickers’ open use of its services.
+
+The historic rivalry between Meta and Twitter
+Threads is launching at a challenging time for Twitter under Musk’s leadership. In the immediate days after Musk’s $44 billion purchase of the company in October, the firm Bot Sentinel, estimated that around 877,000 accounts were deactivated and a further 497,000 were suspended.
+
+In the months since, the company has laid off thousands of workers, overhauled its verification process and relaxed its content moderation rules. Just last weekend, the platform announced it would be temporarily limiting the number of tweets users could view each day, a decision Musk said was taken to combat “extreme levels of data scraping.”
+
+“Twitter is very vulnerable. They’ve lost a huge amount of their advertising revenue and they’ve had to lay off a big percentage of their staff,” says West. “There’s a lot of user discontent on the platform. So the time is ripe for a competing product to move into this space.”
+
+Yaccarino, who worked as an advertising executive for many years, is expected to be focused on repairing the company’s reputation with advertisers as the company seeks to return to profitability.
+
+Read More: The 7 Biggest Challenges Twitter’s New CEO Faces
+
+Twitter, which last reported a profit in 2019, has long been an underdog among tech giants. It is dwarfed in size by the likes of Meta, which has a market value of around $760 billion. One recent estimate put Twitter’s valuation at just $15 billion—nearly a third of what Elon paid for it. Zuckerberg offered to buy Twitter during the company’s early days for ​​$500 million, but his bid was rejected.
+
+“Twitter has been David fighting the Goliath of Meta for many years,” says West. “There’s a long history of competition between the two firms.”
+
+Tensions between Musk and Zuckerberg simmering for years. In 2016, Zuckerberg said he was “deeply disappointed” after one of Musk’s SpaceX rockets hit a satellite Facebook was using to bring internet access to developing nations.
+
+Earlier this year, Musk tweeted that “Instagram makes people depressed,” and previously deleted the Facebook pages for Tesla and SpaceX, calling the platform “lame.”
+
+The two billionaires hold strongly opposing views on artificial intelligence. In 2017, Musk tweeted that Zuckerberg’s understanding of the threat of artificial intelligence “is limited.” In March, Elon Musk signed an open letter urging for a six-month pause in AI development. Zuckerberg, on the other hand, is trying to implement generative AI into Meta’s products, though the company has seen many of its AI researchers leave in the past year, the Wall Street Journal reported. (Musk’s longer term ambitions in the AI space remain unclear.)
+
+Now, the two are looking to take their battle offline. After news about Threads began to emerge, Musk challenged Zuckerberg to a physical fight tweeting that he was “up for a cage match if he is lol.” Zuckerburg responded by posting a screenshot of the tweet on his Instagram Stories along with the caption “send me location.” The Meta CEO has said he’s been practicing martial arts since the start of the pandemic and has won medals in Brazilian jiu-jitsu. Musk, meanwhile, has reportedly begun training for the fight.

@@ -1,0 +1,25 @@
+date_published=11:00 PM GMT, July 5, 2023
+published_by=KELVIN CHAN
+title=Meta’s new Twitter rival app Threads gets tens of millions of sign-ups in its first day
+body=Tens of millions of people have quickly signed up to Meta’s new app, Threads, as it aims to compete with Twitter — a sign that users are looking for an alternative to the social media platform that has undergone a series of unpopular changes since Elon Musk bought it.
+Meta Platforms’ CEO Mark Zuckerberg said Thursday that 30 million people had registered for the app, including 10 million in the first seven hours of its launch Wednesday in the U.S. and over 100 other countries, including Britain, Australia, Canada and Japan.
+Threads is billed as a text-based version of Meta’s photo-sharing app Instagram that the company says provides “a new, separate space for real-time updates and public conversations.” 
+Instagram users can log in with their existing usernames and follow the same accounts on the new app, giving Threads users a ready-made audience and an edge over other Twitter challengers like Bluesky and Mastodon.
+“I think I’ll just see — I’ll keep Twitter for a while and then if everyone moves over there (to Threads), then I’ll probably move,” said Javi de Andreas, a 24-year-old researcher in London.
+He added that Instagram “feels like a bit more reliable just in terms of nothing really changes.”
+There was plenty of excitement among Threads users about the opportunity to make a fresh start on a new social media app, giving Threads a “first day of school” vibe.
+Early adopters included celebrities like chef Gordon Ramsay, pop star Shakira and actor Jack Black as well as Airbnb, Guinness World Records, Netflix, Vogue magazine and other media outlets.
+There were also glitches, annoyance about the lack of a chronological feed and gripes about missing features — raising the question of whether the initial burst of interest would lead to sustained growth that could pose a meaningful challenge to Twitter.
+“The euphoria around a new service and this initial explosion will probably settle down,” said Paolo Pescatore, a technology analyst at PP Foresight. “But it is apparent that this alternative is here to stay and will prove to be a worthy rival given all of Twitter’s woes.”
+Teething problems for Threads include Zuckerberg’s posts — or Threads as they’re dubbed — not loading in several countries. But his replies to other users did appear.
+Instagram CEO Adam Mosseri acknowledged the early issues. 
+“The real test is not if we can build up a lot of hype, but if you all find enough value in the app to keep using it ove time,” Mosseri posted in a thread.
+“And there are tons of basics that are missing: search, hashtags, a following feed” and direct messaging, he said. “We’re on it,” but ”it’ll take time.”
+Threads does have buttons to like, repost, reply to or quote a thread, and users see the number of likes and replies a post has received. Posts are limited to 500 characters, which is more than Twitter’s 280-character threshold for most users, and can include links, photos and videos up to five minutes long.
+Some questioned whether it made sense to seek to combine Twitter and Instagram users, which are two distinct online groups. Twitter is tailored for quick and short updates, while Instagram is best for visually creative posts.
+“Some people will want to keep it separate from Instagram for numerous and very good reasons,” Pescatore said. “This is something that Meta might have to address, which could halt its progress.”
+Meta’s new offering also has raised data privacy concerns. The company has held off on rolling it out in the European Union, citing regulatory uncertainty.
+The 27-nation EU has strict data privacy rules and is set to start enforcing a new set of digital rules aimed at clamping down on Big Tech companies and limiting what they can do with users’ personal information.
+Threads could collect a wide range of personal information, including health, financial, contacts, browsing and search history, location data, purchases and “sensitive info,” according to its data privacy disclosure on the App Store.
+Threads poses a fresh headache for Musk, who acquired Twitter last year for $44 billion. Analysts said combining Twitter-style features with Instagram’s look and feel would drive user engagement.
+Musk has made a series of changes that have triggered backlash, the latest being daily limits on the number of tweets people can view to try to stop unauthorized scraping of potentially valuable data.

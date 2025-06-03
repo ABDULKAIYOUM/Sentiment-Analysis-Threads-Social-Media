@@ -1,0 +1,33 @@
+Just sixteen hours after launch, Instagram’s text-based social network Threads has already surpassed 30 million sign-ups, Meta CEO Mark Zuckerberg said early Thursday. It was also the top free app in Apple’s App Store as of Thursday morning.
+
+The app is Meta’s answer to Twitter, which has seen some of its users and advertisers flee since billionaire Elon Musk acquired the social media platform. On Saturday, Twitter began limiting the number of posts users can read per day to address “extreme levels of data scraping,” which only served to further frustrate users.
+
+A number of Twitter alternatives have emerged in recent months, including decentralized messaging app Mastodon and Bluesky, which is backed by Twitter co-founder Jack Dorsey. But neither platform has been able to match Twitter’s user base and popularity.
+
+Threads may have an easier time attracting users. It’s built on top of Instagram and is automatically linked to a user’s account on the photo-sharing app. Initially, users could only access the service through a roundabout way in the Instagram app. But as of Thursday, the app is available for download from Apple’s App Store, and it’s free to use.
+
+Users are required to have an Instagram account in order to use Threads. Once you download the app, it will prompt you to login using your Instagram account. From there, Threads will automatically port over your Instagram username, but you can still customize your profile.
+
+Threads gives you the option to automatically follow all of the same accounts you follow on Instagram, or just a few of them, so that you don’t have to painstakingly locate all your friends and followers on Threads.
+
+Meta is pitching Threads as Instagram’s “text-based conversation app.” And in many ways, Threads looks very similar to Twitter.
+
+Users primarily post text-based messages, or “threads,” that are limited to 500 characters each. You can tag specific users in a thread by using the @ symbol in front of their username. Users can limit replies on their thread to only their followers, or people they’ve tagged in the post. You can also include photos or videos in a thread.
+
+Threads appear in a scrolling feed, where users can like, reply, repost or quote other users’ threads.
+
+Threads may look a lot like its rival, but it’s missing some critical features.
+
+The most glaring omission is direct messaging, or DMs. One-on-one, private messaging is a hallmark of nearly every other major social media network, including Twitter and Meta’s own Instagram and Facebook. Threads didn’t launch with direct messaging, which can pose a problem for journalists, who often receive messages from potential sources, or for brands, which can offer customer service through social media messaging.
+
+The Threads feed pulls in posts from all users, not just the ones you follow. It can be hard to find the content posted by the users or brands that you’ve followed, and as of now, there’s no way to change the way the feed loads.
+
+Like Instagram, Threads isn’t serving up posts in a chronological order. Content is apparently algorithmically ranked and served up to users no matter what time it’s posted.
+
+There are also no paid ads in Threads, yet. Many brands have already joined up, though. Instagram head Adam Mosseri, who oversees the new app, told the Verge that advertising would be a “champagne problem” if Threads is able to scale.
+
+Threads also lacks the ability to include hashtags in posts. Hashtags are a core feature of Twitter, and have made it easy for users to discover posts under a certain topic, as well as surface trending content in one place. Similarly, Threads doesn’t have a feature that allows users to search for specific text or phrases.
+
+Another key differentiator is that Threads doesn’t have a desktop website, so you can only access the service via iOS or Android apps.
+
+There’s also one significant downside to Threads being linked to Instagram. For now, Meta says there’s no way to delete your Threads account without also deleting your Instagram account.

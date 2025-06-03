@@ -1,0 +1,37 @@
+Threads is easy to use, but comes with some major caveats.
+
+This week, Meta launched its new social media app, called Threads. This Twitter-like network lets users post short text blurbs along with images and videos. It’s an obvious move to win over Twitter’s fractured user base, which overwhelmingly opposes many of the changes Musk has made since he took over the Bird App in 2022. Many users are jumping ship to other Twitter-like apps, some of which have also only cropped up in recent months. Threads is the newest option, and with Meta’s muscle behind it, it is definitely a contender.
+
+Unlike other Twitter alternatives, Threads runs on a pre-existing social media network—specifically Instagram (and Facebook). While there are pros and cons to this approach, it gives Threads a major advantage over other Twitter clones: millions of users already technically have an account. It’s also simpler to use than federated Twitter alts like Mastodon, and it’s publicly available, unike buzzy upstarts Bluesky and Spill, which are still in closed beta and require invite codes.
+
+So while you’ll have to deal with the possibility your Facebook and Instagram-loving relatives could find and follow you on Threads, it is certainly the easiest of the new Twitter replacements to join right now—as long as you’re cool with some of the app’s questionable privacy practices.
+
+How to join and use Threads
+To sign up for Threads, you first need an Instagram account. If you already have one, then all you need to do is download the Threads app from the iOS App Store or Google Play Store. Sign in with your IG account when prompted.
+
+You will then have the option to import your bio and profile picture from Instagram, and auto-follow everyone from your Instagram follows list that has signed up for Threads.
+
+After that, you’re free to start posting…or “threading?” “Thweeting?” I’m not really sure what the user base has landed on yet.
+
+Is Threads any good?
+It’s easy to start using Threads, but what’s it actually like to use? Honestly, not great.
+
+As someone with accounts on Bluesky, Hive, Spill, and now Threads, Threads is by far the least interesting Twitter replacement I’ve tried so far. By default, there is only one feed, sorted algorithmically, that shows people you follow and posts Threads thinks you may like based on your user data. (I hope you like seeing engagement bait from random accounts with huge followings.) There is currently no option to sort your feed chronologically or by follows-only. You can mess with your settings to change what notifications the app will send you, but threads from people you don’t follow will still show up in your feed.
+
+Twitter vets will also notice a lack of common features compared to the Bird App, such as DMs or the ability to view replies directly in your feed, to name a few. Threads does have a search function, but it’s barebones and mostly useful for looking up usernames.
+
+Thankfully, the app does have a few privacy controls, including the ability to mute and block accounts, hide specific words, limit who can mention your account, and the option to turn your profile private. These can all be found in the app under Settings > Privacy.
+
+Meta says more features are on the way—including a following-only tab for your feed—but it’s frankly not a great experience right now, especially compared to others like Bluesky or even Hive.
+
+I’m willing to cut Meta some slack on Threads’ slim features and lack of curation options at launch, but there are other major caveats to be aware of before signing up.
+
+Things to know before using Threads
+First is Threads’ privacy policy. The app collects tons of user data—so much that the app is banned in the EU at launch.
+
+While you can limit some data collection in your Instagram account settings or your phone’s permissions, certain data collection is required to use Threads. Collecting that much personal data is a security concern, as leaks or data breaches could see portions of that data stolen or exposed (or handed over to the government and law enforcement agencies without your knowledge).
+
+Deleting your Threads account means deleting your Instagram too
+If that concerns you, I recommend skipping Threads for now—especially since the only way to delete your Threads account is by deleting your Instagram account too. Yes, really. At least for now.
+
+While you can deactivate profile your Threads account under Settings > Account > Deactivate Profile and remove the app from your phone, your account will still exist until you completely delete Instagram as well—so make sure you really want to use Threads before signing up.

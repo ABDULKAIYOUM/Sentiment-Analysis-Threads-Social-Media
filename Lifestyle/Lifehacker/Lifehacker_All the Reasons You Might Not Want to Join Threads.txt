@@ -1,0 +1,33 @@
+Take some time to consider before joining Threads. You might not like it there.
+
+There are over 100 million users and counting. But if you’re not on Threads yet, you probably have your reasons—or are waiting to really consider if joining Threads is right for you. Twitter alternatives come in many shapes and forms, and this one is basically Instagram with a Twitter skin.
+
+Here are some of the most important reasons why you might not want to join Threads.
+
+Threads has the privacy policy of every Meta app
+Just because Twitter is a shitshow doesn’t make Meta less evil. Threads might look like Twitter and be easy to join, but it’s worth remembering that it’s a Meta app. And while Threads doesn’t have ads right now, the data collection policies still apply.
+
+Compared to alternatives like Bluesky and Mastodon, Threads collects hell of a lot of data. If you’re using the latest version of Android, you can disable some of the data access, but still, Threads will collect things like your purchase history, browsing history, your unique user identifying information, and store it all on its servers for ads across its platforms. Ars Technica has compiled the entire list of all the data that Threads collects.
+
+It’s also important to note that its data that—according to App Store descriptions—“may” be linked to you. Installing Threads won’t necessarily give it access to your health data, purchase history, or locations, but if you end up sharing that information via the Threads app, Meta can use it to link that information to you. So if you’re using the Threads app, be careful of how much access you’re giving it and what data you’re sharing on the platform.
+
+It’s algorithms, all the way down
+As it stands, Threads has no Following feed. When you first open the app, even after following a lot of people, it’s going to feed you its algorithm and show you “popular” or “engaging” posts—not posts from people you follow. And because Threads is so new, the algorithmic feed isn’t that great.
+
+There are still no hashtags either, so you can’t actually see or follow trends, and you can’t search through the app. The second you refresh the feed, it serves more of the algorithm’s content.
+
+Threads is a silo without meaningful connection
+When you use a social network like Twitter or Mastodon, you feel connected with the internet. Surprisingly enough, Threads is even more of a silo than the Instagram, which itself isn’t the best citizen of the open web.
+
+The only way to use Threads is by using its iPhone or Android app. You can’t easily find profile links to Threads users, nor can you embed Threads posts online (you can just share the URL). All you can do on the Threads desktop site is find a link to download the app.
+
+The Threads app itself was pushed out quickly and lacks basic features like GIFs and emojis. The alt-text for media is AI generated, and there’s no option to edit it manually, add more context, or fix something that the AI got wrong. And like I mentioned, there’s no Follower feed, hashtags, or trending topics.
+
+Threads is not a place for news, politics, or anything interesting
+In an interview with The Verge, Adam Mosseri, Instagram’s boss, said that Threads is “not going to do anything to encourage” politics and “hard news.” And after spending a couple of days on Threads, it feels true: Treads is not a place for discourse or finding stories that are interesting or unique. Threads may be more of a civil place to have a discussion, and you won’t run into as many extremist trolls, but if you want to engage in smaller sub-communities, you probably won’t find them.
+
+You can’t escape the influencers
+This is more of a “feel” than something tangible, but since the app isn’t focused on news, politics, real-time updates, or promoting communities, the result is a text-based Instagram app. And there’s nothing inherently wrong with that (the app is doing quite well, of course), but if that’s not what you’re looking for, you should be aware. You can’t escape the brands and influencers on your feed, no matter how many times you refresh or how many “real people” you follow. Dance videos, influencer content, and the same washed up memes will be on at the top of your feed.
+
+You can check out any time you like, but you can never leave
+For now, you can’t delete your Threads account without also nuking your Instagram account. You can deactivate your Threads account, but that’s basically it. That means all your personal data and posts will still be saved on Meta’s servers, ready to be indexed and used to serve you ads. And if you don’t want all that data on Meta’s servers, you’ll have to delete your Instagram account too. But, then again, if you cared that much about your privacy, you wouldn’t be on Meta apps at all, would you? 

@@ -1,0 +1,34 @@
+New York
+
+Two weeks after Meta launched its Twitter competitor Threads and received an unprecedented amount of user signups, the frenzy around the app appears to have come back to Earth.
+
+After surpassing 100 million user sign-ups in less than a week, user engagement on Threads has slowed. Threads daily active users fell from 49 million on July 7, two days after its launch, to 23.6 million users last Friday, according to a report published this week by web traffic analysis firm Similarweb. The app’s average usage time also fell from 21 minutes to 6 minutes over the same timeframe.
+
+The slowdown hints at the challenges ahead for Meta as it looks to not only draw users away from Twitter but build a service that reaches a far larger audience. Threads is already facing some of the common issues that often plague social media platforms, including user retention, spam and some early regulatory scrutiny around its approach to content moderation. It’s also not clear yet how much Meta’s investments in building Threads will actually amount to financial returns for the company.
+
+“I’m very optimistic about how the Threads community is coming together,” Meta CEO Mark Zuckerberg said in a post on the platform Monday. “Early growth was off the charts, but more importantly 10s of millions of people now come back daily … The focus for the rest of the year is improving the basics and retention.”
+Meta executives acknowledged in the early days after Threads’ launch that getting users to sign up for a buzzy new app is much easier than convincing them to continue engaging there long-term. That’s likely even more true for Threads, which launched as a relatively bare-bones app in an effort to capitalize on a moment of weakness at Twitter and also tapped into Instagram’s network to ease the sign-in process.
+
+Threads on Tuesday rolled out its first batch of updates to the iOS version of the app, including a translation button, a tab on users’ activity feed dedicated to showing who’s followed them and the option to subscribe and receive notifications from accounts a user doesn’t follow.
+
+Instagram head Adam Mosseri, who is overseeing the Threads launch, has also hinted at plans to add features such as a desktop version of the app, a feed of only accounts a user follows and an edit button. “We’re clearly way out over our skis on this,” Mosseri said in a Threads post the week of the app’s launch.
+
+In the meantime, Threads is grappling with a common social media issue — spam. Users have complained of replies to posts filling up with spammy links and offering “giveaways” in exchange for new followers. And on Monday, Mosseri said in a Threads post that the platform was “going to have to get tighter on things like rate limits” because “spam attacks have picked up.”
+
+This “is going to mean more unintentionally limiting active people (false positives),” Mosseri warned. “If you get caught up [in] those protections let us know.”
+
+Meta declined to clarify whether Mosseri’s post refers to limits on users’ ability to post or read content, or to provide any additional details. But the comment did prompt some snark from Twitter owner Elon Musk, after backlash to Twitter’s own rate limits — restrictions on how many tweets users can read — helped propel Threads’ early growth.
+
+Uncertain impact on Meta’s business
+Meta shares have jumped more than 6% since the Threads launch, but some analysts who follow the company are skeptical that Threads will quickly contribute to the company’s bottom line, if at all.
+
+Threads could be a way for Meta to eke additional engagement time out of its massive existing user base. The app could also ultimately supplement Meta’s core advertising business, which could use a boost after facing challenges from a broad decline in the online ad market and changes to Apple’s app privacy practices.
+Meta executives have said they will likely incorporate advertising into the platform, once its user base has reached critical mass. But even if Threads continues to add users, “advertisers could be hesitant and possibly wait before allocating ad dollars to Threads because of their uncertainty about long-run user retention and engagement,” Morningstar senior equity analyst Ali Mogharabi said in a recent investor note.
+
+Like Twitter, Threads could also struggle to attract advertisers because the nature of a real-time news and public conversations app means the content is sometimes negative or controversial. Even before Musk took over Twitter and alienated advertisers, the platform represented a tiny piece of the ad sales market compared to Meta’s properties.
+
+Threads, however, likely has a leg up on Twitter because Meta is known as a company that provides clear value for advertisers, said Scott Kessler, global tech sector lead at research firm Third Bridge. If anything, he said, the risk may be that some advertisers may think twice about spending on yet another Meta platform versus diversifying their ad strategy.
+
+For now, analysts will be awaiting Meta executives’ commentary about Threads during its quarterly earnings call next week, including to see if they offer any hints about whether ads may be rolled out on the app ahead of the crucial holiday shopping season.
+
+“They launched this in July,” Kessler said. “That should give them enough time to build out sufficient tools for holiday shopping season advertising.”

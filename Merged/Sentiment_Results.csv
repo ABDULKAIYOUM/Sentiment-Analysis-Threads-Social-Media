@@ -1,0 +1,149 @@
+Category,File Path,Negative,Neutral,Positive,Compound
+Mainstream,E:\Study\TUD\Computational Knowledge Analysis\Term Paper\Corpus\Mainstream\AP\clone-or-competitor.txt,0.053,0.825,0.123,0.997
+Mainstream,E:\Study\TUD\Computational Knowledge Analysis\Term Paper\Corpus\Mainstream\AP\elon-musk-puts-limits-on-tweets.txt,0.08,0.829,0.092,0.8133
+Mainstream,E:\Study\TUD\Computational Knowledge Analysis\Term Paper\Corpus\Mainstream\AP\meta-new-twitter-rival.txt,0.025,0.887,0.088,0.9914
+Mainstream,E:\Study\TUD\Computational Knowledge Analysis\Term Paper\Corpus\Mainstream\AP\meta-planing-to-target-twitter.txt,0.038,0.906,0.056,0.7783
+Mainstream,E:\Study\TUD\Computational Knowledge Analysis\Term Paper\Corpus\Mainstream\AP\musk-reveals-new-logo.txt,0.032,0.891,0.077,0.9941
+Mainstream,E:\Study\TUD\Computational Knowledge Analysis\Term Paper\Corpus\Mainstream\AP\reluctant-twitter-users.txt,0.032,0.851,0.117,0.9987
+Mainstream,E:\Study\TUD\Computational Knowledge Analysis\Term Paper\Corpus\Mainstream\AP\twitter-losing-cash-say-musk.txt,0.094,0.83,0.076,-0.7351
+Mainstream,E:\Study\TUD\Computational Knowledge Analysis\Term Paper\Corpus\Mainstream\AP\twitter-threatens-meta.txt,0.04,0.888,0.073,0.9152
+Mainstream,E:\Study\TUD\Computational Knowledge Analysis\Term Paper\Corpus\Mainstream\AP\twitter-to-change-logo.txt,0.073,0.889,0.039,-0.9808
+Mainstream,E:\Study\TUD\Computational Knowledge Analysis\Term Paper\Corpus\Mainstream\AP\what-is-threads.txt,0.027,0.909,0.063,0.9936
+Mainstream,"E:\Study\TUD\Computational Knowledge Analysis\Term Paper\Corpus\Mainstream\BBC\BBC_ Thirty million join Meta_s Twitter rival Threads, Zuckerberg says.txt",0.032,0.931,0.037,0.2989
+Mainstream,E:\Study\TUD\Computational Knowledge Analysis\Term Paper\Corpus\Mainstream\BBC\BBC_Can Threads make more money than Elon Muskíªs Twitter.txt,0.077,0.8,0.123,0.9918
+Mainstream,E:\Study\TUD\Computational Knowledge Analysis\Term Paper\Corpus\Mainstream\BBC\BBC_Facebook owner Meta plans to create Twitter rival.txt,0.034,0.908,0.058,0.7826
+Mainstream,E:\Study\TUD\Computational Knowledge Analysis\Term Paper\Corpus\Mainstream\BBC\BBC_Instagram_s Threads- _Almost every influencer will be hopping on it_.txt,0.037,0.808,0.155,0.9979
+Mainstream,E:\Study\TUD\Computational Knowledge Analysis\Term Paper\Corpus\Mainstream\BBC\BBC_Meta plans feed for Threads after users complain.txt,0.05,0.882,0.068,0.6753
+Mainstream,E:\Study\TUD\Computational Knowledge Analysis\Term Paper\Corpus\Mainstream\BBC\BBC_Threads app signs up 100m users in less than a week.txt,0.054,0.894,0.052,-0.7698
+Mainstream,E:\Study\TUD\Computational Knowledge Analysis\Term Paper\Corpus\Mainstream\BBC\BBC_Threads could cause real problems for Twitter.txt,0.07,0.83,0.1,0.9864
+Mainstream,E:\Study\TUD\Computational Knowledge Analysis\Term Paper\Corpus\Mainstream\BBC\BBC_Threads- Instagram owner to launch Twitter rival on Thursday.txt,0.037,0.88,0.082,0.9595
+Mainstream,E:\Study\TUD\Computational Knowledge Analysis\Term Paper\Corpus\Mainstream\BBC\BBC_Threads- Twitter threatens legal action over Meta_s new app.txt,0.043,0.863,0.093,0.9899
+Mainstream,E:\Study\TUD\Computational Knowledge Analysis\Term Paper\Corpus\Mainstream\BBC\BBC_Why your favourite brand may be taking a social media break.txt,0.081,0.83,0.089,0.2039
+Mainstream,"E:\Study\TUD\Computational Knowledge Analysis\Term Paper\Corpus\Mainstream\CNBC\CNBC_As Twitter continues to implode, advertisers pin their hopes on Threads.txt",0.043,0.862,0.095,0.9869
+Mainstream,E:\Study\TUD\Computational Knowledge Analysis\Term Paper\Corpus\Mainstream\CNBC\CNBC_Mark Zuckerbergíªs Twitter rival passed 30 million sign-ups overnight íX hereíªs how to use Metaíªs Threads app and whatíªs miss.txt,0.041,0.881,0.078,0.9749
+Mainstream,E:\Study\TUD\Computational Knowledge Analysis\Term Paper\Corpus\Mainstream\CNBC\CNBC_Meta launches Instagram Threads in a direct challenge to Twitter.txt,0.015,0.927,0.058,0.9854
+Mainstream,E:\Study\TUD\Computational Knowledge Analysis\Term Paper\Corpus\Mainstream\CNBC\CNBC_Meta rolls out first feature update to Threads since launch earlier this month.txt,0.0,0.864,0.136,0.9823
+Mainstream,"E:\Study\TUD\Computational Knowledge Analysis\Term Paper\Corpus\Mainstream\CNBC\CNBC_Meta Threads doesníªt need the íÑnegativityíª of hard news and politics, exec says.txt",0.081,0.861,0.058,-0.6756
+Mainstream,"E:\Study\TUD\Computational Knowledge Analysis\Term Paper\Corpus\Mainstream\CNBC\CNBC_Meta Threads engagement has dropped off since red-hot debut, tracking firms say.txt",0.014,0.84,0.146,0.9986
+Mainstream,E:\Study\TUD\Computational Knowledge Analysis\Term Paper\Corpus\Mainstream\CNBC\CNBC_Metaíªs Threads just got an update that users have been begging for.txt,0.012,0.91,0.078,0.941
+Mainstream,E:\Study\TUD\Computational Knowledge Analysis\Term Paper\Corpus\Mainstream\CNBC\CNBC_Threads has lured some creators who never loved Twitter íX now Meta has to keep them.txt,0.032,0.809,0.159,0.9997
+Mainstream,E:\Study\TUD\Computational Knowledge Analysis\Term Paper\Corpus\Mainstream\CNBC\CNBC_Twitter accuses Meta of stealing trade secrets for its new Threads app.txt,0.039,0.924,0.038,-0.09
+Mainstream,E:\Study\TUD\Computational Knowledge Analysis\Term Paper\Corpus\Mainstream\CNBC\CNBC_Twitter traffic is íÑtankingíª as Metaíªs Threads hits 100 million users.txt,0.017,0.932,0.051,0.9097
+Mainstream,E:\Study\TUD\Computational Knowledge Analysis\Term Paper\Corpus\Mainstream\CNN\CNN_Elon Musk jet-tracking account moves to Twitter rival Threads.txt,0.032,0.914,0.054,0.9239
+Mainstream,"E:\Study\TUD\Computational Knowledge Analysis\Term Paper\Corpus\Mainstream\CNN\CNN_Meta cut election teams months before Threads launch, raising concerns for 2024.txt",0.062,0.847,0.091,0.9878
+Mainstream,E:\Study\TUD\Computational Knowledge Analysis\Term Paper\Corpus\Mainstream\CNN\CNN_Meta officially launches Twitter rival Threads. 30 million have joined already.txt,0.03,0.862,0.108,0.9961
+Mainstream,E:\Study\TUD\Computational Knowledge Analysis\Term Paper\Corpus\Mainstream\CNN\CNN_Meta takes aim at Twitter with new Threads app.txt,0.03,0.868,0.102,0.9825
+Mainstream,E:\Study\TUD\Computational Knowledge Analysis\Term Paper\Corpus\Mainstream\CNN\CNN_Metaíªs Threads app rolls out first big batch of updates.txt,0.009,0.844,0.147,0.9907
+Mainstream,E:\Study\TUD\Computational Knowledge Analysis\Term Paper\Corpus\Mainstream\CNN\CNN_Metaíªs Threads upends social media in less than 48 hours.txt,0.071,0.818,0.112,0.9948
+Mainstream,E:\Study\TUD\Computational Knowledge Analysis\Term Paper\Corpus\Mainstream\CNN\CNN_Threads now has íÑtens of millionsíª of daily users. But its honeymoon phase may be over.txt,0.057,0.846,0.097,0.9881
+Mainstream,E:\Study\TUD\Computational Knowledge Analysis\Term Paper\Corpus\Mainstream\CNN\CNN_Twitter threatens to sue Meta after rival app Threads gains traction.txt,0.067,0.852,0.081,0.4157
+Mainstream,E:\Study\TUD\Computational Knowledge Analysis\Term Paper\Corpus\Mainstream\CNN\CNN_Twitteríªs future is in doubt as Threads tops 100 million users.txt,0.061,0.85,0.089,0.9794
+Mainstream,E:\Study\TUD\Computational Knowledge Analysis\Term Paper\Corpus\Mainstream\CNN\CNN_What is Threads Hereíªs what you need to know about the potential Twitter Killer.txt,0.043,0.822,0.135,0.999
+Mainstream,E:\Study\TUD\Computational Knowledge Analysis\Term Paper\Corpus\Mainstream\Guardian\TheGuardian_Could Metaíªs Threads deal a knockout blow to Twitter.txt,0.096,0.832,0.073,-0.9903
+Mainstream,"E:\Study\TUD\Computational Knowledge Analysis\Term Paper\Corpus\Mainstream\Guardian\TheGuardian_Mark Zuckerbergíªs Threads The app is vapid, boring and destined to fail.txt",0.08,0.79,0.13,0.9976
+Mainstream,E:\Study\TUD\Computational Knowledge Analysis\Term Paper\Corpus\Mainstream\Guardian\TheGuardian_Meta delivered íÑa major blowíª to Twitter. Will it flip the flailing firmíªs fortunes.txt,0.058,0.857,0.085,0.9785
+Mainstream,"E:\Study\TUD\Computational Knowledge Analysis\Term Paper\Corpus\Mainstream\Guardian\TheGuardian_TechScape With 100 million users, is Threads on course to finish off Twitter.txt",0.078,0.858,0.064,-0.9734
+Mainstream,E:\Study\TUD\Computational Knowledge Analysis\Term Paper\Corpus\Mainstream\Guardian\TheGuardian_Threads review Twitter without the rough edges or news.txt,0.08,0.782,0.138,0.9949
+Mainstream,E:\Study\TUD\Computational Knowledge Analysis\Term Paper\Corpus\Mainstream\Guardian\TheGuardian_Threads v Twitter íV is this the main bout between Musk and Zuckerberg.txt,0.092,0.837,0.071,-0.9603
+Mainstream,E:\Study\TUD\Computational Knowledge Analysis\Term Paper\Corpus\Mainstream\Guardian\TheGuardian_Twitter threatens to sue Meta over rival Threads app.txt,0.055,0.878,0.067,0.6533
+Mainstream,"E:\Study\TUD\Computational Knowledge Analysis\Term Paper\Corpus\Mainstream\Guardian\TheGuardian_We tried Threads, Metaíªs new Twitter rival. Hereíªs what happened.txt",0.033,0.853,0.114,0.9974
+Mainstream,E:\Study\TUD\Computational Knowledge Analysis\Term Paper\Corpus\Mainstream\Guardian\TheGuardian_Zuckerberg uses Threads to say Twitter has missed its chance.txt,0.069,0.83,0.101,0.9712
+Mainstream,E:\Study\TUD\Computational Knowledge Analysis\Term Paper\Corpus\Mainstream\Guardian\TheGuardian_íÑTwitter killeríª Threads app hits 100m sign-ups in less than five days.txt,0.036,0.882,0.083,0.9589
+Lifestyle,E:\Study\TUD\Computational Knowledge Analysis\Term Paper\Corpus\Lifestyle\Entrepreneur\Entrepreneur_Analysts Say _Twitter_s Traffic Is Tanking_ as Threads Hits 100 Million Users.txt,0.069,0.839,0.092,0.8765
+Lifestyle,E:\Study\TUD\Computational Knowledge Analysis\Term Paper\Corpus\Lifestyle\Entrepreneur\Entrepreneur_Threads to Implement Changes to Common Complaints After Hitting 100 Million Users.txt,0.036,0.874,0.089,0.9768
+Lifestyle,E:\Study\TUD\Computational Knowledge Analysis\Term Paper\Corpus\Lifestyle\Entrepreneur\Entrepreneur_Twitter_s Not Just Loosing To Threads But 3 Other Apps.txt,0.049,0.852,0.099,0.985
+Lifestyle,"E:\Study\TUD\Computational Knowledge Analysis\Term Paper\Corpus\Lifestyle\Entrepreneur\Entrepreneur__Competition Is Fine, Cheating Is Not_ Elon Musk Threatens to Sue Meta Over Threads _Copying_ Twitter.txt",0.076,0.851,0.072,-0.4774
+Lifestyle,E:\Study\TUD\Computational Knowledge Analysis\Term Paper\Corpus\Lifestyle\Entrepreneur\Entrepreneur__We Want To Do It Differently_ Mark Zuckerberg and Elon Musk Continue Feud as Meta Launches _Threads_.txt,0.032,0.887,0.081,0.7804
+Lifestyle,E:\Study\TUD\Computational Knowledge Analysis\Term Paper\Corpus\Lifestyle\GQ\GQ_Elon Musk vs Mark Zuckerberg All about the cage fight between the two tech titans.txt,0.081,0.817,0.103,0.9827
+Lifestyle,"E:\Study\TUD\Computational Knowledge Analysis\Term Paper\Corpus\Lifestyle\GQ\GQ_Meta Launches íÑThreadsíª, a New Platform to Compete With Twitter.txt",0.025,0.815,0.16,0.9862
+Lifestyle,E:\Study\TUD\Computational Knowledge Analysis\Term Paper\Corpus\Lifestyle\GQ\GQ_Metaíªs Twitter-like Threads App Already Has 100 Million Users.txt,0.032,0.887,0.081,0.8543
+Lifestyle,E:\Study\TUD\Computational Knowledge Analysis\Term Paper\Corpus\Lifestyle\GQ\GQ_Musk vs Zuckerberg the fight that would kill off combat sports for good.txt,0.17,0.739,0.091,-0.998
+Lifestyle,E:\Study\TUD\Computational Knowledge Analysis\Term Paper\Corpus\Lifestyle\GQ\GQ_Threads is not the Twitter saviour youíªre looking for.txt,0.081,0.825,0.094,0.8992
+Lifestyle,E:\Study\TUD\Computational Knowledge Analysis\Term Paper\Corpus\Lifestyle\GQ\GQ_Threads vs Twitter 6 key differences you must know about.txt,0.013,0.912,0.075,0.9781
+Lifestyle,E:\Study\TUD\Computational Knowledge Analysis\Term Paper\Corpus\Lifestyle\GQ\GQ_Twitter Is Better Than Ever.txt,0.066,0.797,0.137,0.995
+Lifestyle,E:\Study\TUD\Computational Knowledge Analysis\Term Paper\Corpus\Lifestyle\GQ\GQ_Twitter_s week of íºrate limit exceededí¿ proves we all need to log off.txt,0.093,0.8,0.107,0.9068
+Lifestyle,"E:\Study\TUD\Computational Knowledge Analysis\Term Paper\Corpus\Lifestyle\Insider\Insider_3 Gen Zers share their thoughts on Threads, the buzzy new social media app from Meta.txt",0.013,0.871,0.115,0.9967
+Lifestyle,E:\Study\TUD\Computational Knowledge Analysis\Term Paper\Corpus\Lifestyle\Insider\Insider_All the major retailers have started using Meta_s new Threads platform íX except Costco.txt,0.023,0.927,0.05,0.9102
+Lifestyle,"E:\Study\TUD\Computational Knowledge Analysis\Term Paper\Corpus\Lifestyle\Insider\Insider_Fake followers for Instagram_s Threads are already on sale, as the app surges past 100 million users.txt",0.047,0.846,0.106,0.9618
+Lifestyle,"E:\Study\TUD\Computational Knowledge Analysis\Term Paper\Corpus\Lifestyle\Insider\Insider_Instagram_s Twitter rival, Threads, is destined to become a boring playground for brands.txt",0.123,0.674,0.203,0.9956
+Lifestyle,E:\Study\TUD\Computational Knowledge Analysis\Term Paper\Corpus\Lifestyle\Insider\Insider_I_m a very online Gen Zer who_s spent the past 2 days on the Threads app everyone_s talking about. I have thoughts..txt,0.046,0.851,0.103,0.9956
+Lifestyle,E:\Study\TUD\Computational Knowledge Analysis\Term Paper\Corpus\Lifestyle\Insider\Insider_Social media managers are blaming Elon Musk for the rise of Threads and other alternatives to Twitter.txt,0.049,0.9,0.051,0.3553
+Lifestyle,"E:\Study\TUD\Computational Knowledge Analysis\Term Paper\Corpus\Lifestyle\Insider\Insider_Threads isn_t cool until BTS and Instagram users rkive, agustd, thv, and j.m activate their profiles.txt",0.026,0.841,0.133,0.992
+Lifestyle,E:\Study\TUD\Computational Knowledge Analysis\Term Paper\Corpus\Lifestyle\Insider\Insider_YouTuber MrBeast has 1 million more followers on Threads than Meta_s CEO Mark Zuckerberg íX and he_s not the only one.txt,0.003,0.917,0.08,0.991
+Lifestyle,E:\Study\TUD\Computational Knowledge Analysis\Term Paper\Corpus\Lifestyle\Lifehacker\Lifehacker_All the Reasons You Might Not Want to Join Threads.txt,0.071,0.834,0.095,0.973
+Lifestyle,"E:\Study\TUD\Computational Knowledge Analysis\Term Paper\Corpus\Lifestyle\Lifehacker\Lifehacker_How to Join Threads, Meta_s New Twitter Alternative (and Why You Might Want to Wait).txt",0.06,0.816,0.125,0.9953
+Lifestyle,"E:\Study\TUD\Computational Knowledge Analysis\Term Paper\Corpus\Lifestyle\MEN\MEN_S JOURNAL_A Beginner_s Guide to Threads, Instagramíªs _Twitter Killer_.txt",0.007,0.907,0.086,0.9963
+Lifestyle,E:\Study\TUD\Computational Knowledge Analysis\Term Paper\Corpus\Lifestyle\MEN\MEN_S JOURNAL_Elon Musk and Mark Zuckerberg Could End Up Throwing Down at the Colosseum.txt,0.077,0.875,0.049,-0.7439
+Lifestyle,E:\Study\TUD\Computational Knowledge Analysis\Term Paper\Corpus\Lifestyle\MEN\MEN_S JOURNAL_Elon Musk Challenged Mark Zuckerberg to a Cage Match and Zuck Accepted- _Send Me Location_.txt,0.04,0.883,0.078,0.8898
+Lifestyle,"E:\Study\TUD\Computational Knowledge Analysis\Term Paper\Corpus\Lifestyle\MEN\MEN_S JOURNAL_Elon Musk Could Face Lawsuits as Meta, Microsoft, and Others Own Rights to Twitter_s New Name.txt",0.06,0.869,0.071,0.2372
+Lifestyle,E:\Study\TUD\Computational Knowledge Analysis\Term Paper\Corpus\Lifestyle\MEN\MEN_S JOURNAL_Elon Musk Renames Twitter to _X_ With a Head-Scratching New Icon.txt,0.053,0.881,0.066,0.7795
+Lifestyle,E:\Study\TUD\Computational Knowledge Analysis\Term Paper\Corpus\Lifestyle\MEN\MEN_S JOURNAL_Elon Musk Wants to Enlist Georges St-Pierre as Trainer for His Cage Match With Mark Zuckerberg.txt,0.042,0.894,0.064,0.6246
+Lifestyle,E:\Study\TUD\Computational Knowledge Analysis\Term Paper\Corpus\Lifestyle\MEN\MEN_S JOURNAL_Mark Zuckerberg Training With UFC Stars and Looking Jacked Ahead of Elon Musk Fight.txt,0.061,0.833,0.107,0.9574
+Lifestyle,E:\Study\TUD\Computational Knowledge Analysis\Term Paper\Corpus\Lifestyle\MEN\MEN_S JOURNAL_Twitter Traffic Is Already _Tanking_ as Meta_s Threads Gains 100 Million Users.txt,0.05,0.879,0.072,0.8434
+Lifestyle,E:\Study\TUD\Computational Knowledge Analysis\Term Paper\Corpus\Lifestyle\Metro\bored-of-threads.txt,0.034,0.913,0.053,0.3127
+Lifestyle,E:\Study\TUD\Computational Knowledge Analysis\Term Paper\Corpus\Lifestyle\Metro\famous-blue-bird-killed-by-musk.txt,0.007,0.965,0.028,0.743
+Lifestyle,E:\Study\TUD\Computational Knowledge Analysis\Term Paper\Corpus\Lifestyle\Metro\marks-unveils-new-ventue.txt,0.051,0.872,0.077,0.9124
+Lifestyle,E:\Study\TUD\Computational Knowledge Analysis\Term Paper\Corpus\Lifestyle\Metro\musk-losing-money-on-44billion-twitter.txt,0.079,0.842,0.079,0.204
+Lifestyle,E:\Study\TUD\Computational Knowledge Analysis\Term Paper\Corpus\Lifestyle\Metro\ramp-up-followers-on-threads.txt,0.019,0.863,0.118,0.9943
+Lifestyle,E:\Study\TUD\Computational Knowledge Analysis\Term Paper\Corpus\Lifestyle\Metro\threads-sets-new-record.txt,0.041,0.883,0.076,0.6436
+Lifestyle,E:\Study\TUD\Computational Knowledge Analysis\Term Paper\Corpus\Lifestyle\Metro\twitter-killer-gain-millions-of-followers.txt,0.013,0.898,0.089,0.9643
+Lifestyle,E:\Study\TUD\Computational Knowledge Analysis\Term Paper\Corpus\Lifestyle\Metro\twitter-should-be-worried.txt,0.08,0.811,0.109,0.9475
+Lifestyle,E:\Study\TUD\Computational Knowledge Analysis\Term Paper\Corpus\Lifestyle\Metro\twitter-threatens-to-sue-meta.txt,0.067,0.856,0.077,0.4767
+Lifestyle,E:\Study\TUD\Computational Knowledge Analysis\Term Paper\Corpus\Lifestyle\Metro\zuckerberg-vs-musk.txt,0.036,0.914,0.05,0.6271
+Lifestyle,E:\Study\TUD\Computational Knowledge Analysis\Term Paper\Corpus\Lifestyle\NY\The New Yorker_Metaíªs Threads Is More of the Same Social Networking.txt,0.049,0.839,0.112,0.997
+Lifestyle,E:\Study\TUD\Computational Knowledge Analysis\Term Paper\Corpus\Lifestyle\NY\The New Yorker_Top Features of Metaíªs Threads App.txt,0.099,0.796,0.105,0.0699
+Lifestyle,"E:\Study\TUD\Computational Knowledge Analysis\Term Paper\Corpus\Lifestyle\People\People_Elon Musk Announces Twitter Logo Change, Plans to _Bid Adieu_ to _All The Birds_.txt",0.029,0.881,0.09,0.9945
+Lifestyle,"E:\Study\TUD\Computational Knowledge Analysis\Term Paper\Corpus\Lifestyle\People\People_Here_s what to know about Threads, Mark Zuckerberg_s latest social media platform that rivals Twitter.txt",0.029,0.871,0.099,0.9984
+Lifestyle,E:\Study\TUD\Computational Knowledge Analysis\Term Paper\Corpus\Lifestyle\People\People_Twitter Threatens to Sue Meta Over Threads.txt,0.051,0.848,0.101,0.9652
+Lifestyle,"E:\Study\TUD\Computational Knowledge Analysis\Term Paper\Corpus\Lifestyle\TIME\TIME_As Twitter Threatens Legal Action, Here_s How Meta_s New Platform Threads Compares.txt",0.05,0.878,0.073,0.9675
+Lifestyle,E:\Study\TUD\Computational Knowledge Analysis\Term Paper\Corpus\Lifestyle\TIME\TIME_Why Twitter Rival Threads Isníªt Available in the E.U..txt,0.042,0.865,0.093,0.9926
+Technology,E:\Study\TUD\Computational Knowledge Analysis\Term Paper\Corpus\Technology\CNET\everything-about-twitters-rival.txt,0.038,0.82,0.142,0.9866
+Technology,E:\Study\TUD\Computational Knowledge Analysis\Term Paper\Corpus\Technology\CNET\gets-to-grips-with-twitter-rival.txt,0.012,0.909,0.079,0.9902
+Technology,E:\Study\TUD\Computational Knowledge Analysis\Term Paper\Corpus\Technology\CNET\meta-teases-twitter.txt,0.01,0.879,0.111,0.9914
+Technology,E:\Study\TUD\Computational Knowledge Analysis\Term Paper\Corpus\Technology\CNET\threads-add-foloowing-to-tab.txt,0.034,0.921,0.045,0.841
+Technology,E:\Study\TUD\Computational Knowledge Analysis\Term Paper\Corpus\Technology\CNET\threads-faces-legal-threat.txt,0.073,0.881,0.046,-0.8381
+Technology,E:\Study\TUD\Computational Knowledge Analysis\Term Paper\Corpus\Technology\CNET\threads-keep-growing.txt,0.018,0.906,0.076,0.9436
+Technology,E:\Study\TUD\Computational Knowledge Analysis\Term Paper\Corpus\Technology\CNET\tittok-taking-spin-on-posts.txt,0.018,0.929,0.053,0.6682
+Technology,E:\Study\TUD\Computational Knowledge Analysis\Term Paper\Corpus\Technology\CNET\twitter-fixing-mistakes.txt,0.059,0.866,0.075,0.75
+Technology,E:\Study\TUD\Computational Knowledge Analysis\Term Paper\Corpus\Technology\CNET\why-you-shouldnt-sign-up-for-threads.txt,0.034,0.908,0.058,0.9649
+Technology,E:\Study\TUD\Computational Knowledge Analysis\Term Paper\Corpus\Technology\CNET\wont-go-back-statement-about-threads.txt,0.089,0.735,0.177,0.9989
+Technology,E:\Study\TUD\Computational Knowledge Analysis\Term Paper\Corpus\Technology\Digit\Digit_Are Elon Musk_s Twitter mistakes responsible for Threads success.txt,0.059,0.887,0.054,-0.5543
+Technology,E:\Study\TUD\Computational Knowledge Analysis\Term Paper\Corpus\Technology\Digit\Digit_Instagram clones Elon_s app with Meta_s social media might Is Twitter in danger.txt,0.064,0.817,0.119,0.9867
+Technology,E:\Study\TUD\Computational Knowledge Analysis\Term Paper\Corpus\Technology\Digit\Digit_Instagram Threads download link goes live Could this threaten Twitter.txt,0.042,0.887,0.072,0.9255
+Technology,E:\Study\TUD\Computational Knowledge Analysis\Term Paper\Corpus\Technology\Digit\Digit_Threads is different from Twitter and that is both a good and bad thing.txt,0.029,0.93,0.04,0.6705
+Technology,E:\Study\TUD\Computational Knowledge Analysis\Term Paper\Corpus\Technology\Digit\Digit_Twitter vs Threads 5 cool Twitter features that Threads still doesníªt have.txt,0.093,0.81,0.097,-0.1551
+Technology,E:\Study\TUD\Computational Knowledge Analysis\Term Paper\Corpus\Technology\PCMag\PCMag_Hands On With Threads Does Meta_s Twitter Killer Deliver.txt,0.042,0.871,0.086,0.9969
+Technology,"E:\Study\TUD\Computational Knowledge Analysis\Term Paper\Corpus\Technology\PCMag\PCMag_Like Twitter, Threads Enforces Rate Limits to Fight Spammers.txt",0.12,0.85,0.029,-0.9881
+Technology,E:\Study\TUD\Computational Knowledge Analysis\Term Paper\Corpus\Technology\PCMag\PCMag_Traffic to Twitter Alternative Threads Drops by Half.txt,0.013,0.888,0.098,0.9725
+Technology,E:\Study\TUD\Computational Knowledge Analysis\Term Paper\Corpus\Technology\PCMag\PCMag_Twitter Threatens to Sue Meta Over Alleged Trade Secret Theft With Threads.txt,0.128,0.796,0.076,-0.9826
+Technology,E:\Study\TUD\Computational Knowledge Analysis\Term Paper\Corpus\Technology\PCMag\PCMag_Yikes Threads User Traffic Falls 74_ From Initial High.txt,0.04,0.915,0.045,0.1655
+Technology,E:\Study\TUD\Computational Knowledge Analysis\Term Paper\Corpus\Technology\TechCrunch\TC_Apple removes AI-powered content generator impersonating Metaíªs Threads app after it appeared in top charts.txt,0.036,0.872,0.092,0.9489
+Technology,E:\Study\TUD\Computational Knowledge Analysis\Term Paper\Corpus\Technology\TechCrunch\TC_House Republicans probe Threads in ongoing social media investigation.txt,0.072,0.865,0.062,-0.5423
+Technology,E:\Study\TUD\Computational Knowledge Analysis\Term Paper\Corpus\Technology\TechCrunch\TC_Instagram Threads now has one-fifth the weekly active user base of Twitter.txt,0.017,0.87,0.114,0.9883
+Technology,E:\Study\TUD\Computational Knowledge Analysis\Term Paper\Corpus\Technology\TechCrunch\TC_Mark Zuckerberg touts Threads is seeing íÑtens of millionsíª people return to the app daily.txt,0.039,0.81,0.152,0.9977
+Technology,E:\Study\TUD\Computational Knowledge Analysis\Term Paper\Corpus\Technology\TechCrunch\TC_Meta confirms it is blocking EU-based users from accessing Threads via VPN.txt,0.041,0.872,0.088,0.9617
+Technology,E:\Study\TUD\Computational Knowledge Analysis\Term Paper\Corpus\Technology\TechCrunch\TC_The Los AngelesíVbased startup is launching its first game on Threads this fall.txt,0.009,0.871,0.12,0.9992
+Technology,"E:\Study\TUD\Computational Knowledge Analysis\Term Paper\Corpus\Technology\TechCrunch\TC_The spam bots have now found Threads, as company announces its own íÑrate limitsíª.txt",0.1,0.841,0.059,-0.9703
+Technology,E:\Study\TUD\Computational Knowledge Analysis\Term Paper\Corpus\Technology\TechCrunch\TC_Threads a Slack alternative completely unrelated to Instagram sees downloads surge.txt,0.029,0.88,0.091,0.99
+Technology,E:\Study\TUD\Computational Knowledge Analysis\Term Paper\Corpus\Technology\TechCrunch\TC_Threads in decline Doníªt count out Instagramíªs new Twitter rival yet.txt,0.035,0.856,0.11,0.9981
+Technology,E:\Study\TUD\Computational Knowledge Analysis\Term Paper\Corpus\Technology\TechCrunch\TC_Threads update adds translation and a flurry of minor improvements.txt,0.04,0.878,0.082,0.9664
+Technology,E:\Study\TUD\Computational Knowledge Analysis\Term Paper\Corpus\Technology\The Verge\The Verge_Five reasons Threads could still go the distance.txt,0.043,0.818,0.139,0.9994
+Technology,E:\Study\TUD\Computational Knowledge Analysis\Term Paper\Corpus\Technology\The Verge\The Verge_Hereíªs why Threads is delayed in Europe.txt,0.062,0.841,0.097,0.9919
+Technology,E:\Study\TUD\Computational Knowledge Analysis\Term Paper\Corpus\Technology\The Verge\The Verge_Instagramíªs Threads surpasses 100 million users.txt,0.004,0.913,0.083,0.9791
+Technology,"E:\Study\TUD\Computational Knowledge Analysis\Term Paper\Corpus\Technology\The Verge\The Verge_Instagramíªs Twitter competitor, Threads, is available now.txt",0.017,0.865,0.118,0.9955
+Technology,E:\Study\TUD\Computational Knowledge Analysis\Term Paper\Corpus\Technology\The Verge\The Verge_Just call them tweets.txt,0.077,0.855,0.068,-0.9171
+Technology,"E:\Study\TUD\Computational Knowledge Analysis\Term Paper\Corpus\Technology\The Verge\The Verge_The latest Threads update adds a íÑfollowsíª tab, but it doesníªt do what youíªd like.txt",0.024,0.878,0.099,0.9683
+Technology,E:\Study\TUD\Computational Knowledge Analysis\Term Paper\Corpus\Technology\The Verge\The Verge_Threads is rolling out its Following feed.txt,0.008,0.956,0.035,0.6124
+Technology,"E:\Study\TUD\Computational Knowledge Analysis\Term Paper\Corpus\Technology\The Verge\The Verge_Threads isníªt for news and politics, says Instagramíªs boss.txt",0.037,0.888,0.075,0.9433
+Technology,E:\Study\TUD\Computational Knowledge Analysis\Term Paper\Corpus\Technology\The Verge\The Verge_Why Instagram is taking on Twitter with Threads.txt,0.035,0.817,0.148,0.9999
+Technology,E:\Study\TUD\Computational Knowledge Analysis\Term Paper\Corpus\Technology\The Verge\The Verge_You caníªt just leave Threads in the Following feed.txt,0.051,0.919,0.031,-0.7677
+Technology,E:\Study\TUD\Computational Knowledge Analysis\Term Paper\Corpus\Technology\Wired\Wired_6 Threads App Settings Worth Trying Out.txt,0.035,0.904,0.061,0.9259
+Technology,"E:\Study\TUD\Computational Knowledge Analysis\Term Paper\Corpus\Technology\Wired\Wired_After Threads, There Has to Be a íÑNew Twitteríª Moratorium.txt",0.123,0.756,0.121,-0.8293
+Technology,E:\Study\TUD\Computational Knowledge Analysis\Term Paper\Corpus\Technology\Wired\Wired_Don_t Join ThreadsíXMake Threads Join You.txt,0.053,0.827,0.12,0.9984
+Technology,E:\Study\TUD\Computational Knowledge Analysis\Term Paper\Corpus\Technology\Wired\Wired_How Threads Could Kill Twitter.txt,0.11,0.778,0.112,-0.7895
+Technology,E:\Study\TUD\Computational Knowledge Analysis\Term Paper\Corpus\Technology\Wired\Wired_How Threadsíª Privacy Policy Compares to Twitteríªs (and Its Rivalsíª).txt,0.003,0.941,0.055,0.9989
+Technology,E:\Study\TUD\Computational Knowledge Analysis\Term Paper\Corpus\Technology\Wired\Wired_How to Find Your Twitter Friends on Threads.txt,0.011,0.86,0.129,0.9982
+Technology,E:\Study\TUD\Computational Knowledge Analysis\Term Paper\Corpus\Technology\Wired\Wired_Metaíªs Threads Could MakeíXor BreakíXthe Fediverse.txt,0.064,0.807,0.129,0.9985
+Technology,E:\Study\TUD\Computational Knowledge Analysis\Term Paper\Corpus\Technology\Wired\Wired_Threads Is the Latest Move in the AI Arms Race.txt,0.048,0.881,0.071,0.9704
+Technology,E:\Study\TUD\Computational Knowledge Analysis\Term Paper\Corpus\Technology\Wired\Wired_Threads Is the New Cool HangoutíXfor Brands.txt,0.064,0.819,0.117,0.9935
+Technology,"E:\Study\TUD\Computational Knowledge Analysis\Term Paper\Corpus\Technology\Wired\Wired_Threads may be a íÑcopycat,íª but can Eloníªs Twitter kill it.txt",0.04,0.908,0.052,0.387

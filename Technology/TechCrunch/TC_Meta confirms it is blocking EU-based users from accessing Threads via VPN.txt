@@ -1,0 +1,22 @@
+After multiple EU-based users complained about not being able to access Instagram’s Threads app through VPN, Meta confirmed that it is blocking such efforts.
+
+The company launched Threads last week, but given privacy concerns around the app, it is not available in the EU. The company said in a statement that it has applied further measures to stop users from accessing the new social app.
+
+“Threads is not currently available in most countries in Europe and we’ve taken additional steps to prevent people based there from accessing it at this time. Europe continues to be an incredibly important market for Meta and we hope to make Threads available here in the future,” it said in a statement provided to TechCrunch.
+
+Earlier today, several EU-based users started posting screenshots on Twitter indicating that they were not able to access the Threads app even after using VPN.
+The Threads app extensively tracks users, per Meta’s privacy policy and the app’s iOS listing — which discloses the app may collect a range of personal data, including highly sensitive information such as health and financial data, precise location, browsing history, contacts and search history.
+
+This approach creates legal and regulatory challenges for Meta in the EU.
+
+Under EU data protection law, Meta requires a valid legal basis to process such personal data legally for ad targeting — an area where the company is facing increasing uncertainty following a recent Court of Justice ruling.
+
+That’s not all either: The bloc’s shiny new ex-ante antitrust regime, the Digital Markets Act, also places limits on how applicable gatekeeping giants can combine data for ads. And Meta has reportedly cited uncertainty over how the DMA will apply to its business’ use of data as being behind the delay to Threads launching in the EU.
+
+Despite not being officially rolled out in most of Europe, Meta’s Twitter rival has been off to a good start as the app crossed 100 million signups in just a few days.
+
+However, according to analytics monitoring firm Sensor Tower, daily active users were down 20% this week as compared to Saturday, and time spent on the app had also reduced. So it remains to be seen whether the Threads buzz will fade to more of a background hum as the novelty of a Meta version of Twitter wears off.
+
+Earlier this week, Meta updated the Thread iOS app with support for iOS 17 and reduced binary size along with other small improvements.
+
+Responding to a post about the lack of web or desktop support, engineer Cameron Roth said it’s not as simple as “turning it on.”

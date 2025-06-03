@@ -1,0 +1,29 @@
+Instagram’s Twitter clone Threads enjoyed a fairly fruitful first week in existence, sailing past 30 million users in the first 24 hours before passing 100 million signups within five days. And just yesterday, numbers from Data.ai indicated that Threads has now hit 150 million downloads.
+
+However, another completely unrelated app has been inadvertently thrust into the spotlight off the back of Instagram’s attempt to capitalize on the Twitter mess.
+
+Threads, a Slack alternative that launched out of stealth back in 2019 with backing from Sequoia Capital, has seen a significant increase in traffic to its website in the days following its new namesake’s launch. This is largely owing to the fact that Threads (the Slack alternative) owns the Threads.com domain name, whereas Instagram’s incarnation is on the less sexy Threads.net (though the app doesn’t have a web interface as of yet).
+
+This also led Threads (the Slack alternative) to have a little fun at Instagram’s expense.
+At any rate, this confusion led Threads (the Slack alternative) to see a major spike in downloads in the week immediately after Instagram launched its Threads. Between July 6 and July 12, figures provided to TechCrunch from Data.ai indicate that Threads had more than 880,000 downloads globally on iOS alone, having had “few downloads” prior to this point.
+It was also the 52nd most downloaded app globally overall, and third in the “business” category. Interestingly, the top three markets where it saw its highest App Store rankings were Germany, Spain and Italy, where it averaged as the 10th most downloaded app that week between the three countries. This was probably because Instagram’s Threads isn’t yet available in the European Union, which will have contributed to the confusion.
+
+It’s a similar story on Android too, with Threads now displaying more than 1 million downloads.
+
+Off the back of all this, Threads has had to plaster “We are not associated with Instagram” messages on its website and App Store listing.
+Name-check
+Scenarios involving multiple companies sharing brand names is nothing new. There are countless companies called Lightyear, including two separate U.K.-based fintechs, a Dutch electric car startup and a New York-based telecom service procurement service. And there is, in fact, another startup called Threads, a chat-based shopping platform based out of the U.K. 
+
+So Threads’ (the Slack alternative) predicament is hardly a new phenomenon, particularly when you consider that Instagram previously had a companion app called Threads which it launched in 2019 and shuttered two years later.
+
+“Threads is a powerful word and an internet native term,” Threads co-founder and CEO Rousseau Kazi said in a stock statement issued to TechCrunch. “Using threads — on various platforms — is the best way to stay connected with your [.net]work or [.com]pany. Given this, it comes as no surprise that Meta chose a powerful label to represent their take at building the town square.”
+
+Notably, Kazi also worked at Facebook (before it morphed into Meta) in a product management capacity for six years.
+
+“Zuck (Mark Zuckerberg), Adam Mosseri (now Instagram CEO), and the team are easily some of the best mentors and minds I’ve got to work with and learn from,” Kazi added.
+
+It’s worth noting that the visitors and downloads it has seen off the back of the confusion will unlikely have translated into new business, as disappointed users will have quickly realized that this was not what they were looking for. Though the profile boost the startup has enjoyed could be construed as great free publicity.
+
+However, further down the line if, or when, Instagram’s Threads gains more traction, businesses will likely have to integrate it into their social media strategy. This could also get confusing for (would-be) customers of Threads (the Slack alternative), as companies would have to manage two completely separate communication platforms with the same name.
+
+Threads did confirm to TechCrunch that it owns the trademark for its name, though it declined to answer any further questions on the matter, including whether it plans to initiate any action against Instagram or its parent Meta.

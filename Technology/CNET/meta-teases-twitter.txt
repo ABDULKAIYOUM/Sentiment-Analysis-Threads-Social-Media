@@ -1,0 +1,13 @@
+date_published=July 03, 2023 10:31 p.m. PT
+published_by=Muskaan Saxena
+title=Meta teases Twitter alternative and we're ready to pull these Threads
+body=Meta’s Twitter alternative has been building up hype since earlier this year, when app researcher Allesandro Paluzzi took to Twitter to share images of Threads (at the time called ‘Barcelona’) and said the app was being pitched as ‘Instagram for your thoughts’.
+Now, the upcoming app has been briefly spotted on the Google Play Store and it seems like we could be very close to an actual launch. While the listing was removed almost immediately, it was a full download page that offered some insight into what Threads will look like.
+Paluzzi turned up here again, flagging the temporary Play Store appearance and dropping a few screenshots on Twitter that showed off a little bit of the app, like the login screen (featuring a ‘log in with Instagram’ option) and the design of the app’s main timeline feed.
+It looks like users will be able to go through their existing follower list on Instagram and choose who they want to follow on Threads, so your new feed won’t get immediately cluttered if you decide to import your Insta account
+Unsurprisingly, Threads looks a lot like Twitter. We’ve got the familiar like, comment, retweet (re-thread?), and share buttons at the bottom of each post, and even Instagram's blue checkmarks are still around.
+Threads has been in development for a while; the project was initially codenamed ‘P92’ and temporarily used the name ‘Barcelona’. Meta then confirmed in April that it was “exploring a standalone decentralized social network for sharing text updates”, and while that wasn’t a direct dig at Twitter, Meta clearly had a platform in mind when developing the app.
+The Play Store leak does give us hope that we’ll be seeing Threads turn up a lot sooner than we think, and following the tweet limitations experienced over the weekend it’s probably about time to jump ship and head to a new platform.
+Muskaan is TechRadar’s UK-based Computing writer. She has always been a passionate writer and has had her creative work published in several literary journals and magazines. Her debut into the writing world was a poem published in The Times of Zambia, on the subject of sunflowers and the insignificance of human existence in comparison.
+Growing up in Zambia, Muskaan was fascinated with technology, especially computers, and she's joined TechRadar to write about the latest GPUs, laptops and recently anything AI related. If you've got questions, moral concerns or just an interest in anything ChatGPT or general AI, you're in the right place.
+Muskaan also somehow managed to install a game on her work MacBook's Touch Bar, without the IT department finding out (yet).

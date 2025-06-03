@@ -1,0 +1,18 @@
+New York
+CNN
+ — 
+Meta’s Twitter rival app Threads on Tuesday rolled out its first major batch of updates since its launch two weeks ago as it works to maintain momentum.
+
+The new features include a translation button and a tab on users’ activity feed dedicated to showing who’s followed them, according to a post from Cameron Roth, a software engineer working on Threads.
+
+All new features should be available to iOS Threads users by the end of Tuesday, Roth said.
+
+Threads users have been clamoring for updates since its launch. The new app attracted over 100 million user sign-ups in less than a week, but it still lacks many of the features popular on Twitter and other platforms, including direct messaging and a robust search function.
+
+User engagement on Threads has dipped since its first week, according to web traffic analysis firm Similarweb. And Meta executives have teased plans to improve the app in hopes of getting users to keep coming back.
+
+“Early growth was off the charts, but more importantly 10s of millions of people now come back daily … The focus for the rest of the year is improving the basics and retention,” Meta CEO Mark Zuckerberg said in a Threads post Monday.
+
+Tuesday’s updates also include the ability to subscribe and receive notifications from accounts a user doesn’t follow and a “+” button that lets users follow new accounts from the replies on a post, as well as bug fixes and other improvements.
+
+Instagram head Adam Mosseri, who is overseeing Threads, has also hinted at plans to introduce a desktop version of the app as well as a feed of only accounts a user follows and an edit button.

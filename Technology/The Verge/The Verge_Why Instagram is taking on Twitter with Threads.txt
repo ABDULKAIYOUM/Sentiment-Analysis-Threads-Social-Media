@@ -1,0 +1,121 @@
+While Mark Zuckerberg and Elon Musk are still preparing for a possible cage match, starting today, their two companies are officially battling.
+
+Meta has released Threads, its standalone Twitter competitor that is based on Instagram’s account system. According to the head of Instagram, Adam Mosseri, Twitter’s “volatility” and “unpredictability” under Musk provided the opening to compete. In an interview, Mosseri says that Threads is designed for “public conversations,” a direct reference to how Twitter execs have described the purpose of the service over the years.
+
+“Obviously, Twitter pioneered the space,” according to Mosseri. “And there are a lot of good offerings out there for public conversations. But just given everything that was going on, we thought there was an opportunity to build something that was open and something that was good for the community that was already using Instagram.”
+
+Meta has been planning to release Threads, its self-described “sanely run” version of Twitter, for a while. The backlash to Musk’s recent limiting of how many tweets people can see per day was a catalyzing event for getting the app out the door this week, according to internal company documents I’ve seen. They also say that Meta expects “tens of millions” of people to try Threads within the first few months of availability.
+
+As Mosseri describes it, Threads is a “risky endeavor,” especially since it’s a new app people have to download. Meta has made the onboarding process easier by letting you auto-populate your account info and follow list from your Instagram, which I was able to do quickly after being granted access to Threads earlier today.
+
+Another dynamic Threads has to contend with is that Twitter has been around for a long time and built up a unique network that is hard, if not impossible, to replicate. Even with Musk’s antics over the past several months, it’s clear Meta knows that unseating Twitter won’t be easy. “I think it’d be a mistake to underestimate both Twitter and Elon,” says Mosseri. “Twitter has got a lot of history; it has an incredibly strong and vibrant community on it. The network effects are incredibly strong.”
+
+Threads is strikingly similar to Twitter in key ways. The app’s main feed shows posts (or, as Mosseri calls them, “threads”) from accounts you follow, along with accounts recommended by Instagram’s algorithm. You can repost something with your own commentary, and replies are featured prominently in the main feed. There is no feed of only people you follow, though that could be added later.
+
+Posts on Threads can be up to 500 characters long and include photos or videos that are up to five minutes long. There are no ads, at least for now — adding those will be a “champagne problem” if Threads achieves enough scale, per Mosseri.
+
+There also isn’t a paid verification scheme that unlocks additional functionality, though Instagram’s blue checks will port over to Threads accounts. With some exceptions for extreme cases like the sharing of child exploitation imagery, moderation actions Meta takes against a Threads account will not impact its associated Instagram account, according to internal documents I’ve seen.
+
+Thanks to the deep ties between Threads and Instagram, you can quickly share posts from Threads to your Instagram story or feed. There’s also the ability to share links to Threads posts in other apps, which Mosseri predicts will be helpful as “we try to bootstrap it out from nothing.”
+
+Meta has been busy this week onboarding a bunch of celebrities from the worlds of Hollywood, music, professional sports, business, and the like to Threads ahead of its public release. Celebs already spotted on the app include Karlie Kloss, Tony Robbins, Dana White, Gordon Ramsay, Ellie Goulding, Jack Black, Russell Wilson, and the Brazilian pop star Anitta.
+
+Threads is initially available in 100 countries, including the US, but not in the European Union. It’s being excluded from the EU initially due to “the complexities with complying with some of the laws coming into effect next year,” according to Mosseri. That’s likely a reference to the Digital Markets Act, which imposes a bunch of new legal obligations on so-called “gatekeeper” platforms like Meta.
+
+Meta plans to eventually hook Threads into ActivityPub, the decentralized social media protocol that also powers Mastodon. That integration isn’t ready at launch, though, as I previously reported. When it’s enabled, Threads users will be able to interact with Mastodon users and take their accounts with them to other clients that support the ActivityPub standard.
+
+As Mosseri puts it, this is a move designed to appease creators who have grown increasingly wary of relying on the whims of centralized social media companies. “I think we might be a more compelling platform for creators, particularly for the newer creators who are more and more savvy, if we are a place where you don’t have to feel like you have to trust us forever,” he says.
+
+In terms of what success looks like for Threads, Mosseri tells me that he isn’t interested in killing Twitter or even getting the app to Instagram-level scale of over 1 billion users: “It would be great if it gets really, really big, but I’m actually more interested in if it becomes culturally relevant than if it gets hundreds of millions of users.”
+
+You can read my full interview with Adam Mosseri, the head of Instagram, below. The following transcript has been lightly edited for clarity:
+
+I’m curious how this project started. Whose idea was it? What was the strategy?
+
+Well, a couple of different things. The idea at a high level is we have this amazing creative community on Instagram. We have amazing creators on the platform. Obviously, Twitter pioneered the space, and there are a lot of good offerings out there for public conversations, but just given everything that was going on, we thought there was an opportunity to build something that was open and something that was good for the community that was already using Instagram.
+
+And so we wanted to see what that might look like. Is it a tab in the app? Is it bringing text to feed? Is it a separate app? A bunch of different people [inside Meta] were playing in this space, as you can imagine. You’ve got a lot of sources, I know. I’m sure you heard a bunch of different things. People all over the company were playing. What we tried to do is pull everything together into a more focused effort so that instead of building a bunch of things not that well, we could try to place a meaningful, risky, but compelling bet together. So that all came together in the late winter.
+
+Was there anything specific with how Elon Musk is handling Twitter that led you all to move now? There are a lot of things one could point to, I think.
+
+I think it’d be a mistake to underestimate both Twitter and Elon. Twitter has got a lot of history; it has an incredibly strong and vibrant community on it. The network effects are incredibly strong. A bunch of advertisers pulling their budgets doesn’t necessarily affect the network engagement at all; in fact, it might even help and not hurt over the long run.
+
+I do think there’s a lot more noise around Twitter than there was. Just the volatility and the unpredictability of what seemed to be going on there seemed like it might present an opportunity. If things like stability started to become an issue or if they changed the product too drastically, those were things that might leave an opening for us in a space that otherwise looked pretty particularly difficult to compete in.
+
+I want to be clear: any time you build a new app from scratch, it is much less likely to succeed than to succeed. So this is still a risky endeavor, but it just seemed like the landscape was changing. People were interested in having alternative options to have public conversations. It’s not just us playing in the space in addition to Twitter, obviously. And we have this really strong, vibrant creator community. So it just seemed worth at least putting a small team together to explore some ideas. And then when we had a design and a direction we were excited about, then we were like, “Alright, let’s take a swing and let’s see what happens.”
+
+Why do it as a standalone app off of Instagram?
+
+It was a hugely contentious debate internally. You could be in feed. You could be a separate tab. You could be a separate app. The challenge with text posts in feed is that the post and comment model just fundamentally does not support public discourse as well as the model that Twitter pioneered with tweets and replies. Treating replies as equal as opposed to subordinate somehow just allows for a very different and much more broad range of public conversations. People do post text to Instagram all the time, even though we don’t support it first class, and we’re experimenting with that, too. That’s great, but I think it solves a much smaller use case than public discourse more broadly.
+
+Then there’s a separate app versus separate tab. Separate tab is tough. There’s only so much stuff you can shove in the app. It’s already feeling too complicated. We’re trying to actually simplify right now, and so it’s certainly working against that. And generally, when you build a separate tab, you find you want to push all that distribution through a feed invariably in order to bootstrap it. You kind of end up right back in that first problem.
+
+A separate app is way less likely to succeed because you have to bootstrap a user base from very little or from nothing. But if you do it, if you succeed, the upside is so much more significant. You’ve got more space to play with. You’ve got a different mental model with a new space. With a new app comes the opportunity to have people think about what they can do in that space much more differently than trying to climb from under the shadow of what the app has been for before. Most people still think of Instagram as primarily a photo sharing, feed app, and all the growth and sharing on Instagram for half a decade has been in stories and in messaging. But we still have that identity because that’s our heritage. And so a new app allows you to shape that in a way, too.
+
+So, higher beta. More risk, more possible reward. Not everything we do like this is going to work, but we should always be placing a couple of high-risk bets like this if we’re going to hope to really evolve forward as fast as I think we need to as a company.
+
+I’m sure naming this the name of another standalone app that you all shut down a couple of years ago, the irony of that is not lost on you?
+
+It is not.
+
+And you know this, too: You all’s track record on launching standalone apps in-house, they don’t tend to live after several years. Do you have any conviction that this time will be different? You described this as a bet. Are you all committing to it long term?
+
+If we’re going to build a separate app, it makes no sense to do it if you’re only going to do it for six months or a year. You have to give it a real run. You have to assume that out of the gate, it doesn’t succeed [and] that you get a bunch of things wrong, and you need to learn and adapt.
+
+I’ve been involved in a handful of new apps over the years. I do think the mistakes we made in the early years was building something that was too much like Facebook. It was just a different version of Facebook. So why would you even do it? Facebook Home, which I was involved in, which was the same content as Facebook. Paper was the same content, just a different design from Facebook. Then I think we actually pivoted too far away from that. We kind of overcorrected toward things that didn’t seem to really lean on any strategic strengths that we had. We were just building a bunch of different apps.
+
+My hope with this, with Threads — which I am telling you is very risky, but I am also telling you I’m more excited about this than I have been about any of the other projects — is that it’s the right balance. We have a community that is interested. You can bring your identity from Instagram over to Threads. You can bring all the accounts you follow over to Threads with you. The two apps are interconnected and can promote each other and help each other. But it is sufficiently a different use case — public conversation — than visual sharing, which is obviously our bread and butter, that I’m hoping it’s the right balance. But we’ll see.
+
+The ActivityPub element of this I’m fascinated by. I reported that the plan was recently to integrate with that in a few months or so. It’s not happening on day one. Why not do that at launch, and why are you doing that at all?
+
+Let’s start with why we are doing it at all. I do think that more and more people are going to be interested in and appreciate more open systems. And I think that’s the direction of travel for the industry. That’s going to be a painful shift for a lot of the larger platforms that already exist out there. But as people become more and more savvy about the benefits and the risks involved with using any of these platforms, then I think they’re going to be demanding more.
+
+Creators are a really good example. Creators are becoming more and more savvy. They’re using more and more platforms. It’s becoming rarer that a creator is completely attached to one platform because they’re always worried about the risk of being overly beholden to one company that they obviously can’t control. So I do think this is the direction of travel, and I think that a new app offers us the opportunity to really step into this space. It would be very, very difficult to take an existing app like Instagram and then integrate it.
+
+But this allows us to learn because we’re going to get a lot of criticism and a lot of feedback on how we integrate with ActivityPub and the Mastodon networks. I’ve already learned a lot from talking to people in the community. This is us leaning into where I think the world is going. And also, it has some really kind of nice benefits. I think the average creator today on Instagram probably doesn’t know what Mastodon or ActivityPub is and probably doesn’t need to. But when you start to think through the logical implications, or at least the opportunities of integrating fully over the long run, I think some pretty interesting opportunities arise.
+
+The one that I think resonates the most with creators, in my experience, is that you should own your audience. If you decide to leave Threads one day, you should be able to bring your audience with you. I’ve talked about this idea in a couple of different contexts. There are, I think, better ways to do this over the long run, but I do think ActivityPub allows you to support that. I think we might be a more compelling platform for creators, particularly for the newer creators who are more and more savvy, if we are a place where you don’t have to feel like you have to trust us forever or you can build up an audience, and then you can bring that audience with you elsewhere if you really have to at the end of the day.
+
+That’s just one example of a benefit. I think there will be more over time. It’s a combination of trying to lean into where the world is going, trying to empower creators, and also trying to learn and be honest and humble about the fact that we [Meta] come from a very different phase of the internet. We know that we need to evolve, or else we run the risk of becoming irrelevant. And so, let’s be open-minded, let’s try some new things, let’s learn, and let’s adapt.
+
+And not shipping it [ActivityPub integration] at launch? Is that just because...
+
+We just didn’t have time. It requires a bunch more work. Think about everything we have to do. Like, if you’re building safety classifiers, you need to be able to run those classifiers on datasets that aren’t our typical datasets, right? If you’re following accounts on other servers in the Threads app, how do we classify that content? There’s a bunch of engineering work there. How do reporting flows work? How does strikes with accounts work? How does ranking work?
+
+We knew it was going to slow us down. We were hoping to launch with support. But we got to a point where I was just like, “Look, we have to go because I think our window is going to close otherwise.” And we just have to fast follow with this as quickly as we can. If that’s a while later, it’s a while later. And that’s unfortunate. But at some point, I think timing is everything. I didn’t want us to miss our window entirely.
+
+Did you want encrypted direct messages (DMs) in Threads?
+
+To start, we don’t want to do any DMs. I don’t know if that’s going to last as a decision, but particularly in the US, I think people have a little bit of inbox fatigue. We all have a lot of different inboxes that we manage. What do you use for your sources? Signal?
+
+Yeah, Signal. But Twitter is a top-of-funnel thing. There’s that from-tweet-to-DM loop that happens.
+
+Yeah, exactly. But there’s iMessage. There’s Facebook Messenger for a bunch of people more on Android than iOS here in the US. There is obviously Instagram DMs, which has been really on fire lately. I live in Europe now, where WhatsApp is what everyone lives on.
+
+The idea was to lean into openness, to allow people to share threads on other DM networks. And ideally, that would happen on Instagram DMs, but it could happen anywhere. And we’ll see if that is sufficient. Maybe it’s not for a modern social network, but maybe it is. And if it is, we get to avoid further fragmenting the space, and we get the benefit of allowing people to raise awareness of threads on any network, which could be good as we try to bootstrap it out from nothing.
+
+Why is Threads not available in the European Union? That seems like a huge missed market opportunity. Is that due to uncertainty about the Digital Markets Act?
+
+The complexities with complying with some of the laws coming into effect next year are significant. We don’t want to launch anything that isn’t forward-compatible with what we know and what we think is coming. It’s just going to take longer to make sure not only that it’s compliant but that any claims we make about how we’ve implemented compliance stand up to our very high set of documentation and testing centers internally.
+
+To be really honest, I’m bummed about it. I’ve been living outside of the US for a year now. I’m on a total kick pushing teams [inside Meta] to stop leaving things half-launched and get them out to the rest of the world. I meet creators who are asking questions like, “Do I need to move to the US to get access to such and such feature?” And it breaks my heart. But this one is just going to take a bunch of time.
+
+But it is coming eventually to the EU?
+
+That’s the plan.
+
+The same moderation rules will apply from Instagram to Threads?
+
+Yeah, in the app, it’s the same community guidelines.
+
+And I assume you’ll have a similar monetization model? There will eventually be ads in there as well?
+
+If we are successful, if we make something that lots of people love and keep using, we will, I’m sure, monetize it. And I would be confident that the business model will be ads. Right now, we are not focused on monetization. We’re very, very focused on just trying to make something that people love to use. And then, if we get something to scale, that’ll be a champagne problem.
+
+Is success killing Twitter?
+
+I don’t think so. I think time has shown that there’s room for multiple players in different spaces. There are definitely network effects, and there are definitely competitive effects. But I think you look at a lot of countries around the world, and there’s a couple of major players in the social space between messaging and stories and feeds and in any combinations thereof. Brazil is a really good example. Instagram is on fire in Brazil, and WhatsApp status is enormous in Brazil. And they both continue to grow really rapidly over the last couple of years, despite the fact that they’re both huge.
+
+I think Twitter will continue to exist. I think success will be creating a vibrant community, particularly of creators, because I do think this sort of public space is really, even more than most other types of social networks, a place where a small number of people produce most of the content that most everyone consumes. So I think it’s really about creators more than it is about average folks who I think are much more there just to be entertained.
+
+I think [we want] a vibrant community of creators that’s really culturally relevant. It would be great if it gets really, really big, but I’m actually more interested in if it becomes culturally relevant and if it gets hundreds of millions of users. But we’ll see how it goes over the next couple of months or probably a couple of years.

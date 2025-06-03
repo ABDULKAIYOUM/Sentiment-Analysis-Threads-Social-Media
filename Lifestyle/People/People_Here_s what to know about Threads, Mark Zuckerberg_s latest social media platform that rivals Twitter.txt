@@ -1,0 +1,76 @@
+Head to Apple's App Store or Google Play because there's a new social media platform on the market.
+
+On July 5, Meta — the parent company of Instagram, Facebook and WhatsApp — launched Threads, a new conversation-based app nearly identical to the format of Twitter.
+
+Backed by Meta CEO Mark Zuckerberg, Threads was unveiled after months of speculation and secrecy with rumors first starting to swirl in March 2023. The standalone platform has been deemed the "Twitter killer" by techies, with many predicting it to replace the Elon Musk-owned app completely.
+
+“We believe there’s an opportunity for a separate space where creators and public figures can share timely updates about their interests,” a Meta spokesperson said in a statement at the time when coding was underway on the then-untitled platform.
+
+The launch of Threads not only ramps up competition in the social media space, but continues the on-going rivalry between Zuckerberg and Musk. For nearly seven years, the two tech moguls have feuded on topics including artificial intelligence and rockets and most recently, have threatened to take their billionaire brawl to the cage.
+
+Since Musk acquired Twitter for $44 billion in October 2022, the app has seen several unpopular changes that have unsettled its users as a result. In addition to tinkering with its algorithm, he has overhauled its verification program and put a limit on reading tweets in an attempt to transform Twitter into an all-inclusive app.
+
+Now, Threads — which has racked up 10 million users within the first few hours of its launch — poses a serious threat to Twitter, which in contrast took 780 days to reach that mega milestone when it went live to the public in July 2006.
+
+Scroll on for everything to know about Threads, Instagram's take on Twitter.
+
+What is Threads?
+
+Threads is Meta's newly launched app that rivals Twitter, placing its primary focus on sharing short snippets of text on the free conversation-based platform. The Zuckerberg-backed platform is standalone, though, it is an online hub that's linked to Instagram (and requires an Instagram account to sign up).
+
+“The vision for Threads is to create an option and friendly public space for conversation,” Zuckerberg said in a verified Threads post following the launch. “We hope to take what Instagram does best and create a new experience around text, ideas, and discussing what's on your mind.”
+
+In addition to penning up to 500 characters, Threads allows users to share photos and videos up to five minutes long. The app is available in over 100 countries (with plans to expand further), though not in the European Union.
+
+Zuckerberg — who's already racked up over 1 million Threads followers less than 24 hours after its launch — has engaged with users on the platform, answering questions and sharing updates on his plan for the app moving forward.
+
+One "conflicted" user asked how the media mogul is "going to decide" what to share on Threads compared to his Instagram broadcast channel. "Good question," Zuckerberg replied.
+
+"I'm currently planning to use my Instagram broadcast channel for daily product updates and Threads for discussion and sharing thoughts, but we'll see where these platforms go..." he continued in response.
+
+Another Threads user posted: "Zuck is salivating as he waits to drop the ads on all his new Threads users 🤣." Meanwhile, the billionaire backer clarified his intent.
+
+"Our approach will be the same as all our other products: make the product work well first, then see if we can get it on a clear path to 1 billion people, and only then think about monetization at that point," Zuckerberg wrote.
+
+How do you sign up for Threads?
+Signing up for Threads is simple, but an Instagram account is required to login despite it being a completely separate app. Unlike Instagram, the new service can not be accessed via Threads.net (the website features a QR code that redirects users to the App Store).
+
+Once the Threads app is downloaded, it asks users to log in with their Instagram credentials or create an account if they don't already have one. Threads' link to Instagram is a benefit in comparison to Twitter, allowing users' settings to sync up directly to the new platform.
+
+Thanks to the Instagram integration, users don't have to build a following on Threads from scratch. It gives users the option to carry over their followers and following automatically, so it's easy to find their friends and favorite accounts. Plus, blocked accounts on Instagram will also carry over.
+
+How does Threads differ from Twitter?
+
+While Zuckerberg's Threads has been deemed by techies as a near-identical comparison to Musk's Twitter, there are several differences between the two conversation-based social media platforms.
+
+The transfer of users' Instagram followers and the accounts they're following to Threads is a significant difference compared to Twitter. Similar to Twitter, however, Threads allows its users to upload their posts to Instagram Stories.
+
+Another major difference between Threads and Twitter is the order in which posts are listed in users' feeds. Like Instagram and Facebook, Threads timelines are purely algorithmic, meaning posts don't show in reverse chronological order to show the most recent posts like Twitter timelines.
+
+Furthermore, the algorithm-driven timeline also includes posts created by accounts that users don't follow — similar to Twitter's “For You” tab, an alternate timeline that's separate from users' main feed solely featuring accounts they follow.
+
+Unlike Twitter, Threads doesn't limit the amount of posts users can consume daily. A few days before Threads launched, Twitter imposed a boundary that limits users to 600 posts a day and those paying a monthly subscription fee to 6,000 posts a day.
+
+Like previously mentioned, Threads is a mobile-only platform; Threads users can read posts on Threads.net, but they can't post or interact. Twitter, in comparison, is accessible via desktop and the Twitter app.
+
+Hashtags, a popular feature on Twitter (in addition to Instagram and Facebook), are not available on Threads. The platform also does not allow its users to search for specific content like the aforementioned.
+
+Similarly, there's no trending section on Threads. Therefore, the posts users are offered are subject to the algorithm Meta displays in their timelines.
+
+Also, Twitter has ads and Threads does not. But as Zuckerberg mentioned in a reply post to one user, only time will tell before monetization is implemented.
+Can users delete their Threads account?
+A downside to the Threads Instagram integration, according to the app's Supplemental Privacy Policy, is that users can not delete their Threads accounts without completely deleting their Instagram accounts.
+
+However, users can deactivate their Threads accounts if they choose, which then hides their profiles and uploaded content. Furthermore, they can set their privacy settings to private and delete Threads posts. Ultimately, though, Threads accounts can never disappear permanently.
+
+This policy prompted backlash from users, so Instagram head Adam Mosseri addressed the issue in a Threads post on June 6. "Threads is powered by Instagram, so right now it’s just one account, but we’re looking into a way to delete your Threads account separately," he wrote in part.
+
+Will Threads replace Twitter completely?
+
+While Threads is being considered the "Twitter killer" by many, it remains unknown whether Zuckerberg's latest app will replace the Musk-owned platform completely. However, Zuckerberg is known for his competitiveness and has tapped rival apps' features in the past.
+
+For example, Meta launched its own take on TikTok with Reels, an Instagram feature released in 2020 that allows its users to create and scroll through short-form videos in its own feed on the app and has become widely popular since.
+
+Zuckerberg also has a plan to intertwine Threads into the Fediverse, "a social network of different servers operated by third parties that are connected and can communicate with each other." Meta plans to use a protocol called ActivityPub, allowing users to interact with others on different servers that support the same plan.
+
+Simply put by the New York Times, "Instagram wants to make it easier for Threads to operate seamlessly with other platforms, which could appeal to creators and influencers so they do not have to start from scratch on each app."

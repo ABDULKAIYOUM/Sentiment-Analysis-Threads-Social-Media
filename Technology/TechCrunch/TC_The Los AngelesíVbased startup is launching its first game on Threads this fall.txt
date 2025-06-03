@@ -1,0 +1,44 @@
+Meta’s Threads has become a household name shortly after its debut earlier this month. Within a week of its launch, it attracted over 100 million users worldwide. The platform also recently achieved one-fifth of Twitter’s weekly active user base globally. Now a startup named Artie is exploring new possibilities for the Twitter alternative by bringing gaming to the platform.
+
+The Los Angeles–based startup, which counts Zynga founder Mark Pincus, former TikTok CEO Kevin Mayer and Winklevoss twins (Cameron Winklevoss and Tyler Winklevoss) among its investors, is looking to bring “app-quality” games to Threads and other modern social media platforms. Initially, the startup planned to offer game titles across social channels through the web browser, but that plan has evolved to explore how it can make games more socially native — with Threads becoming the primary focus.
+
+Artie’s approach is similar to how Facebook users previously got Zynga’s FarmVille and Words With Friends. Nonetheless, the startup wants to make it specific for mobile users and leverage advancements such as 5G networks, faster GPUs and cloud technologies to deliver a fresh gaming experience to a young audience.
+
+“What makes Threads really special for us is we can get back to the idea of playing games with friends in 2023,” said Artie CEO Ryan Horrigan in an interview, adding that the Meta-owned platform allows users to have all the friends they have accumulated on Instagram over the years — alongside celebrities and other users.
+
+“That’s very different from Twitter. For most people on Twitter, it’s more business, politics, news or sports-oriented, and you are following people on Twitter who you don’t know,” he said.
+
+Users can play Artie’s games by accessing their links in a Threads user’s bio or post. This link will take them directly to the game via the embedded browser on the social media platform. The game will also include options to let gamers log in using their social handle, email address or phone number and play together with their friends and family.
+
+“We think there is a middle ground and a hybrid approach where you can actually stream the game down to your phone and render it in real-time in the browser of social apps,” Horrigan told TechCrunch.
+Artie found out that people between the ages of 18 and 35, who are its target audience, usually do not download any apps in a month. As a solution, the startup has decided to implement a download-free method.
+
+This way, Artie has cleverly avoided paying app store commissions to Apple and Google. Similarly, its games are not required to comply with any platform-specific guidelines or framework such as Apple’s App Tracking Transparency. However, Horrigan said the startup does care about privacy and follows the U.S.’s California Consumer Privacy Act and Europe’s General Data Protection Regulation laws, among other state-led policies around the world.
+
+“We are more like an e-commerce business on that front as we sit above the fray and on the web, which is to our advantage compared to other game companies,” he said.
+
+Nevertheless, users can save Artie’s games on their home screen as a progressive web app if they prefer not to access the game through their social media account every time they want to play. Users can also save their game progress via cookies or by logging in to their social media account. Furthermore, since the games work on the browser, users get a cross-platform multiplayer experience, which works across both Android and iOS devices.
+
+New experience already has 150,000 hooked
+Artie has begun testing its experience with the clash-style game Pong Legends in the U.S., Brazil, India and Southeast Asia. The game is being promoted on TikTok, Facebook, Instagram and YouTube. Horrigan said the experience attracted over 150,000 players in the last few months. He added that users typically spend an average of 30 seconds per video on apps like TikTok, but they dedicate seven to 10 minutes per session when playing the clash game. The startup also observed that approximately 15% of players engage with its game more than four times daily.
+
+“We are also seeing virality or K-factor two to three times greater than an average mobile game,” he said. “Most mobile games have a K factor south of one, so they’re not acquiring a whole new player for every paid player. We’re already acquiring one to one and a half players for every paid player we acquire.”
+
+Pong Legends will be available to users in public beta this fall. It will offer tournaments for multiple users to play together and a dedicated private gameplay mode to let users play only with their friends. The startup also plans to release two additional games next year, with one centered around sports and launching in the first half of the year.
+
+Even though Artie wants to make its games available for all modern social media platforms where the testing is ongoing, it will emphasize Threads and TikTok as the two primary-focused platforms.
+
+“So far, TikTok has stood out amongst the platforms we are testing on, but Threads seems to be a unique offering that none of the others have in terms of reaching friend groups,” Horrigan noted.
+
+Unlike the newcomers who seem keen to start from scratch, Artie doesn’t have plans to introduce a new genre, as Horrigan notes it’s difficult to develop new genres. However, the startup intends to search for fresh ideas to revitalize some existing genres that have already been tested and proven. It also looks for partnerships and IPs that are socially relevant on apps, including Threads. Moreover, the startup plans to generate revenue through in-game purchases — in the form of virtual goods and vanity items or to let players speed up their progress.
+
+Lessons from existing industry moves
+Artie is not alone in utilizing the growing presence of social media with its games. In fact, social media giants, including Snap and Meta, did try to take the gaming route. The former completely discontinued the feature recently, just a couple of years after its launch.
+
+Upon close examination of the existing developments, Horrigan noted that one reason games on social media have yet to achieve substantial success is their predominantly hypercasual nature, with instant games based on HTML or JavaScript.
+
+“Those games are not very deep that people play for a number of weeks or a couple of months and typically churn out, and they have predominantly ad-based monetization,” he said. “We can cross the chasm into these casual and mid-core games and deliver them over the top in a way that instant games have not been able to do because they’re technologically constrained.”
+
+The executive also noted that the moves by Meta and Snap were under the purview of Apple, and those companies could not monetize the game transactionally within the app, without giving a revenue cut to the iPhone maker.
+
+The startup, which has a team of nearly 50 people, raised a total of $36.5 million in seed and Series A rounds. It expects to raise further capital after having some success with its first game. However, Horrigan told TechCrunch that the ultimate plan is to make revenue and become a profitable, self-sustained business over time.

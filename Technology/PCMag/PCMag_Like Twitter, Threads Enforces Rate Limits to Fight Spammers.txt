@@ -1,0 +1,19 @@
+The spam-fighting tactic, which limits how much active users can use the platform, results in at least a few users being booted from the app. Naturally, Elon Musk had something to say about it.
+
+If you’re having trouble accessing Twitter rival Threads, you may have accidentally been caught up in the app’s efforts to fight spam. 
+
+The new social media app is cracking down on spammers and bots as users have reported a surge of junk posts hitting the platform less than two weeks after it launched.
+
+"Spam attacks have picked up so we're going to have to get tighter on things like rate limits, which is going to mean more unintentionally limiting active people (false positives)," Instagram Head Adam Mosseri wrote(Opens in a new window) today. "If you get caught up those protections let us know.”
+
+The rate limiting means Threads is restricting traffic from user accounts it suspects are controlled by spammers. These accounts tend to generate a large amount of traffic, so if you’ve become a heavy user of Threads, you may have accidentally been targeted. 
+
+“Unfortunately, I was one of the false positives and had to re-verify my account,” one user wrote(Opens in a new window). “Was locked out of Threads and Instagram for a few days while they did the verification.” 
+
+Mosseri announced the news as Threads users have reported a flood of spammers in their replies. “Got to a point at the w/e where half my posts got a bot response. Either gambling related or obvious ‘bait’ messages,” another user wrote(Opens in a new window). 
+
+The crackdown comes several weeks after Twitter began rate limiting to stop spammers and bots, including groups that were scraping tweets to train AI chatbots. When the company initially announced the policy, unverified Twitter users were limited to viewing only 600 tweets per day.
+
+Twitter has since loosened(Opens in a new window) the policy for both unverified and verified users. Nevertheless, the rate limiting initially caused many to wonder if traffic to the bird site would plummet right as Threads began to emerge as possible Twitter killer. Now, in a bit of irony, Mark Zuckerberg's app has been forced to take the same action.
+
+In response to Threads' rate limiting, Twitter owner Elon Musk called(Opens in a new window) out his competition as once again copying Twitter. Earlier this month, a lawyer for Musk also threatened to sue Threads’ parent company Meta for allegedly stealing Twitter's trade secrets to build the app.

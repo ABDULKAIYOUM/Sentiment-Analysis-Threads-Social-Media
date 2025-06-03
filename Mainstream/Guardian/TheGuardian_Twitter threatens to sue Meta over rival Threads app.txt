@@ -1,0 +1,29 @@
+In a letter to CEO Mark Zuckerberg, a lawyer for the Elon Musk-owned app said Meta had unlawfully misappropriated trade secrets
+
+Twitter has threatened to sue Meta over its new Threads app, which Mark Zuckerberg has openly billed as a rival, claiming the company has violated Twitter’s “intellectual property rights”.
+
+In a letter to CEO Mark Zuckerberg, first published by the news outlet Semafor, a lawyer for Twitter said the company “has serious concerns that Meta Platforms (Meta) has engaged in systematic, willful and unlawful misappropriation of Twitter’s trade secrets and other intellectual property”.
+
+“Twitter intends to strictly enforce its intellectual property rights, and demands that Meta take immediate steps to stop using any Twitter trade secrets or other highly confidential information,” Alex Spiro wrote in the letter.
+
+Meta launched Threads, a text-based conversation app intended to rival Twitter, on Wednesday to a largely positive reception. The company said Threads garnered 30m sign-ups in less than 24 hours after launching, apparently making it the most rapidly downloaded app ever. Threads accounts are linked to Instagram profiles, making the process to sign up seamless between apps and giving the Twitter copycat a built-in user base.
+
+Zuckerberg said Threads was Meta’s attempt at taking a shot to build a “public conversations app with 1bn+ people” – an opportunity that Twitter had but “hasn’t nailed”.
+
+“This is as good of a start as we could have hoped for!” Zuckerberg said in a thread on Thursday.
+
+Twitter claims in the cease-and-desist that Meta has poached dozens of former employees in the past year, some of whom “had and continue to have access to Twitter’s trade secrets and other highly confidential information” and “many” of whom have “improperly” kept Twitter documents or electronic devices.
+
+“With that knowledge, Meta deliberately assigned these employees to develop, in a matter of months, Meta’s copycat ‘Threads’ app with the specific intent that they use Twitter’s trade secrets and other intellectual property in order to accelerate the development of Meta’s competing app, in violation of both state and federal law as well as those employees’ ongoing obligations to Twitter,” the letter reads.
+
+“Competition is fine, cheating is not,” Musk tweeted on Thursday.
+
+In response to the letter, Meta’s communications director, Andy Stone, posted on Threads that there are no engineers on the team that used to work at Twitter.
+
+It is unclear what evidence Twitter has that former employees who now work at Meta continue to have access to Twitter intellectual property or trade secrets. Twitter responded to a request for comment with an automated email of a poop emoji.
+
+Twitter also said Meta was “prohibited” from scraping data from any Twitter service. Twitter’s owner, Elon Musk, has recently made several moves to purportedly curtail any efforts to scrape Twitter data, including limiting the number of tweets users can see in a day. At the time, Musk said it was in response to companies using Twitter to train their AI models.
+
+A cursory search of LinkedIn conducted by the Guardian found several Meta employees hired in the last year who previously worked at Twitter. However, it is fairly common for tech employees to jump from one company to another, particularly if they have worked at a social media platform.
+
+The threat of a lawsuit over trade secret appropriation is not without precedent or consequence in the tech industry. In 2018, for instance, the Google-owned self-driving car company Waymo sued Uber over trade secrets theft, after a top executive at Waymo left the company to join Uber’s efforts to produce its own self-driving technology. Google and Uber ultimately settled for $245m. The employee in question, Anthony Levandowski, was later charged with trade secrets theft and sentenced to 18 months in federal prison, which he did not serve because he was pardoned by former president Donald Trump.

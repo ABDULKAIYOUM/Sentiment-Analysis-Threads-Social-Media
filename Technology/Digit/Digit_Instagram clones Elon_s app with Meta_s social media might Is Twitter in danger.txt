@@ -1,0 +1,18 @@
+Meta has been known to have been working on a Twitter alternative for some time now. Even those unaware of the same could guess that Zuckerberg’s company would be cooking up something to take on Twitter. Historically, the company has cloned a lot of its competitors and primarily added the key feature(s) of the rival app to Instagram. This time it is going to release an Instagram app for text-based conversations, according to a leaked marketing slide shared by Lia Haberman.
+Meta’s been briefing creators on it’s upcoming text-based app — now looking at a possible late June launch.
+
+Instagram’s Twitter alternative: What we know so far
+
+In her ICYMI newsletter, Ms Haberman says Instagram’s Twitter-like app will be here by the end of June. The company is yet to give it an official name. However internally, it is being called P92 or Barcelona. You will have to sign in to the new app using your Instagram username and password. Your handle, verification, bio, and followers will automatically migrate from Instagram. Even those whom you have blocked on the main app won’t be here to bother you in this app.Meta will apparently incorporate a solid moderation policy “equipping you with settings to control who can reply to you and mention your account”. The UI of the app consists of text posts and threads like Twitter but the heart, comment bubble, and paper plane-shaped share icons are comparable to Instagram. It is said to support up to 500 characters, along with the ability to attach photos, videos, and links.Another highlight of this app is that there will be a decentralized facility to connect with people on other similar platforms like Mastodon. You could be looked up and followed on these other decentralized apps thanks to the underlying ActivityPub architecture. Meta considers this app as a way for creators, public figures, and probably regular users of Instagram to share their interests.
+
+Instagram’s Twitter alternative: Possible strengths and weaknesses+
+
+Strengths
+1. Meta is a giant in the social media landscape and it can channel its existing userbase into this new Twitter alternative app.2. Since it’s a new app, Instagram could give it new and unique features and benefits.
+
+Weaknesses
+1. Since this is one of the many apps or features the company has to focus on, it might not get the exclusive attention that Twitter gets from its team.2. This could attract regulatory concerns and restrictions as Meta is behind it.3. People might not take the new Meta app in good faith or it would turn out to be a dud like Instagram Notes.Twitter’s problems could be an opportunity for Meta while the growing number of competitors like Mastadon and Bluesky could be a threat to its ambitions.
+
+Should Twitter be worried?
+
+1. For all of the aforementioned strengths and opportunities of Meta, the new Instagram app for text-based conversations is a threat to Twitter. 2. If Meta’s app turns out to be even decent, it could attract Twitter users and many of these users are likely to already have an Instagram account. So the transfer may be seamless.3. Instagram is already a bigger advertising platform and it could take ad dollars from Twitter. Now although only time can tell if all of these things turn out as we predict or assume. But, it will be careless of Twitter to ignore the potential threat it has from this Instagram app.

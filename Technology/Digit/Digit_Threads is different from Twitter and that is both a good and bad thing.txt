@@ -1,0 +1,28 @@
+It’s the day after Instagram Threads debuted and the microblogging app has already soared to the top of the app store charts. We have used it and we do see it is inspired by Twitter. However, it has some semblance to Instagram. Also, soon it will get features that put it in comparison to Mastadon and Blue Sky. Here, primarily, we will focus on what’s different between Threads and Twitter. So, let’s get on with it.
+
+1. Since both of these are microblogging websites, the character limit is a key thing to know that impacts your experience. That is how much you can write in a post on these platforms. Threads allow for 500 character count while Twitter lets you write only until you hit 280 characters.
+
+2. Another form of content that you can post is videos. Threads support up to 5-minute long videos while Twitter lets you post only 2-minute 20-second videos.
+
+3. You have to tap enter thrice to start a line of threads on Instagram Threads. Meanwhile, you just have to tap on the Plus icon to start a thread on Twitter.
+
+4. I realized Threads doesn’t support hashtags only when I cross-posted a tweet from Twitter. You can’t search for content based on hashtags and that’s a major feature that’s available in most other social media platforms.  
+
+5. Threads doesn’t feature the option to search for posts/content on the platform. So, a major cutback on discoverability. We hope this would make its way to Threads soon, especially because Instagram and Facebook have it.
+
+6. Threads doesn’t have an option yet to save a draft of the post to attend to it later. Whereas on Twitter, when you hit the cancel button, you get an option to save the draft.
+
+7. The privacy and notification settings are different on Twitter and Threads. The latter seems to have imported these settings from Instagram.
+To address extreme levels of data scraping & system manipulation, we’ve applied the following temporary limits:
+
+- Verified accounts are limited to reading 6000 posts/day
+- Unverified accounts to 600 posts/day
+- New unverified accounts to 300/day
+
+8. There are no ads on Threads for now. Mark Zuckerberg has said Threads will get ads only when it hits a 1 billion user base. Twitter, on the other hand, has an ad machinery in the works. But, since Meta is much better at this game, it won’t be long before you see ads on Threads too.
+
+9. Threads will soon work with Fediverse and employ the ActivityPub protocol. It will then be a decentralized social networking platform like Mastodon (also AcitivtyPub-based) and Blue Sky. Twitter is part of the OG social media club that’s centralized.
+
+10. There are no trending topics page, no user-generated alt texts, and other elements of Twitter. What it has however is a massive community from the get-go as users sign up with their Instagram account and can also quickly bring Instagram followers with a single click. Not just that, if you are an Instagram subscriber, you get paid verification on Threads.
+
+So, it's been only a day and a half at this point and the platform still doesn't look or feel fully baked. Folks coming from other platforms may find many things missing. They may even struggle to carry over their follower base from say, Twitter. And since it's a Meta app, one may be concerned about data privacy too. However, it's too early to tell. We may see many changes in the app going forward which may change our opinion. So, let's see. 

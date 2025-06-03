@@ -1,0 +1,17 @@
+date_published=Thursday 13 Jul 2023 9:57 am
+published_by=Katherine Fidler
+title=Elon Musk unveils new venture days after ‘Twitter killer’ Threads launch
+body=Elon Musk has unveiled his new artificial intelligence (AI) company, setting it the lofty goal of ‘understanding the true nature of the universe’.
+The startup, named xAI, will be led by Mr Musk as a rival to Chat-GPT owner OpenAI.
+A brief statement on the company’s website reveals little else about the company, based in the San Francisco Bay Area, but noted a ‘meet the team’ Twitter Spaces chat taking place tomorrow.
+The firm has hired a number of top AI researchers who have previously worked for OpenAI, Google, Microsoft and Tesla, and has listed Dan Hendrycks, director of the Center for AI Safety, as an advisor.
+On Twitter, the platform Mr Musk purchased for $44 billion in October, the company already has more than 300,000 followers.
+Mr Musk, who is also CEO of SpaceX and Tesla, reportedly bought around 10,000 of the graphics processing units required to develop advanced AI systems earlier this year in his bid to compete with OpenAI, the company he founded alongside current CEO Sam Altman. Nevada business records show xAI was incorporated in March.
+It is not known how the company is being financed.
+The website also states: ‘We are a separate company from X Corp, but will work closely with X (Twitter), Tesla, and other companies to make progress towards our mission.’
+In recent months Mr Musk has been increasingly critical of OpenAI, a company he co-founded alongside its CEO Sam Altman and a number of other investors including PayPal entrepreneur Peter Thiel. 
+It has never been confirmed why Mr Musk parted ways with the company in 2018, with explanations ranging from avoiding a conflict of interest with Tesla to clashing with the board over AI safety.
+Mr Musk did not sign a recent statement by the Centre for AI safety calling for mitigation of the risk of extinction from AI to be ranked a priority alongside pandemics and nuclear. In March, however, his name was among the signatories to an open letter calling for a six-month hiatus in the development of AI systems more powerful than Chat-GPT4 – at which point the launch of xAI was in progress.
+Speaking to Tucker Carlson on Fox News in April, Mr Musk said he was worried AI models were being trained to be ‘politically correct’, and in response pledged to launch his own chatbot, ‘Truth GPT’. The model would be a ‘maximum truth-seeking AI’.
+He also said in the interview that an AI that wants to understand humanity ‘is less likely to destroy it’.
+On Wednesday, a lawsuit filed in San Francisco alleged Twitter has refused to pay at least $500 million in severance to thousands of employees made redundant after Mr Musk took over the company.

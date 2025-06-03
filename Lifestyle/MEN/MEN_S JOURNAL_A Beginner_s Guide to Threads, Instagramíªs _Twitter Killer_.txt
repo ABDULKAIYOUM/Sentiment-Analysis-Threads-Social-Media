@@ -1,0 +1,43 @@
+Meta's messaging competitor reported 10 million sign-ups in its first seven hours.
+
+On Wednesday, Mark Zuckerberg unveiled Meta’s bid to exterminate Twitter once and for all. Threads—which according to Zuckerberg accrued 10 million sign ups within seven hours of its launch—has been introduced as a companion to Instagram. Employees at IG, however, are hopeful that the new platform will entirely replace their arch-rival Twitter. 
+
+“I think there should be a public conversations app with 1 billion+ people on it,” Zuckerberg said in a post to his Threads account on the day of the launch. “Twitter has had the opportunity to do this but hasn’t nailed it. Hopefully we will.”
+
+The new app builds on a personal rivalry between Zuckerberg and Musk, as well as a larger business competition between two of the world's biggest social media companies. But what exactly is Threads, and how does it work? 
+
+What is Threads?
+Threads, designed and built by Instagram, is an app for public conversations in real time. It has been described as “Instagram’s text-based conversation app” by Meta. Adam Mosseri, the head of Instagram, told The New York Times that the purpose of Threads “is to hopefully build an open, friendly space for communities.”
+
+If you’re in the United States, you can download Threads for free from Apple’s App Store as well as the Google Play store. Meta plans to make the app more widely available in the near future.
+
+However, Meta does not currently have a date for when Threads will be available in the European Union. The Digital Markets Act, which goes into effect in the coming months, limits how the largest tech companies may share data across services. Meta is assessing the act further before committing to a launch date.
+
+How does Threads compare to Twitter?
+Threads is largely similar to Twitter in both concept and execution. It allows users to post messages comprised of text, photos or video on a scrolling feed which can then be viewed and commented upon by those that follow them.
+
+Unlike Twitter, though, Threads does not offer a direct messaging feature at this time. Instagram has said it is open to adding features to Threads if users request them, however. Much like Instagram, your feed is not limited to only those you follow, although Twitter also recently split its feeds into Following and For You sections.
+
+How do I sign up for Threads?
+For the time being, if you wish to use Threads you must have an Instagram account. When users create their Threads account, they will be prompted to import their profile pictures, bios, and links from their IG profiles. Users have the option to upload different pictures and information, though your Threads username will automatically default to your IG username. At this time, there is no option to change your Threads username.
+
+A list of your IG followers will also be directly imported into Threads. Users who are verified on Instagram will also be verified through Threads.
+
+What is the Fediverse?
+Instagram’s ultimate goal for Threads is to have the app work across a variety of apps which Meta calls the Fediverse. Fediverse is an abbreviation for a federated universe of services that share communication protocols. This is the way that sites such as Mastodon operate.
+
+Essentially, this allows creators and influencers to import content over from other apps instead of starting from zero with a new profile on each app. If one builds up a large number of followers on Threads, they could conceivably export that following to another app which operates on the same technology.
+
+How easy is it to delete my Threads account?
+Well, that depends how attached you are to Instagram. If you wish to delete your Threads account, you cannot do so without also deleting your Instagram account. Threads’ extensive privacy policy spells it out plainly: “You may deactivate your Threads profile at any time, but your Threads profile can only be deleted by deleting your Instagram account.”
+
+If you choose to deactivate your Threads profile, your posts and interactions with others will no longer be visible unless you reactivate your profile at some point. All of your posts and comments, however, will live eternally on Threads’ servers unless you manually delete them one-by-one.
+
+You may reactivate your account simply by signing into Threads using your Instagram account information. Users are only allowed one deactivation per week, so use it wisely.
+
+If you do choose the nuclear option and wish to delete both your Threads and Instagram profiles, you may do so by following the steps below.
+
+Tap the profile icon on the bottom right-hand corner of the screen within the Threads app.
+Next, tap on the two-line menu icon on the top right-hand side of your profile.
+Select “Deactivate Profile” from the “Account” icon.
+Select “Deactivate Threads Profile”, then follow the prompts to confirm your choice.

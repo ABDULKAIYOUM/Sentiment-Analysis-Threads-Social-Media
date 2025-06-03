@@ -1,0 +1,55 @@
+Meta has made cuts to its teams that tackle disinformation and coordinated troll and harassment campaigns on its platforms, people with direct knowledge of the situation told CNN, raising concerns ahead of the pivotal 2024 elections in the US and around the world.
+
+Several members of the team that countered mis- and disinformation in the 2022 US midterms were laid off last fall and this spring, a person familiar with the matter said. The staffers are part of a global team that works on Meta’s efforts to counter disinformation campaigns seeking to undermine confidence in or sow confusion around elections.
+
+The news comes as Meta, the parent company of Facebook and Instagram, is celebrating the unparalleled success of its new Threads platform, surpassing 100 million users just five days after launch and opening a potential new avenue for bad actors.
+
+A Meta spokesperson did not specify, when asked, how many staffers had been cut from its teams working on elections. In a statement to CNN on Monday night, the spokesperson said, “Protecting the US 2024 elections is one of our top priorities, and our integrity efforts continue to lead the industry.”
+
+The spokesperson did not answer CNN questions about what additional resources had been deployed to monitor and moderate its new platform. Instead, Meta said the social media giant had invested $16 billion in technology and teams since 2016 to protect its users.
+
+But the decision to lay off staffers ahead of 2024, when elections will not only take place in the United States but also in Taiwan, Ukraine, India and elsewhere, has raised concerns among those with direct knowledge of Meta’s election integrity work.
+
+The disparate nature of Meta’s work on elections makes it difficult for even people inside the company to say specifically how many people are part of the effort. One group of relevant employees hit harder by the layoffs were “content review” specialists who manually review election-related posts that may violate Meta’s terms of service, a person familiar with the cuts told CNN.
+
+Meta is trying to offset those cuts by more proactively detecting accounts that spread false election-related information, said the person, who spoke on the condition of anonymity because they were not authorized to speak to the press.
+
+For years, the social media giant has invested heavily in teams of personnel to root out sophisticated and coordinated networks of fake accounts. That “coordinated inauthentic behavior,” as Meta calls it, began in the lead up to the 2016 election when an infamous Russian government-linked troll operation ran amuck on Facebook.
+
+The team tasked with combating the influence campaigns – which includes former US government and intelligence officials – has been generally seen as the most robust in the social media industry. The company has published quarterly reports in recent years that expose governments and other entities found to have been operating covert campaigns pushing disinformation on Meta’s platforms.
+
+Those teams investigating disinformation campaigns now must further prioritize which campaigns and countries to focus on, another person familiar with the situation said, a trade-off that could result in some deceptive efforts going unnoticed.
+
+The person emphasized that Meta still has a dedicated team of professionals working on these issues, many of whom are widely respected in the cyber and information security communities.
+
+But while artificial intelligence and other automated systems can help detect some of these efforts, unearthing sophisticated disinformation networks is still a “very manual process” that involves intense scrutiny from expert staff, another person with direct knowledge of Meta’s counter disinformation efforts told CNN.
+
+The person said they feared Meta was regressing from progress it had made from learning from past mistakes. “Lessons that were learned at great costs,” they said, citing the company’s 2018 admission that its platforms were used to incite violence in Myanmar.
+
+In addition to its in-house team, Meta and other social media companies rely on tips from academics and other researchers who specialize in monitoring covert disinformation networks.
+
+Darren Linvill, a professor at Clemson University’s Media Forensics Hub, said he has sent the company valuable tips in recent months, but Meta’s response time has slowed significantly.
+
+Linvill, who has a long track record of successfully identifying covert online accounts, including helping to unearth a Russian election meddling effort in Africa in 2020, said that Meta recently removed a network of Russian language accounts that were posting both pro and anti-Ukraine content on Facebook and Instagram.
+
+“They were trying to stoke anger on both sides of the debates,” he said.
+
+Launched last Thursday, Threads has become an instant success with celebrities, politicians, and journalists flocking to the platform.
+
+The new Twitter-style app is tied to users’ existing Instagram accounts, rather than being linked directly to Facebook. Currently, Threads shares the same community standards as Instagram, but the platforms differ on issues relating to Meta’s methods to combat disinformation.
+
+Meta also applies labels to state-controlled accounts on Facebook and Instagram, such as Russia’s Sputnik news agency and China’s CCTV. However, these labels do not appear on state-controlled accounts on Threads.
+
+The launch of Threads even as Meta trims its disinformation-focused personnel comes at a turbulent and transformative time for those tasked with writing and implementing rules on social media platforms.
+
+Elon Musk, the billionaire who bought Twitter last year, has all but torn up that platform’s rule book and gutted the team that worked on implementing policies designed to combat disinformation efforts.
+
+Last month, YouTube, which has also made job cuts, announced it would allow videos that feature the false claim the 2020 US presidential election was stolen, a reversal of its previous policy.
+
+The rule reversals come as the Republican-controlled House of Representatives investigates interactions between technology companies and the federal government.
+
+Last week, a federal judge in Louisiana ordered some Biden administration agencies and top officials not to communicate with social media companies about certain content, handing a win to GOP states in a lawsuit accusing the government of going too far in its effort to combat Covid-19 disinformation.
+
+The restrictions and the scrutiny could give cover to social media companies that may want to pull back on some of their platforms’ rules around election integrity, said Katie Harbath, a former Facebook official who helped lead the company’s global election efforts until 2021.
+
+“I can [almost] hear [Meta Global Affairs President] Nick Clegg saying that ‘we’re going to be cautious of what we do, because we wouldn’t want to run afoul of the law,’” Harbath said.

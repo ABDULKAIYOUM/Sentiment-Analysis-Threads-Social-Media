@@ -1,0 +1,20 @@
+Meta CEO Mark Zuckerberg is putting to rest reports that Instagram’s Twitter rival, Threads, is already seeing usage declines, noting in a new post on Monday that “10s of millions of people come back daily.” The app has been off to a remarkably strong start topping 100 million users in a matter of days following its debut and recently reaching one-fifth of the weekly active user base of Twitter. However, a report by analytics firm Similarweb indicated Threads usage had already dropped by half from its initial surge, claiming that daily active users on the Twitter competitor had dropped from 49 million to 23.6 million in just a week’s time.
+
+Of course, a slight downturn in usage is common after the initial interest in a new social app wears off. There’s a rush of early engagement as users set up their accounts, follow friends and make their first posts. But soon after, people have to figure out how the app fits into their everyday lives among all the other social apps they use to network and connect with others. So it’s not surprising to see a dip in Threads engagement now that the newness has worn off.
+
+But Zuckerberg is positioning the app’s engagement numbers as a win, not a loss.
+
+“I’m very optimistic about how the Threads community is coming together,” the CEO wrote on Threads on Monday. “Early growth was off the charts, but more importantly 10s of millions of people now come back daily. That’s way ahead of what we expected,” he continued. “The focus for the rest of the year is improving the basics and retention. It’ll take time to stabilize, but once we nail that then we’ll focus on growing the community. We’ve run this playbook many times (FB, IG, Stories, Reels, etc) and I’m confident Threads is on a good path too,” Zuckerberg added.
+
+His remarks follow earlier statements by Instagram head Adam Mosseri who said a few days ago that the focus right now was “not engagement” but “getting past the initial peak and trough we see with every new product, and building new features, dialing in performance, and improving ranking.” He also confirmed that Threads’ growth, retention and engagement were well ahead of company projections. In other words, Meta is not worried about any slight dips for the time being.
+
+Threads’ early success stirred up the rivalry between Zuckerberg and Twitter owner Elon Musk. Last week, for example, users noticed Twitter had begun blocking links to Threads in Twitter searches. Meanwhile, Musk resorted to name-calling, tweeting “Zuck is a cuck,” and crudely proposing a “literal dick measuring contest.”
+
+Still, it’s clear Threads has Twitter worried. In an effort to help retain high-profile Twitter users from abandoning the platform, the company last week started a new creator monetization program that would pay Verified creators a portion of the revenue earned from ads served in the replies to their posts. Creators reported receiving four to five-figure earnings. Over the weekend, Twitter tweaked the policy to increase the rate limits for Verified users by 50%, so they could scroll and read more tweets before being cut off. (Rate limits had been enacted as a means of cutting down on spam and bot activity on the platform.)
+In addition, Musk announced Twitter would begin to share ad revenue from profile page views as well, which should “roughly double payouts,” adding that only views from Verified users would count.
+
+Twitter is still ahead of Threads in terms of user base, but it’s still early days for the new Instagram app.
+
+Meta is promising a range of features are still to come to Threads, including things like multi-account support, an edit button, the ability to search posts not just profiles, translation, the ability to revisit liked posts, a chronological feed (aka following feed) and, of course, integration with the “fediverse” — or the decentralized social network that includes Mastodon and other apps.
+
+With these additions, Threads’ usage and retention could grow again as the app achieves feature parity with Twitter.

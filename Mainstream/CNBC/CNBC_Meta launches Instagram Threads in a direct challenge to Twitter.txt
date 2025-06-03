@@ -1,0 +1,49 @@
+Meta has officially debuted its Twitter-like messaging app Threads, which the company is pitching as Instagram’s “text-based conversation app.”
+
+Mark Zuckerberg, Meta’s CEO and co-founder, announced the debut of Threads on Wednesday, marking the official release of the social networking giant’s new text-focused messaging app. Threads represents Meta’s attempt to capture the wave of users who have left Twitter amid the often unpredictable ownership of Tesla and SpaceX CEO Elon Musk.
+
+The Threads app is now available to download for free on the Apple App Store and Google Play online store in over 100 countries, Meta said in a blog post. Threads shares Twitter’s visual aesthetic as a text-based social messaging app in which users can post short messages that others can like, share, and comment upon, according to screenshots of Threads that are available on Apple’s App Store.
+
+People will be able to follow the same Threads accounts that they follow on Instagram and reply to other public posts in a way akin to how people use Twitter.
+
+Zuckerberg said Threads had crossed 5 million sign ups within the first four hours.
+
+The official release comes after Instagram released on Monday a pre-order for Threads on the Apple App Store, which said that at the time that the app was expected to debut on July 6. Many Instagram users were also recently able to obtain invitations to access Threads from within their Instagram accounts.
+
+Although Threads is linked to Instagram, with users able to use their existing Instagram usernames, the messaging service is a separate app that people will need to download.
+
+“Threads is where communities come together to discuss everything from the topics you care about today to what’ll be trending tomorrow,” Instagram said in a description of Threads on the Apple App Store. “Whatever it is you’re interested in, you can follow and connect directly with your favorite creators and others who love the same things — or build a loyal following of your own to share your ideas, opinions and creativity with the world.”
+
+Meta said in the blog post that people’s individual feeds on the new messaging app will include “threads” that were posted by other users that they follow, in addition to recommended content shared from creators who users may not know.
+
+People will be able to publish Threads posts that are up to 500 characters long, and while the app is geared toward text, people will also be able so share links, photos and videos that can be as long as 5 minutes. Instagram users will also be able to share their Threads posts via the app’s story feature in addition to “any other platform you choose,” the blog post said.
+
+Meta said that it developed Threads “with tools to enable positive, productive conversations,” and people will be able to manage who is mentioning or is replying to them within the app.
+
+“Like on Instagram, you can add hidden words to filter out replies to your threads that contain specific words,” the blog post said. “You can unfollow, block, restrict or report a profile on Threads by tapping the three-dot menu, and any accounts you’ve blocked on Instagram will automatically be blocked on Threads.”
+
+The release of Threads comes as Twitter has suffered a wave of mishaps under the ownership of Tesla CEO Elon Musk, leaving the popular social messaging app vulnerable to competing apps.
+
+Most recently, Musk said that Twitter users will only be able to see a certain number of Tweets per day in an attempt to deal with “extreme levels of data scraping” and “system manipulation” on the messaging service.
+
+Numerous Twitter users publicly complained about Musk imposing a temporary so-called “rate limit” on Twitter, saying that the Tweet limits make the app a less engaging experience.
+
+BlueSky, a rival social messaging app that is backed by Twitter co-founder Jack Dorsey, said that it recorded “record-high traffic” after Musk announced the Twitter rate limit, and it temporarily paused sign-ups to deal with the influx of new users, who must currently be invited to use the app.
+
+Like BlueSky, Threads will use decentralized technology that theoretically lets users control and manage their data across other apps that incorporate the same underlying software.
+
+Whereas BlueSky is built on the decentralized networking technology dubbed the AT Protocol, Threads will eventually incorporate another decentralized technology called ActivityPub, Instagram head Adam Mosseri said in a Threads post on Wednesday that was briefly available to the public. The ActivityPub software also powers another Twitter-like messaging app called Mastadon, which has also experienced an influx of new users seeking an alternative to Twitter.
+
+Mosseri said that his team wasn’t able to include support for ActivityPub in time for Threads’ official release because of “a number of complications that come along with a decentralized network.” But he reiterated that support is coming.
+
+“If you’re wondering why this matters, here’s a reason: you may one day end up leaving Threads, or, hopefully not, end up de-platformed,” Mosseri said. “If that ever happens, you should be able to take your audience with you to another server. Being open can enable that.”
+
+Meta added in its blog post that ActivityPub will enable people without Threads accounts to view Threads and interact with Threads users who have public profiles via other social apps that incorporate the same decentralized technology.
+
+“If you have a public profile on Threads, this means your posts would be accessible from other apps, allowing you to reach new people with no added effort,” Meta said in the blog post. “If you have a private profile, you’d be able to approve users on Threads who want to follow you and interact with your content, similar to your experience on Instagram.”
+
+Meta said that Threads is the company’s first app “envisioned to be compatible with an open social networking protocol,” which it believes could usher “in a new era of diverse and interconnected networks.”
+
+In 2019, Meta, then known as Facebook, debuted a messaging app for Instagram users that was also called Threads. Unlike the current iteration of Threads that caters to text-based messages, the previous Threads app was instead centered around people sending short video and photo messages to their friends like they were using Snapchat.
+
+Meta eventually shuttered Threads in 2021, and redirected people to use Instagram to see all their previous Threads messages.

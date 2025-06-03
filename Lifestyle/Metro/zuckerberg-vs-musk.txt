@@ -1,0 +1,20 @@
+date_published=Tuesday 4 Jul 2023 10:35 am
+published_by=Rob Freeman and Katherine Fidler
+title=Zuckerberg vs Musk hots up as Meta launches Twitter rival
+body=Facebook owner Meta is launching a new app to rival Twitter this week.
+The platform Threads, which will be linked to Instagram, is available for pre-order in the Apple App Store and will go live on Thursday.
+It is described as a ‘text-based conversation app… where communities come together’.
+The new app is the latest chapter in the rivalry between Facebook boss Mark Zuckerberg and Elon Musk, who bought Twitter in October.
+Last month the pair – two of the world’s most high-profile billionaires – agreed to take each other on in a cage fight in an exchange that went viral on social media.
+A number of other social media platforms have been launched in a bid to rival the social media behemoth, including Mastodon, a decentralised platform, and Notes, Substack’s version.
+However, despite Mastodon enjoying a bump in users after Mr Musk took over Twitter in October, neither it nor any other challenger have given Twitter cause for concern.
+Where Threads differs is the huge potential audience given its billion active monthly users, and its origin as a Meta company.
+The name itself appears to be a nod to its rival, being a function of Twitter when users thread a string of posts together.
+The arrival of the new app comes after Twitter announced TweetDeck is to become the next part of the company to be limited to users who have paid for verified status.
+The application, which allows users to manage multiple feeds and searches, will only by accessible to verified users in 30 days, according to a tweet from Twitter Support on Monday evening.
+A new version of TweetDeck has been made available with the tweet giving instructions to update.
+The announcement follows Mr Musk announcing two days earlier that unverified users were being limited to reading 600 posts a day.
+He said the limit, which had been introduced ‘to address extreme levels of data scraping and system manipulation’, had been increased to 1,000 and 10,000 later on Saturday.
+The restrictions could result in users being locked out of Twitter for the day after scrolling through several hundred tweets.
+Verified users – who have paid for a subscription to Twitter Blue or are considered ‘notable’ – can read up to 10,000 posts daily after initially being limited to 6,000.
+Bluesky, an invite-only platform launched in February by Twitter founded Jack Dorsey, was forced to pause sign-ups due to a spike in traffic following Mr Musk’s announcement.

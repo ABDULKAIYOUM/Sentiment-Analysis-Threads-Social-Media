@@ -1,0 +1,13 @@
+Instagram Threads is launching on July 6, 2023. It is a text-based micro-blogging website like Twitter. Can it leverage Meta's social media and advertising experience to take on Twitter? Very likely and perhaps enough to leave a dent in Twitter’s business.
+
+Threads: What we know so far
+Meta has listed Threads on Apple App Store. The page shows the Threads launch date to be July 6, 2023. You can tap on the Get It button to ensure you are notified when the app finally releases. You can download Threads from Apple App Store (https://apps.apple.com/us/app/threads-an-instagram-app/id6446901002) and Google Play Store (https://play.google.com/store/apps/details?id=com.instagram.barcelona&gl=it).
+
+In select locations, if you search for Threads on Instagram, you will be presented with a spinning ticket icon. This shows the launch date and time along with the Threads.net website link. This is presumably the web interface of the app.
+
+As per the Threads’ app store listing, we know that:
+1. You can use your Instagram account for using Threads. This is just speculation but someday, Meta could bring all of its apps under one umbrella to form a Super app.
+2. You can find and follow your Instagram followers within this app. One of the downsides of Twitter alternatives like Blue Sky is that you may not find personal and brand accounts on them. The brands may hesitate to start an account on a new social platform from scratch. That won’t be a problem on Threads because of its association with Instagram.
+3. You can follow other creators you like and “discuss everything from the topics you care about today to what’ll be trending tomorrow”.
+4. Threads will be collecting a bunch of data linked to you. Jack Dorsey and Elon Musk have already criticised this. However, we suppose as long as Threads manage to offer a better convenient environment, people shouldn’t have a problem.
+5. The underlying foundation of Threads is expected to be ActivityPub, which powers Mastadon, Blue Sky and other decentralized Twitter competitors. If it functions in the truest sense, then users will have full control over the content they have posted, and how it circulates (without the interference of ad algorithms. Moreover, Thread users should be able to communicate with other decentralized social media apps/platforms. We are not sure whether Threads be fully decentralized and if it will have these features.Let’s see.

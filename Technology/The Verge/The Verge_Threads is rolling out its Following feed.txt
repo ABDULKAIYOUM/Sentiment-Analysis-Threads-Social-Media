@@ -1,0 +1,9 @@
+One of Instagram Threads’ most requested features is finally here: the Following tab that lets you see only the people you, er, follow. “Ask and you shall receive,” CEO Mark Zuckerberg said in a post on Threads quoting a user asking for the feature.
+
+For those of us who have the Following feed, we can make it appear and disappear by tapping the home icon or the Threads logo at the top of the page. Annoyingly, if you reopen the app after it fully shuts down, it reverts to the “For You” feed, meaning you’ll have to know where to look to bring the Following feed up again — whether that’s a bug or not remains to be seen.
+
+A Monday update promised new features in Threads, and the Following feed appears to be one of those additions; some, including a few of us here at The Verge, reported seeing the Following tab on the iOS and Android versions of the app Tuesday morning.
+
+According to a post from Zuckerberg on his Instagram broadcast channel, Threads has added translations as well. You can get a translation by tapping a small button on the bottom right of a Threads post.
+
+Threads launched with a very barebones set of features, and until now, your feed was filled exclusively with algorithm-determined posts from users and brands, whether you wanted it to be or not.

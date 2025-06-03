@@ -1,0 +1,12 @@
+date_published=July 7, 2023 2:33 p.m. PT
+published_by=David Lumb
+title=Threads Faces Legal Threat From Twitter, Report Says 
+body=Twitter threatened to sue Meta just one day after Facebook's parent company went live with its Twitter-like social media app Threads, according to a report by Semafor.
+"Competition is fine, cheating is not," Twitter Executive Chairman Elon Musk tweeted in response to the report Thursday.
+Meta CEO Mark Zuckerberg was reportedly sent a letter by Twitter lawyer Alex Spiro, accusing Meta of intentionally stealing "Twitter's trade secrets and other intellectual property." 
+Spiro accused Meta of getting Twitter's secrets by hiring dozens of former Twitter employees and claimed the Facebook parent company put them to work making a Twitter copycat, using their insider knowledge to speed up development of the Threads app -- which is "in violation of both state and federal law as well as those employees' ongoing obligations to Twitter," Spiro said in the letter.
+Meta communications director Andy Stone rebutted the accusations, saying in a Thread that "no one on the Threads engineering team is a former Twitter employee -- that's just not a thing."
+Later on Friday, Instagram chief Adam Mosseri said in a Thread that "the goal isn't to replace Twitter" but instead be a "less angry place for conversations." In response to a question about whether journalists and the news media would be supported on Threads, Mosseri acknowledged that while politics and hard news would inevitably show up on Threads, "we're not going to do anything to encourage those verticals."
+Threads launched Wednesday, with Meta positioning the new social media app as a Twitter rival. You can sign up for Threads using your Instagram credentials and keep your username, followers and verification status. Here's everything you need to know about Threads, which reached 70 million sign ups as of Friday morning, according to Zuckerberg.
+"Way beyond our expectations," Zuckerberg said Friday, though he's noted that "we've got a lot of work ahead to build out the app."
+In response to more criticism by both Musk and former Twitter CEO Jack Dorsey Thursday, Mosseri also said that Threads will be getting a chronological feed option at some point.

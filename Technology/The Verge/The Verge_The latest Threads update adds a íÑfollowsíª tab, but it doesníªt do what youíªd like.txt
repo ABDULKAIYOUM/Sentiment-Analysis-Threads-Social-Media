@@ -1,0 +1,9 @@
+Threads is getting a “follows” tab, but it’s not the following-only feed that users have been asking for. As outlined in this post from Threads developer Cameron Roth, the new tab lives on the app’s activity page and only lets you see a list of users who recently followed you.
+
+Threads previously listed your recent followers in its “all” tab on the activity page, so this isn’t that big of a change — it just makes your new followers easier to find. There are also two other filters for “quotes” and “reposts,” letting you filter recent activity by who reposted or quoted your thread.
+
+Additionally, Threads is rolling out translations, which should come in handy if you follow people from different countries. While I’m not seeing the option myself just yet, Roth says the feature will appear at the bottom of a post, alongside the like, reply, repost, and share buttons.
+
+Other minor changes include the ability to get notifications from users you don’t follow, improvements to activity feed scrolling, and the option to follow people from a post’s replies section. If you don’t see these changes right now, Roth says you might need to restart your app or wait until the end of the day. It’s still not clear when these changes will arrive on Android, though.
+
+Hopefully, a following-only feed is on the way soon. That would make the app much more pleasant to use, as I’m starting to get tired of wading through all the posts from influencers, celebrities, and brands that I don’t have any desire to keep tabs on.

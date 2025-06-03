@@ -1,0 +1,60 @@
+Facebook-parent Meta officially launched its Twitter competitor, Threads, last Wednesday, after first confirming its plans for the app just three months ago.
+
+Threads is already off to a strong start: it received 100 million sign-ups in less than a week, the app shows, including a large number of brands, celebrities, journalists and many other prominent accounts.
+
+The mood on Threads on the night of its launch felt a bit like the first day of school, with early adopters rushing to try out the app and write their first posts — and some questioning whether the app could end up being the “Twitter killer.” As of Thursday morning, Threads was the top free app on Apple’s App Store and a top trending topic on Twitter.
+
+Threads could pose a serious threat to Twitter, which has faced backlash since Elon Musk took over the platform in October 2022 and has run it with a fly-by-the-seat-of-your-pants approach. But Twitter has become particularly vulnerable in recent days, angering users over a temporary limit on how much content users can view each day. And for Meta, Threads could further expand its empire of popular apps and provide a new platform on which to sell ads.
+
+Here is everything we know so far about Meta’s Threads:
+What is Threads?
+Threads is a new app from the parent company of Facebook, Instagram and WhatsApp. The platform looks a lot like Twitter, with a feed of largely text-based posts — although users can also post photos and videos — where people can have real-time conversations.
+
+Meta said messages posted to Threads will have a 500-character limit. Similar to Twitter, users can reply to, repost and quote others’ Threads posts. But the app also blends Instagram’s existing aesthetic and navigation system, and offers the ability to share posts from Threads directly to Instagram Stories.
+Thread accounts can also be listed as public or private. Verified Instagram accounts are automatically verified on Threads.
+
+“The vision for Threads is to create an option and friendly public space for conversation,” Meta CEO Mark Zuckerberg said in a Threads post following the launch. “We hope to take what Instagram does best and create a new experience around text, ideas, and discussing what’s on your mind.”
+
+Some users did experience occasional glitches and issues getting content to load in the early hours after Threads launched, but that is to be expected when millions of users are joining and using an app at once.
+
+How do you sign up? (And can you leave?)
+Users sign up through their Instagram accounts and keep the same username, password and account name, although they can edit their bio to be unique to Threads. Users can also import the list of accounts they follow directly from Instagram, making it super easy to get up and running on the app.
+
+But it’s not quite so easy to leave Threads. While users can temporarily deactivate their profiles via the settings section on the app, the company says in its privacy policy that “your Threads profile can only be deleted by deleting your Instagram account.” Some users have also raised concerns about the amount of data that the Threads, like Instagram, can collect about users, including location, contacts, search history, browsing history, contact info and more, according to the Apple App Store.
+
+Where is Threads available?
+Threads is available in 100 countries and more than 30 languages via Apple’s iOS and Android, according to the company.
+
+Could Threads be the ‘Twitter killer’?
+Threads is just the latest platform launched in recent months in hopes of unseating Twitter as the go-to app for real-time, public conversations. But it may have the greatest chance at success.
+
+Many Twitter users have expressed desire for an alternative since Musk took over the platform late last year. Frequent technical issues and policy changes have sent some noteworthy Twitter users heading for the exits.
+
+Meta has at least one significant leg up on Twitter: the size of its existing user base. Meta is hoping to capture at least some of its more than 2 billion global active Instagram users with the new app. That’s compared to Twitter’s active user base, which is somewhere around 250 million.
+
+“It’ll take some time, but I think there should be a public conversations app with 1 billion+ people on it,” Zuckerberg said in a Threads post. “Twitter has had the opportunity do this but hasn’t nailed it. Hopefully we will.”
+On Wednesday, a lawyer representing Twitter sent a letter to Meta alleging intellectual property theft and threatening a lawsuit over Threads. Meta pushed back at the allegations.
+
+And in a tweet on Thursday, Twitter’s new CEO Linda Yaccarino appeared to acknowledge the rival app’s launch, calling Twitter “irreplaceable.”
+
+“We’re often imitated — but the Twitter community can never be duplicated,” she said.
+
+Meta’s existing scale and infrastructure could play to its advantage. Whereas many of the other Twitter competitors rolled out in recent months have required users to join waitlists or receive invitations to sign up, only to have to work to recreate their network on the new site, Threads makes it remarkably easy for users to get started.
+
+But Instagram CEO Adam Mosseri noted in a video posted to the platform that the challenge for new social media platforms often is not getting users to sign up, but rather keeping them engaged long-term.
+
+In particular, Meta will have to work to prevent spam, harassment, conspiracy theories and false claims on Threads, issues that have caused many users to sour on Twitter. The new platform’s launch comes after Meta laid off more than 20,000 workers starting last November, including user experience, well-being, policy and risk analytics employees. It also comes as campaign season for the 2024 US Presidential election ramps up, with some experts warning of an incoming wave of misinformation. Meta says its Community Guidelines will apply to Threads, just like its other apps.
+
+What else is in it for Meta?
+For Meta, Threads could be a way of eking additional engagement time out of its massive existing user base.
+
+Although there are no ads on the platform just yet, Threads could also ultimately supplement Meta’s core advertising business. Meta’s ad business could use a boost after facing challenges from a broad decline in the online ad market and changes to Apple’s app privacy practices, although, if Twitter’s history is any guide, the format is unlikely to attract as many ad dollars as Meta’s other platforms.
+
+For Zuckerberg, though, the real draw may be in attempting to best his rival, Musk, with whom he has in recent weeks been making plans to engage in a cage fight. Perhaps winning in the battle of social networks is even better.
+
+What’s next for Threads?
+Despite its early success, Threads remains a relatively bare bones app. It’s still missing many of the features users like about Twitter, such as a desktop version, direct messaging, trending topics and the option to edit posts.
+
+But Meta executives have already teased plans to continue building out Threads.
+
+Mosseri has suggested in Threads posts in recent days that the platform is working to eventually roll out hashtags, a more robust search function, a feed of only accounts a user follows and potentially direct messaging.

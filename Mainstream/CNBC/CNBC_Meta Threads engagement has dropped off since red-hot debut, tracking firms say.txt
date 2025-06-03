@@ -1,0 +1,29 @@
+What comes up must come down — at least in the case of user engagement on Threads, Meta’s new Twitter competitor.
+
+Last week, the text-based social media platform reported a record 100 million sign-ups in just five days, but according to data from Sensor Tower and Similarweb, the service has seen some dropoff in growth and engagement.
+
+“The Threads launch really did ‘break the internet,’ or at least the Sensor Tower models,” Anthony Bartolacci, managing director at Sensor Tower, a marketing intelligence firm, told CNBC. “In the 10-plus years Sensor Tower has been estimating app installs, the first 72 hours of Threads was truly in a class by itself.”
+
+But, he added, Sensor Tower data suggests a significant pullback in user engagement since Threads’ launch: On Tuesday and Wednesday, the platform’s number of daily active users were down about 20% from Saturday, and the time spent for user was down 50%, from 20 minutes to 10 minutes.
+
+“These early returns signal that despite the hoopla during its launch, it will still be an uphill climb for Threads to carve out space in most users’ social network routine,” Bartolacci said. “The backing of Meta and the integration with Instagram likely gives Threads a much higher flood than other services, but it will need a more compelling value proposition than simply ‘Twitter, but without Elon Musk.’”
+
+Data from Similarweb, a digital data and analytics company, showed similar trends. Threads saw a dropoff of more than 25% in daily active users between its July 7 peak and Monday for Threads users on Android phones worldwide. The company is not yet finished calibrating its model with iOS data.
+
+Similarweb data also suggested that usage time dropped by more than half, with the average amount of time U.S. users spent on the app dropping from about 20 minutes on July 6 to just over 8 minutes on July 10.
+
+“We did see engagement drop somewhat over the weekend, and on Monday we estimate Threads had 36.6 million active users on Android,” David Carr, senior insights manager at Similarweb, told CNBC, adding, “While there was intense interest in checking out the app initially, not every user has made a habit of visiting Threads as often as they might other social apps.”
+
+Since its debut on July 5, Threads made headlines for its Instagram sign-up integration, algorithmic feed and positive sentiment from advertisers. Within one day of Threads’ launch, The Verge reported that users had already posted more than 95 million posts and 190 million likes, based on internal company data it had viewed.
+
+Threads is still in its extremely early days, and it’s natural for a sign-up boom to taper off as users explore a new service and whether the community, and the topics it pushes, are a fit.
+
+A Meta spokesperson noted, “While it’s early days, we’re excited about the initial success of Threads, which has surpassed our expectations. We launched the app just over a week ago, and our focus now is on ensuring stable performance, delivering new features and continuing to improve the experience in the coming months.” The company also noted that CEO Mark Zuckerberg has commented on Threads that most of its growth to 100 million sign-ups was organic, not the result of promotions.
+
+Adam Mosseri, head of both Instagram and Threads at Meta, has been vocal about the fact that he does not plan to prioritize news or politics on the new platform, meaning that it may not serve as an apples-to-apples Twitter replacement for some power users.
+
+“Politics and hard news are inevitably going to show up on Threads - they have on Instagram as well to some extent - but we’re not going to do anything to encourage those verticals,” Mosseri wrote on Threads.
+
+“Meta only needs 1 in 4 Instagram users to use Threads monthly for it to be as big as Twitter,” Jasmine Enberg, principal analyst at Insider Intelligence, said in a statement.
+
+“Some of the engagement Threads has enjoyed seems to have been siphoned straight from Twitter,” Similarweb’s Carr told CNBC. “In the first couple of days of peak Threads activity, last Thursday and Friday, Twitter web traffic was down about 5% from the same days of the previous week. These are admittedly very early indicators, but they do show Threads has the potential to steal significant usage away from Twitter, particularly as the Threads app team starts to fill in missing features like hashtags and topical search.”

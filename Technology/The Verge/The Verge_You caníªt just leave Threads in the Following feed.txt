@@ -1,0 +1,11 @@
+The brand-new Following feed in Meta’s Threads won’t always stick around if it’s your preferred way to use the app.
+
+The much-needed Following feed is unfortunately a bit hidden: you can make it appear by tapping the home icon at the bottom of the screen or the Threads logo at the top. Once you see it, you can switch between “Following,” which shows posts in reverse-chronological order, and “For You,” which is the algorithmically sorted feed the app has offered since launch.
+
+But a few of us at The Verge noticed that Threads will occasionally rehide the Following feed and bring you back to the For You feed after you open the app. (You can test it for yourself by force closing and reopening the app.) Unfortunately, it sounds like that’s by design, based on a statement from Meta.
+
+“For You is the default experience when you open the Threads app,” Meta spokesperson Seine Kim tells The Verge. We’ve asked Kim if Meta plans to add a way to set Following as a default in the future.
+
+Having no way to make Following the default is a particularly annoying decision if you want to regularly use the app to get caught up on the latest news. Although, given that Instagram boss Adam Mosseri has said that Threads isn’t for news and politics, this For You / Following behavior perhaps shouldn’t come as a surprise. (Instagram also deprioritizes the Following feed by hiding it behind a nondescript arrow next to the Instagram logo.)
+
+Elon Musk’s X / Twitter also tried to push users toward its “For You” feed by making it the default in January, but it reversed that decision shortly after.

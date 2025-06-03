@@ -1,0 +1,22 @@
+Twitter's ongoing turf battle has presented an opportunity for its competitors. Multiple social media platforms are now attempting to attract the microblogging site's dwindling user base. Here are four platforms that Twitter is losing its used base to.
+
+Twitter has been making headlines ever since it was acquired by the tech tycoon Elon Musk for 44 Billion USD in October 2022. Currently, the social media platform is losing traffic with each passing day. Twitter's ongoing turf battle has presented an opportunity for its competitors. Multiple social media platforms are now attempting to attract the microblogging site's dwindling user base. Recently, several companies have launched platforms modelled after Twitter.
+
+Content creator and musical composer Yashraj Mukhate who has 5 Million Subscribers on YouTube said, "Twitter has become overcrowded now. Threads will definitely overthrow the impact of Twitter." As the competition intensifies, and in view of the ever-changing regulations, a vast majority of users are exploring viable alternatives to Twitter. Here are four platforms that Twitter is losing its used base to.
+
+1. Threads by Instagram
+
+Looking at the speed at which the app garnered popularity, Viraj Sheth the CEO and Co-founder of Monk Entertainment, an influencer marketing agency said, "Threads needs some serious upgrades but I trust the Meta team to bring that very soon. They are supersonic when it comes to execution so trust them to make the experience even better." Threads is currently the one that could hurt Twitter the most. In fact, within a few days of launch, Threads has reported over 100 million registrations, which is a staggering number of users even for a well-established social media platform. However, the almost two-decade-old platform, Twitter has four times the user base (450 million) of Threads. Why is Instagram's Threads becoming a force to be reckoned with is because of its parent company Meta which is a social media conglomerate that controls platforms like Facebook, Instagram, and WhatsApp. Despite Threads being the first iteration, Intagram's engineers that worked on the app have done a seamless job.
+
+2. Bluesky
+
+While Threads is easily accessible to any with an Instagram account, Bluesky has a different approach. Bluesky has not aimed to be a record-breaking site for the fastest number of sign-ups; rather, plans on becoming the more trusted platform where users need to be invited to join the platform. The app has received over $21 million in funding with the backing of Twitter co-founder and ex-CEO Jack Dorsey. It is currently in Beta and is available for iPhone users. While Bluesky has been said to look similar to Twitter its core is a lot different from the mainstream microblogging platform as it is a decentralized platform. It is reportedly a lot more private than Twitter or Threads.
+
+3. Mastodon
+
+Mastodon is another blogging platform with over 10 million registrations and 2 million active users. With its easy-to-use interface, Mastodon was set to be the next Twitter. Especially in the post-Elon-Musk-buyout Twitter era, Mastodon has become one of the most popular decentralized applications used by everyday folk. Mastodon calls itself a "federation" because it consists of several thousand separate "instances" that serve people content (unlike at companies like Twitter or Facebook, which maintain their own servers). Anyone can run their own or ask to join another instance, which can set their own moderation standards. However, recent apps Threads and Bluesky with better features have impacted the overall adoption of Mastodon.
+
+4. Spill
+
+Created by ex-Twitter employees is yet another invite-only microblogging platform that emphasizes cutting-edge technologies like AI and blockchain to differentiate itself from the competition. Spill was built around prioritizing safety for culturally diverse communities aka 'culture drivers,' a term coined by the founders. With Twitter seeing a rise in hate speech, there is an increasing need for a more secure digital space. This is where Spill steps in, with its AI closely monitoring and controlling hate and abuse against communities of colour. However, the platform has been criticised a lot by peers for its claims. Spill claims to offer unbiased feed when compared to its contemporaries.
+

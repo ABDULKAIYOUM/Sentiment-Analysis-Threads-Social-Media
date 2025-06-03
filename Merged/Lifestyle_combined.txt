@@ -1,0 +1,1224 @@
+Several online research agencies report that users appear to be leaving Twitter for Threads. But these are still early days.
+
+Meta's new app Threads may not yet be the "Twitter killer" that some social media denizens claim, but industry analysts say its launch last week is seriously hurting Twitter's numbers.
+
+Mark Zuckerberg, CEO of Meta, said on Monday that Threads has already hit 100 million downloads.
+
+Meanwhile, traffic to Twitter is "tanking," according to Cloudflare CEO Matthew Prince, who Tweeted a chart of Twitter's domain ranking dropping over the weekend.
+
+According to Similar Web, a website analysis and market intelligence platform, traffic to Twitter's website dropped 5% during the first few days of Threads' rollout.
+
+The gloves are off
+Threads' surprising early success has caused a contentious relationship between Twitter's Elon Musk and Mark Zuckerberg's Meta to unravel completely.
+
+Last week, Twitter's CEO threatened to sue Meta, claiming that the new platform copied Twitter.
+
+"Twitter intends to strictly enforce its intellectual property rights, and demands that Meta take immediate steps to stop using any Twitter trade secrets or other highly confidential information," Twitter lawyer Alex Spiro wrote.
+
+Over the weekend, Musk aimed his ire straight at Zuckerberg, tweeting, "Zuck is a cuck," and proposing "a literal dick measuring contest."
+
+So far, Zuckerberg hasn't taken the bait, preferring to point to Threads' impressive numbers than to spar with Musk — although he did agree to a cage match last week.
+
+In a Threads post, Zuck boasted that Threads signups were the result of "mostly organic demand, and we haven't even turned on many promotions yet."
+
+But despite the colorful barbs and taunts between billionaires, the jury is still out on the real impact Threads will have on Twitter's bottom line.
+
+Sure, 100 million users in 4 days is an astonishing achievement, but it's still far from Twitter's 354 million active users. And just because everyone's checking out the shiny new car on the lot doesn't mean they'll stick around after the test drive.
+
+"Whether they actually become engaged users or not, it will take a while to know," said Evercore ISI analyst Mark Mahaney told The Wall Street Journal.
+
+
+Head of Instagram, Adam Mosseri, said the company is working on fixing some of the new app's most talked about issues.
+
+At first, I wasn't going to sign up for Threads — then I did. Then my friends did. And my co-workers. And my dad, whose first thread was about how "stoked" he was to be there.
+
+While I have yet to fully submerge myself into the…thread-sphere? Thread-a-verse? The sheer simplicity of joining (you can sign up with a single click if you link through Instagram) made it all too easy to hop on — apparently for millions of others, too.
+
+Threads, the text-based app by Meta, has rapidly gained popularity since its launch less than a week ago to the surprise of Meta employees. The company reportedly anticipated millions of users, not 100 million, which it garnered in just five days, making it the fastest-growing platform ever, according to data from Quiver Quantitative.
+
+"I never thought I'd want Zuckerberg to beat Twitter, but here we are," a former Twitter employee told Business Insider, with another source adding that Threads is the "first legit competitor" to Twitter.
+
+"I'm so surprised. Everyone is," a Meta employee told the outlet.
+
+Still, it's not perfect, and users have been calling out the platform for its flaws, including the lack of a chronological feed, showing posts from accounts users follow, the absence of direct messaging, and the inability to see which posts a user has already liked — a feature I often utilize on Twitter to return to an account or remind myself to read something later.
+
+Responding to the feedback, Adam Mosseri, the head of Instagram, confirmed that a chronological feed is in the works and is among several planned updates for Threads, BBC reported, including the ability to edit a post, language translation, easier account switching, improvements to the desktop interface, and a "more robust search function."
+
+Elon Musk, who acquired Twitter in October 2022, made a series of changes to the app (most of which have been met with scathing feedback from users) and has found himself on the defensive. With only five days since the launch, Musk has engaged in a heated exchange with Zuckerberg via cease-and-desist letters and social media posts (all of which are very public, and very embarrassing).
+
+Threads is not a perfect app, but let's face it: It had impeccable timing. The app emerged as many many Twitter users were already on their way out.
+
+In truth, I miss the old Twitter, and if anything, Threads makes me miss it more. I'm still on the platform — well, both platforms now — it's just…different. Neither feels quite "right." Threads may be a viable alternative, but until Meta addresses the much-needed updates — or until Twitter gets its act together — I'll be on the sidelines, keeping whatever bite-size thoughts I once would have shared with the internet in my head (far away from both Musk and Zuckerberg).
+
+Wall Street, however, is definitely on board. Analysts anticipate Threads to become a lucrative source of revenue for Meta, potentially generating $8 billion annually if it reaches 200 million users, per Bloomberg.
+Twitter's ongoing turf battle has presented an opportunity for its competitors. Multiple social media platforms are now attempting to attract the microblogging site's dwindling user base. Here are four platforms that Twitter is losing its used base to.
+
+Twitter has been making headlines ever since it was acquired by the tech tycoon Elon Musk for 44 Billion USD in October 2022. Currently, the social media platform is losing traffic with each passing day. Twitter's ongoing turf battle has presented an opportunity for its competitors. Multiple social media platforms are now attempting to attract the microblogging site's dwindling user base. Recently, several companies have launched platforms modelled after Twitter.
+
+Content creator and musical composer Yashraj Mukhate who has 5 Million Subscribers on YouTube said, "Twitter has become overcrowded now. Threads will definitely overthrow the impact of Twitter." As the competition intensifies, and in view of the ever-changing regulations, a vast majority of users are exploring viable alternatives to Twitter. Here are four platforms that Twitter is losing its used base to.
+
+1. Threads by Instagram
+
+Looking at the speed at which the app garnered popularity, Viraj Sheth the CEO and Co-founder of Monk Entertainment, an influencer marketing agency said, "Threads needs some serious upgrades but I trust the Meta team to bring that very soon. They are supersonic when it comes to execution so trust them to make the experience even better." Threads is currently the one that could hurt Twitter the most. In fact, within a few days of launch, Threads has reported over 100 million registrations, which is a staggering number of users even for a well-established social media platform. However, the almost two-decade-old platform, Twitter has four times the user base (450 million) of Threads. Why is Instagram's Threads becoming a force to be reckoned with is because of its parent company Meta which is a social media conglomerate that controls platforms like Facebook, Instagram, and WhatsApp. Despite Threads being the first iteration, Intagram's engineers that worked on the app have done a seamless job.
+
+2. Bluesky
+
+While Threads is easily accessible to any with an Instagram account, Bluesky has a different approach. Bluesky has not aimed to be a record-breaking site for the fastest number of sign-ups; rather, plans on becoming the more trusted platform where users need to be invited to join the platform. The app has received over $21 million in funding with the backing of Twitter co-founder and ex-CEO Jack Dorsey. It is currently in Beta and is available for iPhone users. While Bluesky has been said to look similar to Twitter its core is a lot different from the mainstream microblogging platform as it is a decentralized platform. It is reportedly a lot more private than Twitter or Threads.
+
+3. Mastodon
+
+Mastodon is another blogging platform with over 10 million registrations and 2 million active users. With its easy-to-use interface, Mastodon was set to be the next Twitter. Especially in the post-Elon-Musk-buyout Twitter era, Mastodon has become one of the most popular decentralized applications used by everyday folk. Mastodon calls itself a "federation" because it consists of several thousand separate "instances" that serve people content (unlike at companies like Twitter or Facebook, which maintain their own servers). Anyone can run their own or ask to join another instance, which can set their own moderation standards. However, recent apps Threads and Bluesky with better features have impacted the overall adoption of Mastodon.
+
+4. Spill
+
+Created by ex-Twitter employees is yet another invite-only microblogging platform that emphasizes cutting-edge technologies like AI and blockchain to differentiate itself from the competition. Spill was built around prioritizing safety for culturally diverse communities aka 'culture drivers,' a term coined by the founders. With Twitter seeing a rise in hate speech, there is an increasing need for a more secure digital space. This is where Spill steps in, with its AI closely monitoring and controlling hate and abuse against communities of colour. However, the platform has been criticised a lot by peers for its claims. Spill claims to offer unbiased feed when compared to its contemporaries.
+
+
+The battle between Mark Zuckerberg's Threads and Elon Musk's Twitter is heating up — Twitter is threatening to sue Meta for "systematic, willful, and unlawful misappropriation of Twitter's trade secrets and other intellectual property."
+
+A letter written by Twitter's lawyer, Alex Spiro, accused Meta and Threads of using "trade secrets" by hiring dozens of ex-Twitter employees to help build and roll out the new platform, calling it a "copycat" of Twitter's original platform.
+
+"Twitter reserves all rights, including, but not limited to, the right to seek both civil remedies and injunctive relief without further notice to prevent any further retention, disclosure, or use of its intellectual property by Meta," the letter reads.
+
+Musk confirmed the proposed suit and letter on Twitter, which he bought for $44 billion last fall.
+
+Threads, which has already garnered over 30 million subscribers, has been called a "Twitter copycat" or a "Twitter killer," depending on who you ask. The app allows users to post text (up to 500 characters), photos, and videos.
+
+Andy Stone, director of communications at Meta, addressed the letter in a Thread and denied allegations that the company was hiring former Twitter employees, saying it was "not a thing."
+
+The legal threat is just the latest news in the ongoing feud between Zuckerberg and Musk. Last month, the billionaires took it as far as proposing a cage-fighting match.
+
+"Twitter never succeeded as much as I think it should have, and we want to do it differently," Zuckerberg said in a Thread of his own when the platform officially launched this week.
+
+Meta was up over 70.8% year-over-year as of Thursday morning.
+
+
+Zuckerberg and Musk have been squabbling for weeks.
+
+The feud between Meta founder Mark Zuckerberg and Twitter owner Elon Musk heated up on Wednesday after Meta officially launched its Twitter-like competition, a new platform called Threads.
+
+The app, which gives users the ability to sync followers and profile information from their Instagram profiles, had over 30 million users sign up just one day after it launched, per Engadget.
+
+Zuckerberg also confirmed that the platform had 5 million users just four hours after it launched.
+
+"The vision for Threads is to create an option and friendly public space for conversation," Zuckerberg said in a post on Threads on Wednesday. "We hope to take what Instagram does best and create a new experience around text, ideas, and discussing what's on your mind."
+
+Threads posts have 500-character limits — Tweets have a 280-character limit, except for those who pay for Twitter Blue, the platform's premium version — and can contain text, photos, and videos.
+
+"Twitter never succeeded as much as I think it should have, and we want to do it differently," Zuckerberg said Wednesday.
+
+Upon the launch, Musk decided to take subtle jabs at the platform by laugh-reacting to several Tweets that made fun of Threads, including one that referred to Threads as a "special hell."
+
+Zuckerberg also took to Twitter to post a meme, his first time actively using the platform in over a decade.
+
+The two have been squabbling in recent weeks after Musk decided to challenge Zuckerberg to a cage fight via social media.
+
+The two reportedly set the location for Las Vegas, but the fight was quickly squashed.
+
+So far, the platform has been receiving mixed reviews from users who ironically took to Twitter to give their opinions.
+
+Meta was up over 71% year over year as of Thursday morning.
+Those who believe that the only war tech whizzes can fight are the ones online — may be forced to eat their words. When Twitter CEO Elon Musk first threw down the gauntlet; challenging Meta CEO Mark Zuckerberg to a cage fight, many rolled their eyes at the theatrics between the two tech billionaires. But with Zuckerberg launching the Threads app — in direct competition with Twitter — it seems like the battle may be heading to the rings. And Zuckerberg’s already delivered the first punch.
+
+However, Musk seems to be on a mission to settle scores since Twitter has threatened legal action against Meta for hiring former Twitter employees who helped the latter launch Threads. According to Semafor, lawyer Alex Sipro, on behalf of Twitter, accused Zuckerberg of getting on board ex-Twitter staff who have “access to Twitter's trade secrets and other highly confidential information.”
+
+It all started in June, when entrepreneur Marion Nafwal tweeted about Instagram releasing the text-based social media network Threads as a Twitter rival. Musk, who’s received much flak for changing the platform ever since he took over Twitter last October, responded instantly with: “up for a cage match if he (Zuckerberg) is lol.”
+
+What may have been brushed aside as one of Musk’s many outrageous tweets gained heat when Zuckerberg reportedly shot back, posting a screenshot of Musk’s tweet with the caption “send me location” on his Instagram. One can’t miss the reference to the catchphrase of Khabib Nurmagomedov, one of the U.F.C.’s most celebrated athletes.
+
+While any details regarding the physical match — date, location and well, if it really is happening, is yet to be officially confirmed… we know one thing forsure: things are getting weird in the tech world. But you don't want to miss out on the action. Here's everything about the Elon Musk vs Mark Zuckerberg cage fight.
+
+Elon Musk vs Mark Zuckerberg: All about the cage fight between the two tech titans
+
+What prompted the cage fight?
+
+We don’t know if there will be a real, physical cage fight between the two tech titans, but one thing’s for sure: it’s generating enough buzz around two of the biggest social media platforms of our times — Twitter and Meta. This works especially in the latter’s favour, considering its recent launch of Threads as a direct competitor to Twitter, that’s dominated the space hosting public conversations on social media for over a decade now.
+
+Threads, introduced as a clear spin-off of Instagram, allows its built-in Instagram user base (no need to start from scratch here!), the option to share texts and images, and engage in real-time conversations — much like Twitter. However, Twitter has changed significantly since Musk’s messy takeover last year, with hundreds leaving the platform. Zuckerberg seems to have struck when the iron was scalding hot; introducing a “sanely run” competitor to Twitter at a time when most users seemed unhappy with its Musk-led revamped version.
+
+Clearly, Musk didn't take very well to the news.
+
+Will the fight actually take place?
+
+When the New York Times spoke to Dana White, President of the Ultimate Fighting Championship (U.F.C.), he confirmed that Musk, Zuckerberg and himself — aided by advisers — were all inching in favour of the fight. In short, even though there’s no guarantee that the fight will take place, the “broad contours of an event are taking shape”, he told the newspaper.
+
+Where will it take place?
+
+Dana White told The New York Times that the preferred location for the fight would be Las Vegas, although that would require approval from the Nevada Athletic Commission. However, Musk excited a legion of the spat-following social media users on Thursday, when he tweeted that Ground Zero may be the Roman Colosseum — history’s legendary battleground.
+
+However, the Ministry of Culture in Italy had cleared up a rumour set ablaze by TMZ that their minister of culture had gone out on a limb and offered the Colosseum to Zuckerberg for the big fight. “Even if the news is tasty it is unfounded,” the ministry statement read, as reported by The Verge.
+
+Are Elon Musk and Mark Zuckerberg trained for the fight?
+
+A world-famous brawl between two of the richest men in the world is certainly a sight to behold… if it happens that is… but are Elon Musk and Mark Zuckerberg equipped to lock horns? Musk is 52, Zuckerberg: 39. Musk is 70 pounds heavier than Zuckerberg, who’s trained in jiu jitsu, a popular mixed martial arts form, and recently won two medals in a Brazilian Jiu-Jitsu tournament in Redwood City, California.
+
+Zuckerberg reportedly kickstarted his jiu jitsu training in his garage (the haven for tech entrepreneurs) in 2021; building a “mini academy” with a circle of friends. In June, he created a personal record for completing the “Murph Challenge” — which requires one to carry out a series of pull-ups, push-ups, sprinting through multiple miles and do hundreds of squats while wearing weighted, military-grade body armour.
+
+On the other hand, Musk tweeted that he “almost never works out” other than picking up his kids and throwing them into the air. He followed this up with another barb: “I have this great move that I call ‘The Walrus’, where I just lie on top of my opponent and do nothing.”
+
+However, Lex Fridman, a famous podcaster, recently posted photos of training in judo with the Twitter CEO and UFC champion Georges St-Pierre. Fridaman had also trained in jiu jitsu with Zuckerberg.
+
+Who will emerge the victor in the Musk vs Zuckerberg cage-fight, should it happen? Guess we’ll have to wait and find out.
+Meta, the parent company for Facebook, Instagram, Messenger and WhatsApp, have now launched a new platform named Threads, an app to directly compete with Twitter as a “text based conversation app”. Meta’s CEO, Mark Zuckerberg, describes Threads to be a “friendlier” alternative to the already well-established and ludicrously popular Twitter, which in recent times has been struggling to retain its users with a series of increasingly unpopular updates.
+
+Threads is directly linked to Instagram, where users can sign up and log in to the new platform with all their already existing details and connections with other people. You can automatically follow all the same individuals you do on Instagram, and can share posts directly onto either app in a totally compatible manner.
+
+According to Zuckerberg, Threads gained over 10 million user sign-ups within the first seven hours of the app going live.
+
+One major selling point of Threads is its mission to encourage a friendly, safe environment for all kinds of people, where filtering out certain kinds of content that may feature specific key-words or subject matter is made quick and easy, just as it is on Instagram. This directly targets Twitter’s reputation for being a platform that features a great amount of toxic, hostile behaviour between users, where early adopters of Meta’s alternative, such as Democratic US Representative Alexandria Ocasio-Cortez, stated on her first post “May this platform have good vibes, strong community, excellent humour and less harassment”.
+Are you on Threads? 
+
+It’s the question on everyone’s lips, it seems. And, overwhelmingly, the response is likely to be “yes”, or “soon”.
+
+It recently overtook ChatGPT as the fastest-growing app of all time and within two hours of the app’s availability last week, Threads experienced two million sign ups before reaching 10 million by the end of the day. According to Meta CEO Mark Zuckerberg, the following morning the figure had climbed to 30 million.
+
+There can be no doubt that Threads’ popularity has been aided by its integration with Instagram, which makes it easy for people to set up and add followers. Whether users want their Instagram connections on a Twitter-like platform has also caused some contention.
+
+Twitter apparently has around 350 million regular users, so it’s not a surprise that Elon Musk is bristling at a rival making such a successful debut, especially since he only acquired the company in October. His new CEO has purportedly been installed to steady the ship, with little promise of this, but Threads’ epic success with new users could unseat the 17-year-old Twitter from its reign.
+I often think about how we have dishonoured the noble pursuit of bloodsport through years of decency, decorum, and health and safety. The Romans had gladiatorial to-the-end combat, tigers on hand for if it went on too long, and death races where heroic generals got stomped to death by horses. Can you imagine what an incredible stag do that would make, in the baking sun? You and 20 lads called Tom, welts of red sunburn across all your foreheads, a beer snake writhing from one end of the stadium to another, doing a “Sweet Caroline” chant while someone died? That would be incredible, that would be amazing. But no, no. Instead, we have ‘influencer boxing’ in an air-conditioned arena, nobody caring who wins or loses.
+
+The latest round of this is: sunscreen-abuser Mark Zuckerberg and tunnel-inventor Elon Musk, two tech billionaires who exist along the same long spectrum of nerdy and cringe, have agreed to fight each other in a cage match. This won’t actually happen, for various reasons – the aforementioned health, and safety; the very real threat to stock prices for the companies of Meta and Tesla should one of their founder-CEOs lose, or, worse, be captured in 4K in front of millions of people toplessly succumbing to a chokehold. There's also the fact that everything Elon Musk has said for the past ten years has been a strange joke without a punchline – when he says “up for a cage fight”, “Vegas Octagon”, he doesn’t actually know what he’s saying. He’s sleeping under a desk at Tesla HQ and is online 25 hours a day. He doesn’t know where he is or what he’s doing. He could be floating on a yacht outside one of the Maldives with a spare Pussycat Doll and the planet’s greatest masseuse. Instead he’s spending ages and ages trying to get a new Discord emote to work how he wants it to. The man is squandering the infinite possibility of wealth, and losing in combat to Mark Zuckerberg would be yet another example of that.
+
+Do I want to see this happen? Eh, I do and I don’t. On the one hand: by all accounts, Mark Zuckerberg is incredibly adept at jiu-jitsu, and also has the blank-behind-the-eyes chilling stare that you only really get with America’s best serial killers, and I would love to see him dismantle Elon Musk – a man I have only ever learned anything about under duress – piece-by-piece, trapped in a cage, while his acolytes watch on in horror. His fingers are broken, his spine’s inverted. Grimes is posing courtside, draped across a basketball player. Like: if they streamed that on YouTube, would I watch it? Probably, yeah. It depends what time it’s on. I’ll probably see all the fatal moves in .GIF form in the morning, anyway, so it doesn’t really matter if I stay up for it.
+
+On the other hand: no, I very much don’t want to see Mark Zuckerberg grapple Elon Musk in a cage match, even if he pulls his eyes out, because I am sick of watching people with social cachet disgrace combat sports with slickly boring exhibition matches. Has there ever been a good influencer fight, ever? There has not. Logan Paul landed about one punch on a mid-forties Floyd Mayweather Jr., who went on to make another few million out of sort-of sparring Deji. I will admit with shame I watched Jake Paul vs. Tommy Fury, but that was mainly because I wanted to see what sort of commotion John Fury would cause if his son lost (the top would’ve have gone, that’s the first thing that would have happened. Then he would have done something so manic it would have strained Western relations with the Kingdom of Saudi Arabia, possibly forever). British OnlyFans girls seem to be constantly training for three-round undercard bouts with each other then talking about them on neon-lit video podcasts that in turn litter my Instagram Explore page. It’s a self-fulfilling economy, sure, but it’s not actually an entertaining one. Fighting used to mean something. It used to mean: I’m mad, and I’m hard, and I want to prove I’m the maddest hardest person who weighs my weight or thereabouts in the entire world. Now it’s just something the Sidemen can talk about on Twitch.
+
+I recently discovered YouTube ‘Streetbeefs Scrapyard’, and it’s made me fall in love with violence again. The – as the website has to stress, “LEGAL” – Washington-based fighting organisation is basically a homemade octagon in someone’s garden and everyone who fights there does so because they started doing a bit of boxing training in the gym eight months ago and have a roaring, ancient, warrior’s need to express that energy somehow. You see some really formless scraps – a lot of panting, and grappling, and the quiet squeaking sound of trainers on plastic – but they’re fighting because they have a need to fight, a need to prove something (more to themselves than anyone watching), and every small bout feels more genuine than an all-day press conference preceding a five-round stadium fight where Big John has been hired to turn up and say “bosh”. Bridled properly, human violence is phenomenally entertaining. I’m not sure Mark Zuckerberg emotionlessly choke slamming Elon Musk will really hum the right notes.
+You know it’s bad for Elon Musk when people are genuinely excited about jumping back into bed with Mark Zuckerberg. This morning, Meta – the social media app whose greatest hits include the democracy-threatening nightmare that is Facebook and the world’s most expensive game of Second Life – launched Threads, its wholesale rip-off of Twitter. People are hyped! Celebrities are already porting their Instagram accounts over; the brands are already back on their bullschtick. Meta has reportedly spent millions on their latest superfake, and it shows: the app is as slick as you’d expect from a company that has spent the last decade refining the art of buying out or straight up plagiarising every rival social media platform that dares raise its head.
+
+Seven million users signed up to Threads in the first 10 hours, making it already the likely largest of the many Twitter clones to have launched since Musk’s takeover in 2022: T2, Bluesky, Post, Mastodon, and the rest. Already, Zuckerberg has postulated that Threads might eventually have a billion users. (Just post the Social Network gif, you coward!) For any other business leader, such lofty aims might be seen as maniacal. But this is Meta, a company that boasts three billion users and currently has a market cap in excess of $750 billion. We’ve come to expect as much from a guy who reportedly idolises the Roman emperor Augustus – as in, the guy who dismantled Roman democracy and instilled himself as Caesar, murdering and enslaving his enemies in the process – so much he named his own daughter August.
+
+Before we all embrace yet another place to shitpost away our boredom, let’s take a moment to marinate in the fact that somehow our lord and saviour of social media in 2023 is the same company it feels like just yesterday was being hailed by its own former employees as a threat to democracy; one that has been fined billions for illegally harvesting user data; that is in a dispute with an entire continent over flagrant breaches of EU laws; and whose past list of sins range from allegations of massive tax avoidance to allegedly enabling the organisation of an actual genocide.
+
+It’s worth taking a moment to try and understand how funny this all is. Since Musk took over, Twitter has seen an explosion in spam, scams, and hate speech, and an exodus of blue-chip advertisers, leading to reports that Twitter can’t pay many of its bills. Musk’s roll-out of Twitter Blue has been so hilariously bungled that he literally can’t give it away.
+
+The one winner from Musk’s midlife crisis might be Zuckerberg, a man whose catastrophic leadership at Meta of late recently led to it laying off 11,000 workers; last year Meta’s VR arm alone lost more than twice as much money than Twitter makes in annual revenue.
+
+As a business venture, Threads only kind of makes sense; Twitter has never been a particularly good business, at least by Zuck’s standards. What it is incredible at is dictating the global conversation, to a degree Instagram or Facebook never really have, and as a result Threads really only makes sense if viewed through the lens of Zuck’s Augustine ambitions. It is impossible to overstate the extent to which almost everything you read, hear, and watch in 2023 is influenced by Twitter. It’s where the politicians are, where social activism is, and it has so fully captured the attention spans and free output of the media for so long that it is almost impossible for most of us to even imagine leaving.
+
+This is what Musk is relying on, and what Threads and its ilk are up against: Twitter’s sunk-cost fallacy. Many Twitter users have spent years – 14, in my case – building followers, and learning to monetise their attention. Twitter has built whole careers; even as the company itself has profited from goading its users to generate work for free. (This is Twitter Blue’s fundamental flaw: while TikTok, Youtube and Instagram understand that the value of social media comes from the creativity of its power users, Musk seems to think that what people value is Twitter itself.)
+
+It says a lot that almost all anyone can talk about on Threads so far is Twitter. The same has been true, in my limited experience, of Mastodon and Bluesky and the other Twitter clones. In all of those cases, except perhaps Mastodon, the excitement has rarely lasted longer than a day or two, as all but the most ardent users realise that they really can’t be bothered to start afresh.
+
+That might change with Threads, partly due to the sheer scale, and partly due to how simple and pleasurable the new app is to use: it’s like Twitter, just nicer. Most of your favourite famous people are there, along with the chronically online crowd. Whereas Bluesky follower counts are often in the single digits, Threads can pull in your Insta followers. What’s more, the kind of people who were never on Twitter but were on Instagram – hundreds of millions of people – can easily carry their audience to Threads. Scale has never been more achievable.
+
+The question is whether Threads can do more than dupe old Twitter, and become somewhere people actively want to spend time. Is being a nicer Twitter enough, if your audience is still smaller? Will people eventually tire of having their feed co-opted by beautiful people? (Mark: put in a Following Only feed!)
+
+Honestly, what is striking about Threads – even though it’s only day one – is how joyless it feels already. Unlike TikTok or even BeReal, Threads doesn’t give you the heady thrill of discovering something new. Instead, it feels a little like moving house. Anxious. Stressful. There’s more space, but you don’t know anyone.
+
+Maybe Threads will dethrone Twitter; maybe Zuckerberg will even literally deliver the knockout blow to Elon Musk’s ambitions. Maybe – we can dream – it’ll be none of those, and instead we might finally realise a decentralised social network run by kind-hearted moderators out there in the ether. Or perhaps the entire idea of Twitter, and that kind of social media, is now moribund – too corrupted by malign influence, scam artists, and disingenuous operators to ever get back the feeling it once had.
+
+For my part, I’ve accepted that it’s unlikely that I’ll ever quit Twitter. I’m an addict. Institutionalised. As its utility declines, I’m using it less and less, but my distaste with Musk’s ethics has not left me to abandon it, which probably tells you a lot about me. Do I miss the old Twitter? Sure. Do I want to spend the next decade doing the whole thing all over again, just to help fund the next billionaire’s Torment Nexus? Not really.
+Meta launched Threads, a new app that offers features similar to Twitter. Threads allow users to share texts and images, engage in real-time conversations, and directly compete with Twitter.
+
+Twitter is slowly seeing a reduction in its users due to concerns regarding its new policies under the new owner, Elon Musk. At a time when Twitter's user base is slowly declining, Threads is expected to gain prominence. The company's chief, Mark Zuckerberg, says ten million users signed up on the Threads app in its first seven hours after its launch.
+
+"The vision for Threads is to create an option and friendly public space for conversation," Mark Zuckerberg, the Meta CEO, said after the launch. "We hope to take what Instagram does best and create a new experience around text, ideas, and discussing what's on your mind."
+
+The platform's interface resembles a standard Instagram comment section while offering the full functionality of Twitter. This includes the ability to respond to posts and repost them. Each post can contain a maximum of 500 characters, along with links. Users also have the option to attach up to 10 photos or videos that are no longer than five minutes in duration. Verified Instagram accounts will retain their blue badge on Threads.
+
+When you join Threads and return to your Instagram profile, you will see a unique Threads badge displayed in your bio. This badge is a temporary indicator to inform your followers about your presence on the Threads app, allowing them to follow you there easily. Threads also have a few features that you don't find on Twitter. Know about them below.
+
+Check out 6 key differences between Threads and Twitter
+
+1. You need an Instagram account to use Threads
+While you do not need to be a user of any other app to use Twitter, you need to have an Instagram account to use Threads. Users can easily register for the app by leveraging Instagram's existing account system. If you already have an Instagram account, you can seamlessly transition to the new app, as your username and other relevant information will be automatically transferred.
+
+2. Character count
+Threads will have a character count limit of 500. In comparison, unverified Twitter users have a maximum limit of 280 characters. Twitter offers a paid feature for $8 per month that allows subscribers to increase their character limit to 25,000, but Meta has not yet introduced a similar option.
+
+3. Exploring the app
+One of the key features of Twitter is that it presents to you everything that is trending, with the help of hashtags. You will also find a different section on Twitter where all the trending hashtags appear. In contrast, on Threads, the current way to explore content is by scrolling through the home feed.
+
+4. Video duration
+On Threads, users, including unverified ones, can post videos up to five minutes in length. However, on Twitter, users without the verified blue badge can post videos with a maximum duration of two minutes and 20 seconds.
+
+5. You cannot view the list of likes
+On Twitter, you can view the names of the people who have liked a particular tweet, But on Threads, you cannot view other people's likes.
+
+7. No ads on Threads
+At least so far, no ads have been seen on Threads. On Twitter, you can see ads.
+Twitter is better than it has ever been.
+
+Elon Musk, who bought the platform for $44 billion in 2022 after months of well-publicized drama and legal issues, is a confirmed bozo. The overgrown Tommy Pickles is best known for inventing an electric car that people made their personalities, trying to go to space, having a child named X Æ A-12 with musician Grimes, and of course, founding PayPal.
+
+Since his big purchase, he has made several interesting (and highly public) business decisions. It has been reported that he has slashed staff by about 80%, closed several offices, stopped paying bills, and of course, he gave former President Donald Trump his account back. Even if you are not a Twitter power user like me, you can imagine these extreme measures have caused some issues with the platform. But TBH, shockingly, nothing catastrophic.
+
+Every morning, I open the app and find interesting things to read, jokes to laugh at, and takes to make me angry. The introduction of the “For You” feed—an algorithmically-powered stream of popular tweets, tailored to each user’s online bubble—polarized my timeline but has consistently exposed me to some of the most hilarious stuff I have seen on the app in years. If you use Twitter as God intended—for the jokes—you are handsomely rewarded. Not every tweet is a home run, but it is very easy to ignore the garbage and keep scrolling. The overly sanctimonious users whose feeds keep surfacing the triggering content that they can’t resist interacting with are the only ones suffering.
+
+As Elon’s reign has continued, there have been some hiccups: losing my blue check was a short-lived ego bruise, the “rate limit exceeded” debacle (in which non-paying users were only allowed to see 600 tweets per day) affected me for about 24 hours, and previews not loading in iMessage negatively impacted my group chat performance. These were short-lived, minor annoyances. Bonehead moves that were quickly corrected or forgotten.
+
+Challengers have rushed in to court Twitter’s alienated superusers. But none of the first wave of these platforms seem destined to amass the scale or capture the messy spirit of the original. Mastodon seems aimed at Burning Man-brained software engineers, Bluesky is for shitposters wanting to port their act to the most Twitter-like alternative, and Post.news was such a blip I didn’t even take the time to profile its users.
+
+Enter Threads.
+
+The newly-birthed Twitter competitor launched by Meta and gleefully promoted by its CEO, Mark Zuckerberg, is inspiring lofty descriptions like this one from AdAge: “a phenomenon pulsing with a rare vibe of optimism and a vision of possibilities that's reminiscent of the internet's early days.” Even comedian Dane Cook weighed in, jamming the phrases “healing foundation,” “slice of utopia” and “pal’round” into a single post. I have to laugh at the drama of these statements. Threads is, uh, a bad facsimile of Twitter owned by yet another familiar tech billionaire—this one known for Jiu-Jitsu wrestling and overusing zinc-oxide sunblock on his face instead of fantasizing about Mars and having lots of kids.
+
+When the rumors started swirling about Zuck’s Twitter-killer, many assumed it would be integrated into Instagram and not require us to download an entirely separate app. They were wrong. But the biggest misstep was making already popular Instagram influencers and brands the anchor of Threads. The result? Another marketing channel masquerading as a “community.”
+
+Instagram’s Adam Mosseri made it very clear that Threads won’t be a place for politics or hard news. This strategy has led to blockbuster sign-up numbers and gushing excitement from celebrities. Unfortunately, all of this almost guarantees that instead of any edge, genuine humor, or insight, the shiny new platform will deliver a bunch of bland text-forward posts from people who don't really know how to write but do know how to expertly posture about having a unique new online “space” just for them—the written version of a photo of a beach captioned “Today’s office.”
+By now if Twitter were a real bird, it would be convulsing on the side of the road with half of its feathers gone, and you'd be wondering whether to call the RSPCA or, more humanely, bash it out of its misery with a rock. Since Elon Musk bought it for a Monopoly money sum of many billions last year, everyone's love-to-hate-it social app has been stripped apart, its reputation mangled and death knelled myriad times.
+
+The latest gaff came over the weekend, when Musk announced a “temporary” limitation on the amount of tweets one can view in a day — 6,000 for the Verifieds, 600 for the (cooler) Plebs, since bumped up to 10,000 and 1,000 respectively — to “address extreme levels of data scraping and system manipulation”. Musk blamed this on tech firms big and small scooping data, ie. tweets, to train their AI models. Jargon aside, the effect was immediate and obvious: the Extremely Online begged for invites to exclusive rival platform Bluesky like Titanic passengers jostling for space on lifeboats, and a renewed flurry of hashtags apocalyptically declared the end of Twitter as we know it.
+
+Musk didn’t do this out of benevolent care for our collective mental health — why he does anything is one of modern life’s great mysteries — but it seems to me we’re snubbing an inadvertent gift. Yes, Twitter has become an integral part of the digital ecosystem, providing a platform for malnourished culture journalists and European sex bots alike to hock their wares, or a way to speak truth to power by way of becoming Ron DeSantis’ number-one reply guy. We used to go to bed and jot our thoughts into private diaries, but now we chuck them out publicly, half-considered and under-cooked, which is great until you have the terrible take of the day and you’re stuck against the wall, to be dunked on in the QTs by thousands of Zillennials who are weirdly overprotective of rich people they’ve never met. We all complain about how hideous this is, yet we stick about. Jemima Kirke’s character in Girls had an easier time getting off coke, hence why we rained junkie hell as soon as Musk decided to limit our intake.
+
+The question is, if we’re so addicted, why won’t we just stump up the cash for a full, uncut hit of Twitter? It’s simple: rejecting paid-for verification has become a way to flip the bird at the dealer we so disdain. At one point, as well as distinguishing Obama from the faux-bamas, the blue tick was something like a knighthood for terminally online bloggers from Brooklyn or Hackney. Post-Musk, with the Legacy Verifieds — those who were anointed before it became a monthly prescription — stripped of their medals, it has become a grand statement of virtue to snub it.
+
+Then there’s the fact it’s just a bit cringe to pay eight quid a month for an app that ex-footballers use to spout conspiracy theories about the deep state, or film nerds treat exclusively as a platform for Barbenheimer shitposting. With Musk, we’re playing a game of cringe chicken: “let anyone buy a badge and we’ll quit,” we say, and then don’t. “The ‘for you’ timeline? Not on our watch!” In truth we should be taking our sheer horror at all of this as a warning sign that, yes, we are posting too much, and maybe an intervention — even an unintended one — is what we need.
+
+We all know, alas, that we’ll just keep at it with our posting and scrolling, rationed or otherwise. It'd be easy for me to rag further on the digital refugees scrambling to find new online abodes — be it Bluesky, Instagram or Facebook — if I wasn't in their number. But there's been a certain bliss in that execrable error message, “rate limit exceeded,” that  reminds me of that bit in The Simpsons when all the kids went outside instead of watching the shit new-look Itchy and Scratchy. There was a time, you remember, when Twitter wasn't the ubiquitous attention-stealer it is to many of us nowadays. There's a whole world out there, grass to touch, air to breathe, and less anonymous pop stans to send you death threats. The cap will never stick. But maybe it should.
+On July 6, Meta launched its new social-media app Threads — a text-based platform that functions a lot like Twitter. By July 10, Threads had already reached 100 million users, according to the head of Instagram Adam Mosseri.
+
+Gen Z was referred to as the "first generation of true digital natives" in a 2018 report by McKinsey & Company. They have been exposed to the internet, social networks, and cell phone apps from a young age, so may seem like the most likely demographic to get excited about a new one.
+
+But Gen Z's most used platform is YouTube, followed by Instagram and TikTok, according to a Morning Consult survey published in November 2022. Lagging behind Facebook and Snapchat, Twitter is sixth on the list of Gen Z's most-used platforms. This suggests that video is the most popular form of media consumption for many young people — so how will a text-based app fare with them?
+
+To begin to find out, we asked three Gen Zers. 
+
+One 21-year-old is beyond excited about Threads
+Clifford B. Arellano, 21, is a communications student from the Philippines and a content creator with over 19,000 followers on Instagram, where they go by the username @candii_bxh.  
+
+"When I first heard that Meta was launching this platform, I couldn't contain my excitement," they told Insider. "I immediately headed to the App Store and pre-registered so that it would automatically download once available. As my Instagram following grows, I'm eager to use Threads to connect with my followers, strengthen our bond, and even make new friends."
+
+On July 6, they posted an Instagram reel showing themselves scrolling through their phone alongside the caption, "Me just spending almost 5 hours on Threads bec I just can't stop posting and reading threads."
+Arellano told Insider they think Threads has the potential to become the next "go-to social media platform for venting and sharing among Gen Z."
+
+"On its first day, my feed was flooded with hilarious and relatable memes," they said.
+
+A teen user finds Threads very appealing
+18-year-old Emily Kissa, a content creator with over 23,000 followers on Instagram, downloaded Threads for fun just to see what it was like. She told Insider that Threads feels "much more appealing than other platforms" because it is very new and she thinks it has a much younger audience.
+
+She said, "I downloaded it for fun just to see what it was like. I personally don't see much of a difference from different platforms other than the fact that it's a much younger generation using it." 
+
+Given that there is currently very little data available regarding the demographics of Threads users, it is difficult to tell whether Kissa's right in a broad sense. There is a chance that perspectives could be skewed, as the site is set up to encourage people to follow the same people they follow on Instagram. 
+
+Still, Kissa plans to stick with the app. She said that she will likely just use it for "posting random thoughts."
+
+One older Gen Zer is more cautious about the platform
+Nicole Delabrer is 26, on the cusp of Gen Z and millennial, a group sometimes known as "zillennials."
+
+Delabrer lives in Minneapolis where she works as a social strategist. She said that she has downloaded Threads, but thinks it's probably still too early to tell how she will use the platform. 
+
+On July 7, Delabrer posted a TikTok video joking about how she was going to work to fulfill her "duties" as a "token Gen Zer" to explain what Threads is. 
+Delabrer told Insider she's broadly hopeful about the future of Threads as a space where she can create content
+
+"I love going on Twitter and laughing," she said. "I'm hoping that Threads can get to a place where the feed is more curated and the quality of content is as high as Twitter."
+
+Only time will tell.
+Meta's Threads, the latest alternative to Twitter, has already rocketed to more than 100 million users in just five days.
+
+And corporate accounts from major brands are helping boost those numbers.
+
+Indeed, all but one of the ten largest retailers, including Walmart and Kroger, have already activated their accounts — a process as simple as downloading the Threads app and logging in via an existing Instagram account.
+
+The lone exception? Costco.
+
+Costco's Instagram page meanwhile has over 1.3 million followers and posts about once per day with a mix of family-friendly memes and cute snapshots of kids and pets showing the Costco lifestyle. Most often, though, posts feature a product centered in front of the looming aisles of one of its warehouses. The company's official Facebook page has more than twice as many followers. But it seems the warehouse club has elected not to tap into that following just yet. Facebook, Instagram, and Threads are part of Meta. 
+
+Costco did not immediately respond to Insider's request for comment on this story.
+
+That's not to say Costco doesn't have a presence on Threads — it's just not official. Dozens of Costco fan pages have already activated their accounts and are racking up thousands of followers.
+
+The lack of urgency on Threads is yet another way the brand takes a slower approach to embracing new digital tools and services.
+
+Unlike big-box competitors such as Walmart, Amazon, Target, or Home Depot, Costco's investment in boosting its social media presence and streamlining its ecommerce operations has remained comparatively minuscule.
+
+One reason for this could be the fact that digital sales still aren't nearly as big of a revenue driver for Costco as for other retailers.
+
+The company said it made about 7% of total revenue from web and app purchases in 2022. That's about half of what Walmart reports percentage-wise for its US sales "related to eCommerce," and far below Target's 17% of "digitally originated" sales, per the respective companies' earnings statements.
+
+Plus, Costco sees far less profit from product sales than it does from memberships and in-person shopping. Costco execs know the real money comes from two things: getting people to sign up for paid memberships and getting those members to come into the warehouse where they buy a lot more stuff than they were planning to.
+
+Unless Threads shows it can drive those two behaviors, it seems the famously frugal Costco will be content to sit this one out.
+
+Look no further than its official Twitter account, which contains zero posts and a bio reading, "Our Twitter account is currently inactive. Stay in touch with us via Facebook, Instagram, and Pinterest."
+We are now a week into the existence of Threads and there's already a robust menu of followers you can buy on the internet.
+
+From an offer of $7.50 for 100 followers, to $1,900 for 50,000 followers on Instagram's Threads app, paid engagement services and bot farms are pouncing on a new market, according to a review of a handful of sites by Insider.
+
+Instagram has long battled bots and juiced engagement on the app. The platform has been deleting fake followers and likes for years, and Instagram even has a section about this behavior in its community guidelines. 
+
+"Help us stay spam-free by not artificially collecting likes, followers, or shares, posting repetitive comments or content, or repeatedly contacting people for commercial purposes without their consent," Instagram's community guidelines page reads.
+According to the influencer-marketing platform HypeAuditor, on average, about 13.8% of influencers' Instagram followers are categorized as "suspicious" accounts. HypeAuditor defines suspicious accounts as any Instagram page that appear to be bots or "use specific services for likes, comments, and followers," the company told Insider.
+
+While the follower count metric still holds some weight, especially when it comes to securing and negotiating brand deals as an influencer, it isn't so clear how important follower count will be for Threads.
+
+To start, followers aren't as prominently showcased on Threads as they are on Instagram (or Twitter, for that matter). The number itself is at the bottom of the bio and appears muted when stacked with other vibrant buttons and text. And when it comes to algorithms, ranking on Threads is more dependent on what content someone interacts with.
+
+"We do rank posts lightly and show recommendations (posts from accounts you don't follow) in feed, which is particularly important for a new app before people follow enough accounts," head of Instagram Adam Mosseri wrote in a recent Thread reply.
+
+Buying an influx of spam followers on Threads could very well do nothing to help an account grow or find success as a creator.
+
+Meta did not respond to Insider's request for comment.
+
+Instagram's Twitter rival, Threads, has surged to over 100 million users in less than a week, an eye-popping figure that shows the sheer size of the hype wave it's riding. But the app has a fatal flaw that will ultimately doom it to mediocrity: It's going to be boring.
+
+You can tell how boring Threads is going to be by the way Instagram parent Meta describes its vision: "To take what Instagram does best and expand that to text, creating a positive and creative space to express your ideas."
+
+Here's a question for Meta: What is it, actually, that Instagram does best? The platform has felt like a declining power since the rise of TikTok (which it copied with Reels) and hasn't been inspiring to either everyday users or influencers for a long time. When I think about what Instagram still is best at, it's giving creators and celebs an outlet to make money from sponsored content. That's not a great starting point for Threads.
+
+It's clear that Meta wants Threads to be like Twitter (the two platforms look nearly identical), only more "positive" and advertiser-friendly — a good place for everyone to make money.
+
+Instagram boss Adam Mosseri further outlined the company's vision when he said last week that while politics and "hard news" would "inevitably" show up on Threads, the company wouldn't do "anything to encourage those verticals."
+
+I get why Meta is scared of politics, given the polarization in the US and how badly the subject warped Facebook. But Mosseri's comment about "hard news" shows the company's strategy is about avoiding more than just partisan outrage.
+
+Hard news can be nebulous to define, but generally refers to a certain seriousness of tone and a slant toward uncovering information that has widespread impact. It also tends to skew "negative" and is often not advertiser-friendly. That's part of the reason advertisers put hard news subjects like the climate crisis and Russia's war in Ukraine on blocklists.
+
+I understand the impulse to create an environment less full of harassment and hate than Twitter can be. But the idea of doing that by avoiding conversation topics perceived as negative seems a recipe for creating a very boring dinner party. How many of the most interesting conversations you've ever had were advertiser-friendly?
+
+It reminds me of a quote from Agent Smith in the movie "The Matrix."
+
+"Did you know that the first Matrix was designed to be a perfect human world?" he says, referring to the virtual world that the film's machines use to keep human minds engaged while they harvest energy from their bodies. "Where none suffered, where everyone would be happy. It was a disaster." The humans didn't believe it because it didn't feel real.
+
+I think Threads, a "conversation" platform designed with positivity in mind, will feel like a similarly sanitized world and will fail to engage users in the long run. Things don't get weird on Instagram, a brand-friendly paradise where users perfectly curate how they want their lives to appear to others. So, what's to suggest things will get weird on Threads?
+
+And that means despite the early outburst of enthusiasm, Threads — like Instagram — might end up being better for brands than for humans.
+To be real, I downloaded Threads solely for the purpose of being able to write about it for my job. 
+
+I write about online communities and social media trends at Insider, and the buzz around the emergence of Threads, a text posts app that has been described as a rival to Twitter, was bound to be something I was going to be reporting on — so I downloaded it. 
+
+It's now been two days since then, and I've been slowly wading deep into the world of Threads to find out whether speculation about it replacing Twitter holds any weight. Meta CEO Mark Zuckerberg has characterized Threads as a "friendly" space, in contrast to growing concerns about Elon Musk's approach to censoring content on Twitter. 
+So far, I've found that the community on Threads is definitely more geared towards positive content, although it feels like everyone is experimenting and no one's really figured out what they want to be saying on there yet. I also think that there are a number of kinks that need to be ironed out when it comes to user experience before the app can adequately match Twitter.
+
+Let's get into it.
+
+The Threads community is still maturing in its understanding of the app but overall it's very wholesome 
+While I have a Twitter account, I must say I'm rather reluctant to post there. Most of my friends don't have Twitter and don't like being loud about their opinions on social media, so we mainly connect in other ways online, such as by sending each other funny TikToks when we come across them. 
+
+I knew I was going to be more of a lurker on Threads initially, and began my experience on the app by trying to figure out how the community at large was using it. Since Threads accounts are linked to Instagram profiles, I was curious to see whether people would be trying to post similar content on Threads as they would on Instagram. 
+The app allows you to follow everyone you already follow on Instagram when you make an account, but I opted not to do this at first because I didn't necessarily want to follow a bunch of people I knew from school and haven't kept up with since on a brand new platform. 
+
+As a result, my Threads homepage was initially saturated with a bunch of random companies trying to post "relatable" and "funny" content promoting their brands. I wasn't too fond of this so I decided to go to the "following" tab and press a button which allowed me to follow everyone I followed on Instagram who had a Threads account. 
+
+The problem was, Threads is so new that few of my friends have made accounts so far. After asking around on a few group chats, I found out that people I know who are very interested in keeping up to date with trends made accounts to stay in the loop, but other friends, particularly those who do not already have a Twitter account, don't really care about the launch of Threads and don't want to get involved. 
+My Threads feed now seemed to mainly feature a bunch of celebrities and influencers I had followed on Instagram when I was 14. I noticed that a lot of early Threads posts have been about people re-introducing themselves on the app and promoting their latest ventures, but aside from that it's all been a random hodge-podge of content. 
+
+Some people have been posting memes about Mark Zuckerberg and Elon Musk's feud, others have been sharing their thoughts on important news (such as the release of "Speak Now (Taylor's version)"), and others have just been posting about how they're confused about what to post. 
+
+Overall, the vibe is really quite wholesome, and that's actually been quite refreshing. Whenever I've been on Twitter lately, my feed has mainly been saturated with people commentating on celebrity controversies, arguing about their opinions on the future of Twitter, or sharing dark humor and jokes that are typically at the expense of others, so I haven't been hating my experience scrolling on Threads so far. 
+
+The lack of some useful features has made posting on Threads a little bit tricky 
+The first thing I decided to post on threads was a GIF with a caption — deciding it would be the best way to blend in and not embarrass myself too much. 
+
+But disappointingly, I found that Threads doesn't yet have a built-in GIF library like Twitter does. I had to download a separate app for GIFs, save one to my camera roll, and copy it into my Threads post to share it on my account.
+Threads is also missing a number of other features you can find on Twitter, like hashtags, a trending topics bar, or a keywords search bar. This has been particularly frustrating for me, as it's meant that all I've really been able to do to keep up with the different things people are saying on the app is scroll through my homepage furiously. 
+
+The language of Threads doesn't seem very imaginative
+My biggest (and pettiest) complaint about Threads is the current use of language for describing posts. According to a post made by the app's official account, the name for a post is "post," and a response from another user to your post is called a "reply." 
+I would've thought that with a name like Threads, there would have been some more imaginative words that could be put into effect, and I'm not the only one who's saying that. A number of comments replying to the app's post suggested the installation of new terms, such as "stitching," "thread count," or "weaving." 
+
+Overall, I was surprised to find I don't hate Threads (for now)
+I don't think I can be too harsh about my qualms, since the app is so new. Mark Zuckerberg has himself said that there's a lot of "work ahead" until the app is fully built out, in a post he made on Threads on July 6, so I guess I'll just have to wait patiently for things to get better. 
+
+For now, it seems Threads has been an enjoyable place for a lot of different people to experiment and share their written thoughts without receiving as much toxicity in response from other users.
+
+I wonder how long it will stay that way. 
+New social-networking apps rivaling Twitter seem to be emerging almost every day, and it's taking its toll on workers in the industry.
+
+With the launch of Meta's Threads and Black Twitter's migration to the Spill app, social media managers say they're overwhelmed by all the new platforms. And they're airing their grievances about their growing workload in the only way they know how — by making memes.
+Some are blaming Elon Musk for Twitter's falling popularity among both users and advertisers.
+
+Earlier this month, Musk announced the platform would limit how many tweets each user could see a day. The move wasn't well received, and it led to many searching for alternative social sites.
+
+For social media managers, this means developing a presence on new apps outside of Twitter, Instagram, Facebook, and TikTok.
+Threads — which Twitter cofounder Jack Dorsey dubbed one of "seven Twitter clones" — opened for business on Wednesday night and now has more than 80 million users, per one tracker.
+
+"Lighting a candle for all the social media managers who are panic-writing the team (Thread) strategy tonight," one Twitter user wrote about Meta's new platform.
+
+Guillaume Huin, the head of social media at McDonald's, expressed his own frustrations with a meme featuring actor Pedro Pascal.
+"I love to suffer," Huin said in a follow-up tweet.
+
+But Threads has received pushback from new users who say they aren't able to delete their account without also deleting their Instagram (a problem that could soon be fixed), and Spill only available to those with an invite code.
+
+So while it's not certain whether any app will be able to dethrone Twitter, social media managers are say they're doing their best to keep up.
+Threads is great, but the truth is, it won't really have all the cool people on it until BTS deigns to sign up for accounts. 
+
+This writer — a card-carrying member of the BTS ARMY — has been waiting for hours for just one member of the boyband to sign up.
+
+Hours later, and still nothing, not even from the group's official account.
+
+That pain has somewhat been assuaged by the fun posts on Threads from Sam Riegel, Marisha Ray, and Liam O'Brien — cast members of Critical Role, a top Twitch stream this writer is also a big fan of. But BTS still isn't here.
+
+Jimmy Fallon, who's joined Threads, said it best: we're patiently waiting. 
+Twitter hasn't treated the group very well: It stripped the boys of their blue check mark, per Elon Musk's purge of the platform's legacy verified accounts.
+
+But Threads likely won't get all members of the biggest boyband in the world on its platform. Two BTS members — Jin and JHope, are currently serving a mandatory period of national service in the South Korean military. And the band's youngest, Jungkook, deactivated his Instagram account a while back and barely used the app, to begin with, and having an Instagram app is essential to make the leap to Threads.
+
+That makes four guys who might still sign up — plus the band's official account. But at press time, no one pulled the trigger and tried "Threading" their thoughts on Threads. 
+
+RM, Suga, V, and Jimin are still active on Instagram.
+
+RM, for one, often posts Instagram Story updates about CrossFit to his 44.6 million followers on the 'gram under the username rkive. Suga's been active on the platform too under the handle agustd, his stage name, blessing the BTS ARMY with post after post about his D-DAY world tour. And Jimin and V have graced us with the occasional fashion-forward snapshot from their fabulous lives on their Instagram accounts, j.m and thv. 
+
+Tick tock, Mark Zuckerberg — Twitter currently has one thing you don't. And take it from me and the rest of the ARMY: Your social media platform can't be the best until it has BTS. 
+MrBeast, the world's biggest YouTuber, has overtaken Mark Zuckerberg in followers on Meta's new app, Threads — and he's not the only one. 
+
+The YouTuber, whose real name is Jimmy Donaldson, became the first person to hit 1 million Threads followers on July 6 at around 9:42 a.m. EST, according to a post from Guinness World Records. A comment from the organization on its TikTok page said that Zuckerberg hit the 1 million milestone 20 minutes after Donaldson did, "narrowly missing out on record glory."  
+
+Zuckerberg has 2.7 million followers as of July 10, while Donaldson has 4.1 million, according to their follower accounts displayed on the mobile version of the app. 
+There is some discrepancy in individual users' follower counts between the mobile and desktop displays, although both show that Donaldson has more followers than Zuckerberg.
+
+Though the app is not currently available for use on desktop, users' profiles are accessible to view on the website, which appears to round the numbers to the nearest million, showing 4 million followers for Donaldson and 3 million for Zuckerberg. Insider reached out to Meta to ask about this discrepancy but did not receive an immediate response. 
+
+Zuckerberg appears to have been the first user to create a Threads account, according to a badge displaying the app's logo and the number 1 on his Instagram profile on the app.
+
+However, Zuckerberg has been overtaken by a large handful of celebrities, such as Chris Hemsworth and Jennifer Lopez, who have 3.1 and 3.2 million followers on Threads.
+Donaldson himself has since been overtaken in Threads followers by Kim Kardashian and Selena Gomez, who have 4.3 and 4.2 and million followers respectively. 
+The app requires users to sign in with an existing Instagram account and allows them to follow everyone they already follow on Instagram on their Threads account. Accounts with large Instagram followings have therefore been able to accumulate significant followings on Threads relatively quickly.
+
+Gomez, for example, is the third most-followed individual on Instagram, behind Cristiano Ronaldo and Lionel Messi (neither of whom have Threads accounts at the time of writing), with 420 million followers, according to the analytics website Socialtracker. 
+
+On Twitter, Elon Musk, who has been the company's CEO since October 2022, is currently the most-followed user on the platform, with 147 million followers, according to analytics tracker SocialBlade. 
+
+Donaldson, who has 166 million YouTube subscribers, is known for giving away large sums of money to viewers. He rose to fame in 2018 by donating thousands of dollars to small Twitch streamers and YouTubers.
+
+More recently, he has filmed elaborate competitions where fans take part in videos with the chance to win large prizes. In 2021, he recreated the Netflix show "Squid Game" for a competition involving 456 supporters, and in June 2022, he gave away $500,000 to a fan in a competition inspired by "Willy Wonka & the Chocolate Factory."
+
+Threads was launched by Meta on July 6 as a competitor app to Twitter. It received 10 million sign-ups in its first seven hours of launching, according to a post on the platform by Mark Zuckerberg, and now has more than 100 million users, reaching the milestone even faster than OpenAI's ChatGPT, according to estimates from data tracking platform Quiver Quantitative.
+Take some time to consider before joining Threads. You might not like it there.
+
+There are over 100 million users and counting. But if you’re not on Threads yet, you probably have your reasons—or are waiting to really consider if joining Threads is right for you. Twitter alternatives come in many shapes and forms, and this one is basically Instagram with a Twitter skin.
+
+Here are some of the most important reasons why you might not want to join Threads.
+
+Threads has the privacy policy of every Meta app
+Just because Twitter is a shitshow doesn’t make Meta less evil. Threads might look like Twitter and be easy to join, but it’s worth remembering that it’s a Meta app. And while Threads doesn’t have ads right now, the data collection policies still apply.
+
+Compared to alternatives like Bluesky and Mastodon, Threads collects hell of a lot of data. If you’re using the latest version of Android, you can disable some of the data access, but still, Threads will collect things like your purchase history, browsing history, your unique user identifying information, and store it all on its servers for ads across its platforms. Ars Technica has compiled the entire list of all the data that Threads collects.
+
+It’s also important to note that its data that—according to App Store descriptions—“may” be linked to you. Installing Threads won’t necessarily give it access to your health data, purchase history, or locations, but if you end up sharing that information via the Threads app, Meta can use it to link that information to you. So if you’re using the Threads app, be careful of how much access you’re giving it and what data you’re sharing on the platform.
+
+It’s algorithms, all the way down
+As it stands, Threads has no Following feed. When you first open the app, even after following a lot of people, it’s going to feed you its algorithm and show you “popular” or “engaging” posts—not posts from people you follow. And because Threads is so new, the algorithmic feed isn’t that great.
+
+There are still no hashtags either, so you can’t actually see or follow trends, and you can’t search through the app. The second you refresh the feed, it serves more of the algorithm’s content.
+
+Threads is a silo without meaningful connection
+When you use a social network like Twitter or Mastodon, you feel connected with the internet. Surprisingly enough, Threads is even more of a silo than the Instagram, which itself isn’t the best citizen of the open web.
+
+The only way to use Threads is by using its iPhone or Android app. You can’t easily find profile links to Threads users, nor can you embed Threads posts online (you can just share the URL). All you can do on the Threads desktop site is find a link to download the app.
+
+The Threads app itself was pushed out quickly and lacks basic features like GIFs and emojis. The alt-text for media is AI generated, and there’s no option to edit it manually, add more context, or fix something that the AI got wrong. And like I mentioned, there’s no Follower feed, hashtags, or trending topics.
+
+Threads is not a place for news, politics, or anything interesting
+In an interview with The Verge, Adam Mosseri, Instagram’s boss, said that Threads is “not going to do anything to encourage” politics and “hard news.” And after spending a couple of days on Threads, it feels true: Treads is not a place for discourse or finding stories that are interesting or unique. Threads may be more of a civil place to have a discussion, and you won’t run into as many extremist trolls, but if you want to engage in smaller sub-communities, you probably won’t find them.
+
+You can’t escape the influencers
+This is more of a “feel” than something tangible, but since the app isn’t focused on news, politics, real-time updates, or promoting communities, the result is a text-based Instagram app. And there’s nothing inherently wrong with that (the app is doing quite well, of course), but if that’s not what you’re looking for, you should be aware. You can’t escape the brands and influencers on your feed, no matter how many times you refresh or how many “real people” you follow. Dance videos, influencer content, and the same washed up memes will be on at the top of your feed.
+
+You can check out any time you like, but you can never leave
+For now, you can’t delete your Threads account without also nuking your Instagram account. You can deactivate your Threads account, but that’s basically it. That means all your personal data and posts will still be saved on Meta’s servers, ready to be indexed and used to serve you ads. And if you don’t want all that data on Meta’s servers, you’ll have to delete your Instagram account too. But, then again, if you cared that much about your privacy, you wouldn’t be on Meta apps at all, would you? 
+Threads is easy to use, but comes with some major caveats.
+
+This week, Meta launched its new social media app, called Threads. This Twitter-like network lets users post short text blurbs along with images and videos. It’s an obvious move to win over Twitter’s fractured user base, which overwhelmingly opposes many of the changes Musk has made since he took over the Bird App in 2022. Many users are jumping ship to other Twitter-like apps, some of which have also only cropped up in recent months. Threads is the newest option, and with Meta’s muscle behind it, it is definitely a contender.
+
+Unlike other Twitter alternatives, Threads runs on a pre-existing social media network—specifically Instagram (and Facebook). While there are pros and cons to this approach, it gives Threads a major advantage over other Twitter clones: millions of users already technically have an account. It’s also simpler to use than federated Twitter alts like Mastodon, and it’s publicly available, unike buzzy upstarts Bluesky and Spill, which are still in closed beta and require invite codes.
+
+So while you’ll have to deal with the possibility your Facebook and Instagram-loving relatives could find and follow you on Threads, it is certainly the easiest of the new Twitter replacements to join right now—as long as you’re cool with some of the app’s questionable privacy practices.
+
+How to join and use Threads
+To sign up for Threads, you first need an Instagram account. If you already have one, then all you need to do is download the Threads app from the iOS App Store or Google Play Store. Sign in with your IG account when prompted.
+
+You will then have the option to import your bio and profile picture from Instagram, and auto-follow everyone from your Instagram follows list that has signed up for Threads.
+
+After that, you’re free to start posting…or “threading?” “Thweeting?” I’m not really sure what the user base has landed on yet.
+
+Is Threads any good?
+It’s easy to start using Threads, but what’s it actually like to use? Honestly, not great.
+
+As someone with accounts on Bluesky, Hive, Spill, and now Threads, Threads is by far the least interesting Twitter replacement I’ve tried so far. By default, there is only one feed, sorted algorithmically, that shows people you follow and posts Threads thinks you may like based on your user data. (I hope you like seeing engagement bait from random accounts with huge followings.) There is currently no option to sort your feed chronologically or by follows-only. You can mess with your settings to change what notifications the app will send you, but threads from people you don’t follow will still show up in your feed.
+
+Twitter vets will also notice a lack of common features compared to the Bird App, such as DMs or the ability to view replies directly in your feed, to name a few. Threads does have a search function, but it’s barebones and mostly useful for looking up usernames.
+
+Thankfully, the app does have a few privacy controls, including the ability to mute and block accounts, hide specific words, limit who can mention your account, and the option to turn your profile private. These can all be found in the app under Settings > Privacy.
+
+Meta says more features are on the way—including a following-only tab for your feed—but it’s frankly not a great experience right now, especially compared to others like Bluesky or even Hive.
+
+I’m willing to cut Meta some slack on Threads’ slim features and lack of curation options at launch, but there are other major caveats to be aware of before signing up.
+
+Things to know before using Threads
+First is Threads’ privacy policy. The app collects tons of user data—so much that the app is banned in the EU at launch.
+
+While you can limit some data collection in your Instagram account settings or your phone’s permissions, certain data collection is required to use Threads. Collecting that much personal data is a security concern, as leaks or data breaches could see portions of that data stolen or exposed (or handed over to the government and law enforcement agencies without your knowledge).
+
+Deleting your Threads account means deleting your Instagram too
+If that concerns you, I recommend skipping Threads for now—especially since the only way to delete your Threads account is by deleting your Instagram account too. Yes, really. At least for now.
+
+While you can deactivate profile your Threads account under Settings > Account > Deactivate Profile and remove the app from your phone, your account will still exist until you completely delete Instagram as well—so make sure you really want to use Threads before signing up.
+Meta's messaging competitor reported 10 million sign-ups in its first seven hours.
+
+On Wednesday, Mark Zuckerberg unveiled Meta’s bid to exterminate Twitter once and for all. Threads—which according to Zuckerberg accrued 10 million sign ups within seven hours of its launch—has been introduced as a companion to Instagram. Employees at IG, however, are hopeful that the new platform will entirely replace their arch-rival Twitter. 
+
+“I think there should be a public conversations app with 1 billion+ people on it,” Zuckerberg said in a post to his Threads account on the day of the launch. “Twitter has had the opportunity to do this but hasn’t nailed it. Hopefully we will.”
+
+The new app builds on a personal rivalry between Zuckerberg and Musk, as well as a larger business competition between two of the world's biggest social media companies. But what exactly is Threads, and how does it work? 
+
+What is Threads?
+Threads, designed and built by Instagram, is an app for public conversations in real time. It has been described as “Instagram’s text-based conversation app” by Meta. Adam Mosseri, the head of Instagram, told The New York Times that the purpose of Threads “is to hopefully build an open, friendly space for communities.”
+
+If you’re in the United States, you can download Threads for free from Apple’s App Store as well as the Google Play store. Meta plans to make the app more widely available in the near future.
+
+However, Meta does not currently have a date for when Threads will be available in the European Union. The Digital Markets Act, which goes into effect in the coming months, limits how the largest tech companies may share data across services. Meta is assessing the act further before committing to a launch date.
+
+How does Threads compare to Twitter?
+Threads is largely similar to Twitter in both concept and execution. It allows users to post messages comprised of text, photos or video on a scrolling feed which can then be viewed and commented upon by those that follow them.
+
+Unlike Twitter, though, Threads does not offer a direct messaging feature at this time. Instagram has said it is open to adding features to Threads if users request them, however. Much like Instagram, your feed is not limited to only those you follow, although Twitter also recently split its feeds into Following and For You sections.
+
+How do I sign up for Threads?
+For the time being, if you wish to use Threads you must have an Instagram account. When users create their Threads account, they will be prompted to import their profile pictures, bios, and links from their IG profiles. Users have the option to upload different pictures and information, though your Threads username will automatically default to your IG username. At this time, there is no option to change your Threads username.
+
+A list of your IG followers will also be directly imported into Threads. Users who are verified on Instagram will also be verified through Threads.
+
+What is the Fediverse?
+Instagram’s ultimate goal for Threads is to have the app work across a variety of apps which Meta calls the Fediverse. Fediverse is an abbreviation for a federated universe of services that share communication protocols. This is the way that sites such as Mastodon operate.
+
+Essentially, this allows creators and influencers to import content over from other apps instead of starting from zero with a new profile on each app. If one builds up a large number of followers on Threads, they could conceivably export that following to another app which operates on the same technology.
+
+How easy is it to delete my Threads account?
+Well, that depends how attached you are to Instagram. If you wish to delete your Threads account, you cannot do so without also deleting your Instagram account. Threads’ extensive privacy policy spells it out plainly: “You may deactivate your Threads profile at any time, but your Threads profile can only be deleted by deleting your Instagram account.”
+
+If you choose to deactivate your Threads profile, your posts and interactions with others will no longer be visible unless you reactivate your profile at some point. All of your posts and comments, however, will live eternally on Threads’ servers unless you manually delete them one-by-one.
+
+You may reactivate your account simply by signing into Threads using your Instagram account information. Users are only allowed one deactivation per week, so use it wisely.
+
+If you do choose the nuclear option and wish to delete both your Threads and Instagram profiles, you may do so by following the steps below.
+
+Tap the profile icon on the bottom right-hand corner of the screen within the Threads app.
+Next, tap on the two-line menu icon on the top right-hand side of your profile.
+Select “Deactivate Profile” from the “Account” icon.
+Select “Deactivate Threads Profile”, then follow the prompts to confirm your choice.
+
+Both Zuckerberg and Musk are reportedly dead serious about the fight.
+
+The bizarre beef between Elon Musk and Mark Zuckerberg has taken an even stranger turn. The dueling billionaires have been offered the Colosseum in Rome as the location for their impending cage match by the Italian government.
+
+According to TMZ, which spoke to sources with "direct knowledge" of the situation, Italy's Minister of Culture reached out to Zuckerberg earlier this week, and both parties are apparently on board with the idea. "Some chance fight happens in Colosseum," Musk tweeted early Friday morning.
+
+
+TMZ reports that Zuck's people passed on the invitation to UFC president Dana White, who in turn had his people contact the Minister. With both Zuckerberg and Musk evidently serious about this fight, the question at this point seems less of if it's going to happen, but when and where. 
+
+This whole thing started last week when Musk, perturbed at Meta's plans to launch a competitor to Twitter reportedly to be called Threads, facetiously challenged Zuckerberg to a cage match in a tweet. But while Musk may have been shitposting, the Facebook co-founder quickly accepted the invitation, as he recently won gold and silver medals in his first jiu-jitsu tournament. And so far, Musk has not backed down.
+
+Both men have reportedly been negotiating with White multiple times per day for over a week about making the fight happen. The biggest issue is the height and weight disparity, as Musk, 51, stands at six-foot-one and weighs in at over 200 pounds, while Zuckerberg, 39, is five-foot-seven and closer to 150 pounds.
+
+However, it remains to be seen whether the fight will actually go down at the Colosseum. As TMZ points out, large events have not been held at the 2,000-year-old amphitheater in hundreds of years. The last time was in 2003, when Sir Paul McCartney performed inside the Colosseum for an exclusive charity show. But that was only for 400 people who paid up to $1,500 for a ticket.
+
+We can only imagine how much tickets to a Zuckerberg-Musk fight would fetch.
+
+
+It's on like Donkey Kong between the two billionaires.
+
+After his acquisition and subsequent mishandling of Twitter, there are probably quite a few people who wouldn't mind seeing billionaire Elon Musk get pummeled. And we just might get that chance, thanks to fellow billionaire Mark Zuckerberg.
+
+Doing what he evidently does best, Musk took to trolling Zuckerberg earlier this week, responding to a Twitter thread about Meta's forthcoming competitor to the platform, which will reportedly be called "Threads." In a companywide meeting earlier this month, Meta chief product officer Chris Cox dissed Musk and his social media company, saying that they had been "hearing from creators and public figures who are interested in having a platform that is sanely run."
+
+"I’m sure Earth can’t wait to be exclusively under Zuck’s thumb with no other options," Musk responded to the tweet. "At least it will be 'sane.' Was worried there for a moment."
+
+When another user responded, warning Musk that they heard Zuckerberg "does jiu-jitsu now," Musk replied, "I'm up for a cage match if he is."
+
+
+Zuckerberg, who has gotten really into MMA in recent years and follows a strict workout regime that includes military-style endurance challenges, made headlines in May after winning gold and silver medals in his first jiu-jitsu tournament. And it appears that he very much is up for a cage match with Elon Musk.
+
+Responding to the SpaceX founder on his Instagram story on Wednesday evening, Zuck screenshot Musk's tweet, writing a succinct: "Send me location."
+
+Zuckerberg
+Instagram / @zuck
+
+And sure enough, it didn't take Musk long to take the bait. Shortly after, he responded on Twitter, naming the Vegas Octagon. "I have this great move that I call “The Walrus”, where I just lie on top of my opponent and do nothing," he quipped in a follow-up tweet.
+
+
+Whether or not Musk will make good on his challenge is another story. But it seems safe to say that Zuckerberg will. In multiple requests for comments from media outlets such as Verge and Variety, a Meta spokesperson simply (and somewhat ominously) said: "The story speaks for itself."
+
+Standing 6'1", at least Musk has a height advantage over the five-foot-seven-inch Zuckerberg. And as Verge points out, he has also bragged in the past about being in "real hard-core street fights" when growing up in South Africa. But one also has to imagine that Musk hasn't engaged in hand-to-hand combat in quite some time, depending how accurate that story was in the first place.
+
+In other words, if this fight does go down, it should be entertaining, to say the least. And it would be about time the billionaires gave something back to the people.
+"X" has nearly 900 trademark registrations in the U.S.
+For well over a decade, Twitter has connected people around the world and played a key role in citizen-led uprisings like the Arab Spring and Black Lives Matter movements. But Twitter as we know it is evidently disappearing, with owner Elon Musk ushering in the era of "X" starting on July 24. 
+
+There's just one problem: the letter "X" has nearly 900 active trademark registrations in the U.S. This includes tech companies like Meta—a direct X competitor—and Microsoft laying claim to the 24th letter of the alphabet. 
+
+"There's a 100 percent chance that Twitter is going to get sued over this by somebody," trademark attorney Josh Gerben told Reuters of the move. The hundreds of trademarks relate to the use of the letter X in a wide range of industries. The name change is already creating problems on its own site, as the company failed to secure the "@X" handle and posts are still referred to as "tweets."
+
+Microsoft has owned an X trademark since 2003 in relation to its Xbox video game system. Meta, meanwhile, owns a federal trademark registered in 2019 for a blue-and-white letter "X" for industries including software and social media. In other words, forget about incorporating the old Twitter colorway into the new branding. 
+
+
+Gerben believes Meta and Microsoft likely wouldn't sue X Corp. unless they feel that Musk's X diminishes the brand equity the companies have established in the letter themselves. Still, even if Musk avoids a lawsuit from these tech giants, he wouldn't be totally out of the woods, as others could still claim "X" for their own use.
+
+"Given the difficulty in protecting a single letter, especially one as popular commercially as 'X,' Twitter's protection is likely to be confined to very similar graphics to their X logo," Douglas Masters, a trademark attorney at law firm Loeb & Loeb, explained. "The logo does not have much distinctive about it, so the protection will be very narrow."
+
+In this case, "X" might not mark the spot. 
+
+Meanwhile, TikTok has announced its plan to compete with Twitter.
+In his latest questionable move that's already a source of aggravation to longtime users, Elon Musk has officially renamed Twitter to “X.”
+
+The name change, which the 52-year-old has been threatening since before he even bought the company, became a reality on Sunday when he announced his plan to rebrand the imperiled social media site.
+
+After Musk purchased Twitter last year for $44 billion, advertisers have abandoned ship at an unprecedented rate. Users have likewise been hit with a series of radical changes; from pay-to-play blue checkmarks to, most recently, the number of posts they can view in a day. Adding to the platform's woes, this summer Meta’s Threads positioned itself as a “Twitter Killer” that might replace the app once and for all.
+
+Musk has previously described his plans for “X” as an “everything app” that would include social media, instant messaging and payment services.
+
+“And soon we shall bid adieu to the Twitter brand and, gradually, all the birds,” the self-styled poet posted to his account on Sunday.
+
+
+“It should have been done a long time ago,” Musk added during an audio livestream on Sunday morning. “Sorry it took so long.”
+
+Naturally, the tech entrepreneur didn’t actually notify employees until a few hours after the livestream, when he sent an email confirming that the company was in fact rebranding. "This is my last message from a Twitter email,” Musk concluded the announcement, adding a saluting emoji.
+
+About 24 hours later, Twitter—sorry, X users were somewhat galled to find that their beloved blue bird icon (nicknamed Larry after basketball legend Larry Bird) was no more. Instead, a dubiously creative "X" is now the logo for the once beloved app.
+
+Getting straight to the heart of the matter was an "X" user named Sai. “So now instead of Twitter videos it would be X videos,” they quipped, referencing the notorious adult entertainment website.
+
+
+Indeed, the comparison between Twitter’s new name was lost on approximately no one. Within a few hours of Sunday’s announcement, #xvideos was trending on X.
+
+Some users are so perplexed, they've considered switching platforms. “Since Twitter is rebranding to ‘X,’ I'm gonna start posting my videos on X Videos now," wrote another user.
+
+
+And not surprising, as with most of Musk's impulsive decisions, others pointed out the inherent flaws with the rebranding. As it turns out, the new ‘X’ icon isn't intellectual property and doesn’t actually belong to anyone—certainly not Musk.
+
+“The new Twitter X logo is the Unicode character for the letter X,” user Kay Challis wrote shortly after the new logo was unveiled on Monday morning, in a since-removed tweet. “As such, it is in the public domain and cannot be copyrighted. Twitter has gone from a logo it owns to one that it doesn’t, and can’t, own."
+
+By early Monday afternoon, #RIPTwitter was a top trending subject on the site. For users, the hashtag seemed to apply both to the rebranding, as well as the overall state of the once-great social media platform.
+
+“Welcome to X,” another critic wrote. “The only social media company to limit its users ability to read or post social media.”
+
+
+And there may even be worse news for Musk on the horizon. In the wake of X’s shakeup, TikTok announced that the platform is introducing text posts.
+
+
+“With text posts, we’re expanding the boundaries of content creation for everyone on TikTok, giving the written creativity we’ve seen in comments, captions, and videos a dedicated space to shine,” the company announced in a statement.
+
+TikTok is hoping to capitalize on the X-odus and create an all-in-one video and text platform to keep users glued to the app. Ironically, this puts them ahead of executing the very plan Elon Musk originally had for the app formerly known as Twitter.
+
+Better luck neXt time, Elon.
+
+
+It looks like this cage fight may actually happen.
+
+In a compelling turn in the tawdry saga of the Mark Zuckerberg versus Elon Musk cage fight, actor and former MMA fighter Georges St-Pierre has volunteered to train Musk for his day in the ring opposite Meta's CEO.
+
+St-Pierre, widely considered one of the best MMA fighters in history, cheered on the SpaceX founder and Twitter dismantler, tagging Musk in a Twitter post where he volunteered to get involved in the fight prep. "I'm a huge fan of yours and it would be an absolute honor to help you and be your training partner for the challenge against Zuckerberg," he wrote.
+
+"Ok, let's do it," Musk responded on Tuesday, in the wee morning hours. He followed his declaration with two fire emojis. The business tycoon, who by his own admission rarely exercises, clearly believes he can bring it to the cage opposite Zuckerberg.
+
+
+All of this began when Meta introduced a new platform called Threads, which is meant to compete with Twitter. Chris Cox, Meta's chief product officer, made a dig at Musk's social platform during a company-wide meeting earlier this month when he mentioned conversations with "creators and public figures who are interested in having a platform that is sanely run."
+
+When Musk flapped his feathers on Twitter at the perceived slight, it took no time at all before another user reminded him that Zuckerberg now trains in jiu-jitsu. "I'm up for a cage match if he is," the 51-year-old father of 10 typed back.
+
+
+It would appear that Zuckerberg has been preparing for this fight, if not since the day he was born, at least for the last year. He's adopted a breathless jiu jitsu training regime under Dave Caramillo, as well as everything from running and surfing to military style endurance tests. Although there is some controversy regarding his alleged loss of consciousness in an early match, the tech giant did win silver and gold medals in his first Brazilian jiu-jitsu tournament last month.
+
+Musk, for his part, told podcaster Joe Rogan last year that he has a background in Kyokushin karate, as well as judo, taekwondo and, conveniently, "Brazilian jiu-jitsu briefly" as a child growing up in South Africa.
+
+Not worried, Zuckerberg screenshot Musk's challenge and posted it with the words "Send Me Location" emblazoned underneath. Musk then named the Vegas Octagon as his preferred sight for the likely duo's unlikely rendezvous.
+
+Zuckerberg
+Instagram / @zuck
+
+A date for the altercation has yet to be specified, but if it does end up happening, you can bet it will be one of the most talked-about fights of the year.
+
+
+Zuckerberg was sporting a six-pack and ripped pecs and arms while training with UFC stars.
+
+It would appear that Mark Zuckerberg isn't taking his upcoming cage match with Elon Musk lightly. Not only is the Facebook founder training with some of UFC's biggest stars to prepare for the fight, but he's looking absolutely ripped to boot.
+
+According to TMZ, MMA champions Israel Adesanya and Alex Volkanovski flew out to Zuckerberg's Northern California home following the UFC 290 showcase in Las Vegas on Saturday night. Once there, the pair quickly got down to it, training the 39-year-old for the match.
+
+Adesanya likewise shared behind-the-scenes photos from the training session on Instagram. Going by the photos, it's abundantly clear that Zuck has already been on a strict fitness regimen on his own, sporting a six-pack and ripped pecs and arms.
+
+"It's an honor to train with you guys!" he commented on the post.
+
+
+Whether or not this dissuades Musk from the upcoming fight remains to be seen. The 52-year-old billionaire talks a lot of smack on his $44 billion echo chamber, and likely wasn't expecting Zuckerberg to accept when he initially challenged him to a cage match last month. 
+
+However, Zuckerberg, who recently won gold and silver medals at his first jiu-jitsu tournament back in May, quickly accepted. Now, both men are apparently dead serious about the fight, and have reportedly even fielded an offer from the Colosseum in Rome as a location for it all to go down.
+
+Leading up to the match, the date of which is still TBD, diplomacy between the two billionaires has only continued to deteriorate. Since the launch of Meta's Twitter rival platform Threads, the pair have escalated their sniping at one other on social media.
+
+Which is all to say that if this fight does go down, it should definitely be entertaining, to say the least.
+Things seem to be looking grim for the bird app.
+
+It hasn't taken long for Threads to make an impact on Twitter. Less than a week after Mark Zuckerberg's rival platform launched, it's already surpassed 100 million users as people seem to be—at least for now—making an exodus from Twitter.
+
+Zuckerberg announced the milestone in a post on his new platform on Monday. "Threads reached 100 million sign ups over the weekend," the 39-year-old CEO wrote. "That’s mostly organic demand and we haven’t even turned on many promotions yet. Can’t believe it’s only been five days!"
+
+Meanwhile, Cloudflare CEO Matthew Prince pointed out on Sunday that Twitter's traffic seems to be "tanking" in the wake of the Threads launch.
+
+The web data and analytics company Similarweb reported similar findings, in that Twitter's traffic was down five percent from the previous week in the first two full days that Threads was available. Likewise, traffic was down 11 percent from the same two days in 2022, as the platform has experienced an overall decline since Elon Musk acquired the company. 
+
+User retention is also taking a hit on Twitter. The percentage of new Android users who continue to regularly use the app after 30 days has dropped from 19 percent in May 2022 to 16 percent in May 2023. Comparatively, Instagram held steady at about 40 percent when it came to keeping people engaged.
+
+Yet, Meta executives maintain that the intention of Threads was not to replace Twitter, but offer an alternative.
+
+"The goal isn’t to replace Twitter," Instagram chief Adam Mosseri wrote on Threads after the launch. “The goal is to create a public square for communities on Instagram that never really embraced Twitter and for communities on Twitter (and other platforms) that are interested in a less angry place for conversations, but not all of Twitter."
+
+But that hasn't stopped the two rival billionaires from sniping at each other. On the day Threads launched, Zuckerberg egged on Musk by tweeting the Spiderman pointing at Spiderman meme in a rare instance of him using the platform.
+
+
+Naturally, it didn't take long for Musk to take the bait, responding to a screenshot of Zuckerberg laughing at him with the Wendy's Thread account with a colorful insult, and then proposing a "literal dick measuring contest."
+
+
+It's clear that there's no love lost between Zuckerberg and Musk, who are reportedly still planning to face off in a cage match, which may or may not take place at the Colosseum in Rome. Save it for the ring, boys.
+date_published=Saturday 8 Jul 2023 10:00 am
+published_by=Caroline Westbrook
+title=Bored of Threads already? Here’s how you can delete your account
+body=Over 30 million people have reportedly already signed up to Threads, Meta’s rival to Twitter which launched earlier this week.
+The app, which went live at midnight UK time on Thursday, is linked to Instagram, allowing users to easily set up accounts and gain followers – but it’s already ruffled feathers at Twitter, who have threatened legal action against the company.
+While the app has already proven popular, it still has only a fraction of the 350m who are signed up to Twitter.
+If you’ve decided Threads is not for you and you’re moving back to other forms of social media, how can you delete your account?
+How can you delete your Threads account?
+If you’re thinking of deleting your Threads account already, we’ve got some bad news for you – as it stands, you cannot delete it.
+The only way you can delete your account is by deleting your Instagram account too.
+If you really don’t want to use Threads, however, you can deactivate your account, as Adam Mosseri, Head of Instagram, explained.
+’ve been getting some questions about deleting your account,’ he wrote in a post to the photo-sharing platform.
+‘To clarify, you can deactivate your Threads account, which hides your Threads profile and content, you can set your profile to private, and you can delete individual threads posts – all without deleting your Instagram account.
+‘Threads is powered by Instagram, so right now it’s just one account, but we’re looking into a way to delete your Threads account separately.’
+How to deactivate your Threads account
+If you want to deactivate Threads then you can take the following steps:
+Go to your profile in the Threads app and click on the ‘double dash’ icon in the top right-hand corner
+
+date_published=Monday 24 Jul 2023 7:29 am
+published_by=Katherine Fidler
+title=Twitter’s new X logo revealed as Elon Musk kills the famous blue bird
+body=The Twitter bird’s days are numbered after Elon Musk unveiled the company’s new ‘X’ logo.
+Mr Musk bought the social media company in October for $44 billion, and in April an email sent to the organisation’s business partners said it had been renamed X Corp, but would continue to operate as Twitter.
+However, in a tweet posted on Sunday morning he said: ‘And soon we shall bid adieu to the twitter [sic] brand and, gradually, all the birds.’
+A second post quickly followed, adding: ‘If a good enough X logo is posted tonight, we’ll make go live [sic] worldwide tomorrow.’
+On Sunday evening the domain x.com went live and redirected to twitter.com. and shortly after the new logo was projected onto the company’s San Francisco headquarters.
+The company’s own Twitter account sports the new X logo and name, and by mid-morning UK time the entire site have been updated to reflect the new look.
+A blue bird has been the face of Twitter since its launch in 2006, quickly earning it the nickname ‘the bird app’. There have been four iterations of the logo itself, the first three of which were known as ‘Larry the Bird’, named after Boston Celtics basketball player Larry T Bird. The current version is simply the ‘Twitter bird’.
+In April Mr Musk briefly changed the logo to the infamous ‘dogecoin meme’. Shortly after he declared in a BBC interview that his dog Floki, a shiba inu like the dogecoin cryptocurrency logo, was the new Twitter CEO.
+The move is the latest in a series of major alterations to Twitter since Mr Musk’s takeover, including the ‘verified’ blue tick status being monetised and a temporary limit at the start of July on the number of posts users were allowed to read.
+
+date_published=Thursday 13 Jul 2023 9:57 am
+published_by=Katherine Fidler
+title=Elon Musk unveils new venture days after ‘Twitter killer’ Threads launch
+body=Elon Musk has unveiled his new artificial intelligence (AI) company, setting it the lofty goal of ‘understanding the true nature of the universe’.
+The startup, named xAI, will be led by Mr Musk as a rival to Chat-GPT owner OpenAI.
+A brief statement on the company’s website reveals little else about the company, based in the San Francisco Bay Area, but noted a ‘meet the team’ Twitter Spaces chat taking place tomorrow.
+The firm has hired a number of top AI researchers who have previously worked for OpenAI, Google, Microsoft and Tesla, and has listed Dan Hendrycks, director of the Center for AI Safety, as an advisor.
+On Twitter, the platform Mr Musk purchased for $44 billion in October, the company already has more than 300,000 followers.
+Mr Musk, who is also CEO of SpaceX and Tesla, reportedly bought around 10,000 of the graphics processing units required to develop advanced AI systems earlier this year in his bid to compete with OpenAI, the company he founded alongside current CEO Sam Altman. Nevada business records show xAI was incorporated in March.
+It is not known how the company is being financed.
+The website also states: ‘We are a separate company from X Corp, but will work closely with X (Twitter), Tesla, and other companies to make progress towards our mission.’
+In recent months Mr Musk has been increasingly critical of OpenAI, a company he co-founded alongside its CEO Sam Altman and a number of other investors including PayPal entrepreneur Peter Thiel. 
+It has never been confirmed why Mr Musk parted ways with the company in 2018, with explanations ranging from avoiding a conflict of interest with Tesla to clashing with the board over AI safety.
+Mr Musk did not sign a recent statement by the Centre for AI safety calling for mitigation of the risk of extinction from AI to be ranked a priority alongside pandemics and nuclear. In March, however, his name was among the signatories to an open letter calling for a six-month hiatus in the development of AI systems more powerful than Chat-GPT4 – at which point the launch of xAI was in progress.
+Speaking to Tucker Carlson on Fox News in April, Mr Musk said he was worried AI models were being trained to be ‘politically correct’, and in response pledged to launch his own chatbot, ‘Truth GPT’. The model would be a ‘maximum truth-seeking AI’.
+He also said in the interview that an AI that wants to understand humanity ‘is less likely to destroy it’.
+On Wednesday, a lawsuit filed in San Francisco alleged Twitter has refused to pay at least $500 million in severance to thousands of employees made redundant after Mr Musk took over the company.
+date_published=Monday 17 Jul 2023 8:59 am
+published_by=Katherine Fidler
+title=Elon Musk spent $44 billion on Twitter. It’s still losing money
+body=Elon Musk has said his $44 billion purchase Twitter is losing cash because advertising has dropped by half.
+In a reply to a tweet offering business advice, the billionaire tweeted on Saturday: ‘We’re still negative cash flow, due to (about a) 50% drop in advertising revenue plus heavy debt load.
+‘Need to reach positive cash flow before we have the luxury of anything else.’
+Responding to a post yesterday suggesting a Reuters story about the drop in advertising was false, he wrote: ‘This article is negative, of course, but we did not see the increase in advertising revenue that was expected in June.
+‘July is a bit more promising.’
+Ever since he took over Twitter in the £33.6 billion deal last autumn, Mr Musk has tried to reassure advertisers concerned about the ousting of top executives, widespread lay-offs and a different approach to content moderation. In an interview with the BBC in April, he admitted around 6,500 staff had been made redundant.
+Since October, some high-profile users who had been banned were allowed back on the site – including former president Donald Trump, who has yet to post since he was barred from the platform following the January 6 US Capitol attack in 2021.
+Many users have also reported a rise in ‘hateful content’ on the platform since Mr Musk took over, something he has denied.
+In April, Mr Musk said most of the advertisers who left had returned and the company might become cash flow positive in the second quarter.
+In May, he hired new chief executive Linda Yaccarino, an NBC Universal executive with deep ties to the advertising industry.
+But, since then, Twitter has upset some users by imposing new limits on how many tweets they can view in a day, while some users complained they were locked out of the site.
+Mr Musk said the restrictions are needed to prevent unauthorised scraping of potentially valuable data.
+On Thursday, the company launched its creator ads revenue sharing programme. Announcing the update in a tweet, the company said: ‘We’re expanding our creator monetisation offering to include ads revenue sharing for creators. This means that creators can get a share in ad revenue, starting in the replies to their posts. This is part of our effort to help people earn a living directly on Twitter.
+‘We’re rolling out the program more broadly later this month and all eligible creators will be able to apply.’
+
+date_published=Monday 10 Jul 2023 9:52 am
+published_by=Caroline Westbrook
+title=Want to ramp up your followers on Threads? Here’s how you increase your ‘thread count’
+body=Mark Zuckerberg’s company Meta is already making waves with its new app Threads, just days after it was released into the world.
+The app, which is linked to Instagram, has already ruffled feathers at Twitter, who have threatened legal action against the company.
+But while not everyone is a fan of the new social media platform, it’s still proven popular, with over 70m people reportedly signing up in its first few days of existence.
+If you’ve already signed up no doubt you’re still finding out who else is on there, getting to grips with how to post, and enjoying the abundance of cat photos which have already been posted.
+But one thing you might need to know more about is how to increase your follower count.
+Just how do you get yourself more followers on Threads? Here’s what you need to know…
+How do you get more followers on Threads?
+The main way you accumulate followers on Threads is via your Instagram account, which is linked to the app.
+When you sign up for a Threads account you automatically send follower requests to all of your existing followers on the photo-sharing site.
+If they also sign up for Threads they will see the follower request from you and follow you back.
+So the more followers you have on Instagram the more chance there is they will join you over on Threads too.
+However there are other ways you can try and boost your follower count on the site.
+Post on Threads regularly
+The more you write on the site, the more chance there is of other users seeing your posts and engaging with them – just as they might do on Twitter or a similar social media site. That in turn may boost your chances of getting more followers.
+Try and aim for a post every few hours while the site is in its infancy. And if you’re funny, witty and incisive then even better – as it can encourage more people to add you to the list of accounts they are following.
+Post pics, GIFS and other visual content
+You can make your posts even more interesting by adding in photos, memes, GIFS, videos or other visual content, for a greater chance of being seen.
+How to deactivate your Threads account
+Alternatively, if you and Threads aren’t getting along and you want to deactivate your account, here’s what you need to do:
+Go to your profile in the Threads app and click on the ‘double dash’ icon in the top right-hand corner
+Tap Deactivate profile from the options this gives you, and then confirm by again clicking on ‘Deactivate Threads’.
+If you don’t want to deactivate your profile but you do want to control your scrolling you can also choose the ‘Take A Break’ option, which will remind you every 10, 20 or 30 minutes to put down your phone and do something else instead.
+date_published=Monday 10 Jul 2023 11:01 am
+published_by=Anugraha Sundaravelu
+title=Instagram Threads sets new world record
+body=Mark Zuckerberg’s Twitter rival, Threads, has gained 100 million users in under a week, making it the fastest-growing app ever.
+According to Quiver Quantitative’s Threads Tracker, the app hit the record number on Monday morning.
+According to its CEO Mark Zuckerberg, over 10 million people signed up to Threads in the first ten hours since it launched.
+In a day, that number had reached 70 million, said Meta. 
+The previous fastest-growing app was ChatGPT, OpenAI’s viral AI chatbot. But even that took two months to reach 100 million users.
+Unlike other apps, Threads had the advantage of nearly 2.35 billion monthly active Instagram users nudged towards the new app.
+Early adopters of the app included celebrities with massive Instagram followings like Selena Gomez and Kim Kardashian. 
+While it’s early days for Threads, the current user count isn’t likely to go down as Threads profiles can’t be deleted without deleting your entire Instagram account.
+After the initial announcement, social media users touted Threads as a ‘Twitter killer’, with growing discontent on the bird app.
+Elon Musk, who owns Twitter, is not a fan of the new app, calling it ‘just Instagram minus pics’. His lawyers even sued Meta for poaching former Twitter staff to build the new social media app.
+On Sunday, responding to a screenshot of a Threads conversation between Mr Zuckerberg and the account of fast food joint Wendy’s, the Tesla chief said ‘Zuck is a cuck’, an insult often used to attack the masculinity of an opponent.
+Twitter had 229 million monthly active users in May 2022, according to a statement made before Mr Musk bought it late last year.
+date_published=Friday 7 Jul 2023 10:38 am
+published_by=Anugraha Sundaravelu
+title=‘Twitter killer’ app Threads gains ten million followers in less than ten hours
+body=More than 10 million people have signed up to Threads, Meta’s rival to Twitter, in the first ten hours since it launched, according to its CEO Mark Zuckerberg.
+The app, which went live at midnight UK time on Thursday, is linked to Instagram, allowing users to easily set up accounts and gain followers.
+Mr Zuckerberg only announced the new app on Tuesday, calling it an app built for ‘sharing with text’.
+At first glance, the app features an unmistakable Twitter-like feed in Instagram’s signature design.
+‘Threads offers a new, separate space for real-time updates and public conversations,’ said Mr Zuckerberg in an announcement.
+With Threads, Meta is also trying its hand at a ‘decentralised’ approach like many Twitter alternatives.
+‘We are working toward making Threads compatible with the open, interoperable social networks that we believe can shape the future of the internet,’ said Zuckerberg.
+This sounds a lot like the ‘digital town square’ that Elon Musk once described Twitter as when he bought the social media platform.
+Meta’s launch comes at a time when Twitter is weathering yet another storm by by limiting tweets and making users unhappy.
+Unlike other potential Twitter alternatives like Mastodon, Bluesky or Hive, Threads has the advantage of nearly 2.35 billion monthly active Instagram users who will be nudged towards the new app.
+After the initial announcement, social media users touted Threads to be a ‘Twitter killer’, with the growing discontent on the bird app.
+For creators familiar with Meta’s ecosystem, it’s a no-brainer to try to grow their following on this new app rather than start from scratch.
+However, Instagram is primarily a visual app, so it remains to be seen if creators will want to use a text-based platform.
+date_published=Thursday 6 Jul 2023 2:28 pm
+published_by=Katherine Fidler
+title=We tried Instagram’s sister app Threads. Twitter should be worried
+body=Will no one think of the poor social media editors? Here we are, another day, another platform for them to manage.
+They can blame the one who basically started it all, Mark Zuckerberg, because Threads, Meta’s rival to Twitter, has landed.
+And for perhaps the first time, the title rival is justified. 
+Many have tried to steal Twitter’s crown as king of the social media jungle, but most were quickly lost, caught in the vines and fighting for any scraps the little blue bird dropped while soaring above the trees.
+But Threads has been helicoptered in, delivered with the backing of tech behemoth Meta and a ready-made audience of literally billions courtesy of its sister app Instagram.
+I’m one of them, and early this morning made the switch. Because it was incredibly easy. 
+Having pre-ordered the app and woken up to a notification telling me it was now live and kicking, within seconds I was set up and ready to go – having blithely agreed to all the Ts and Cs without a thorough read first, I’m ashamed to say. (Yes, I watched Black Mirror, no, I haven’t learnt anything from it, sorry Charlie.)
+With a couple of taps, my profile is complete, and I’m set up to automatically follow anyone I already follow on Instagram as soon as they join too.
+Notifications are immediately switched on, obviously, because I need to know what’s happening everywhere, all the time. 
+Once in the app, unsurprisingly, it looks a lot like Twitter. And Instagram. Their love child perhaps. A vertical feed, posts of up to 500 characters, plus pictures or video if you’re so inclined – although no gifs yet. Underneath is the option to like, comment on, repost and share posts with symbols familiar to anyone who even occasionally uses social media.
+To sidestep any legal issues, that’s not accusing Meta of plagiarism, even if they have previously enjoyed rather a lot of success by following others’ leads. Think Stories, think Reels, additions to Instagram offering an alternative to SnapChat and TikTok.
+Threads isn’t the first new platform to be formed in Twitter’s image, and in Meta’s defence, there’s little sense in trying to reinvent a (once) winning formula. A wholesale redesign to provide something materially different to Twitter would make little commercial sense, and as advertised, it is essentially Instagram repurposed to focus on text before images. 
+Plus people hate change. 
+Some people, myself included, also hate Twitter’s ‘For You’ feed, and initial scrolling through Threads reveals the first negative. The feed is littered with people I don’t follow, and possibly never would.
+Food news from Grub Street? An Arsenal fan channel? Does the algorithm know me not at all? Oh wait, Fall Out Boy. Maybe it does a bit.
+date_published=Thursday 6 Jul 2023 8:18 pm
+published_by=Ben Ashton
+title=Twitter sends letter threatening to sue Meta over new rival Threads app
+body=Twitter has threatened to sue Meta just one day after it launched a new rival app.
+Threads saw 30 million users sign up within 24 hours of going live.
+But now Twitter boss Elon Musk has sent a letter to Meta CEO Mark Zuckerberg, via his lawyer Alex Spiro, warning of potential legal action.
+The letter says: ‘Twitter has serious concerns that Meta Platforms (Meta) has engaged in systematic, willful and unlawful misappropriation of Twitter’s trade secrets and other intellectual property.’
+It claims that Meta has hired ‘dozens’ of former Twitter employees and that they have access to the company’s ‘trade secrets’.
+Mr Spiro also says that many of these employees have ‘improperly retained Twitter documents and electronic devices’, reports Semafor.
+He wrote: ‘Twitter intends to strictly enforce its intellectual property rights, and demands that Meta take immediate steps to stop using any Twitter trade secrets or other highly confidential information.’
+However, a source at Meta reportedly told Semafor that Twitter’s accusations are baseless.
+They said: ‘No one on the Threads engineering team is a former Twitter employee – that’s just not a thing.’
+date_published=Tuesday 4 Jul 2023 10:35 am
+published_by=Rob Freeman and Katherine Fidler
+title=Zuckerberg vs Musk hots up as Meta launches Twitter rival
+body=Facebook owner Meta is launching a new app to rival Twitter this week.
+The platform Threads, which will be linked to Instagram, is available for pre-order in the Apple App Store and will go live on Thursday.
+It is described as a ‘text-based conversation app… where communities come together’.
+The new app is the latest chapter in the rivalry between Facebook boss Mark Zuckerberg and Elon Musk, who bought Twitter in October.
+Last month the pair – two of the world’s most high-profile billionaires – agreed to take each other on in a cage fight in an exchange that went viral on social media.
+A number of other social media platforms have been launched in a bid to rival the social media behemoth, including Mastodon, a decentralised platform, and Notes, Substack’s version.
+However, despite Mastodon enjoying a bump in users after Mr Musk took over Twitter in October, neither it nor any other challenger have given Twitter cause for concern.
+Where Threads differs is the huge potential audience given its billion active monthly users, and its origin as a Meta company.
+The name itself appears to be a nod to its rival, being a function of Twitter when users thread a string of posts together.
+The arrival of the new app comes after Twitter announced TweetDeck is to become the next part of the company to be limited to users who have paid for verified status.
+The application, which allows users to manage multiple feeds and searches, will only by accessible to verified users in 30 days, according to a tweet from Twitter Support on Monday evening.
+A new version of TweetDeck has been made available with the tweet giving instructions to update.
+The announcement follows Mr Musk announcing two days earlier that unverified users were being limited to reading 600 posts a day.
+He said the limit, which had been introduced ‘to address extreme levels of data scraping and system manipulation’, had been increased to 1,000 and 10,000 later on Saturday.
+The restrictions could result in users being locked out of Twitter for the day after scrolling through several hundred tweets.
+Verified users – who have paid for a subscription to Twitter Blue or are considered ‘notable’ – can read up to 10,000 posts daily after initially being limited to 6,000.
+Bluesky, an invite-only platform launched in February by Twitter founded Jack Dorsey, was forced to pause sign-ups due to a spike in traffic following Mr Musk’s announcement.
+On Thursday morning, with a looming sense of dread, I signed up for Threads, a Twitter clone from Meta, the proprietor of Facebook and Instagram. The new social network launched Wednesday evening with the attitude of a digital shot across the bow from Mark Zuckerberg to Elon Musk. Twitter, under Musk’s ownership, has been sinking slowly; a policy of limiting how many tweets nonpaying users could see each day was only its latest misstep. With the launch of Threads, Zuckerberg was threatening to occupy his competitor’s turf, stealing the niche of text-driven social networking for himself.
+
+The contrast was stark. The atmosphere of Twitter has lately gone from one of a decaying dinner party, as Willy Staley wrote in the Times, to that of a bar where the bartender has to eject the last swaying patrons. Threads, by contrast, was bright and new, like high school on the first day of class. Meta seemed to have encouraged celebrities and influencers to pre-stock the feed with aggressively enthusiastic posts. Users entered into the midst of a raucous party.
+
+In a matter of days, Threads gained more than seventy million users, according to Meta, making it one of the fastest-growing apps ever. Of course, it piggybacked on Meta’s preëxisting billions of users. The only way to sign up for the social network is with an Instagram account, and this generates a ready-made list of followers and followed accounts. (The only way to delete a Threads account is to also delete the associated Instagram profile; this further locks in users.) The experience of using Threads is a bit like being on Instagram if it suddenly prioritized snippets of text over images. The interface is instantly familiar to Twitter users, albeit cleaner and in line with current visual-design trends. (Twitter is now threatening to sue Meta for “misappropriation of Twitter’s trade secrets.”) Threads’ feed is algorithmic, similar to TikTok and Twitter’s “For You” feed, meaning that automated recommendations pop up as often as posts from the accounts that you follow. It is currently impossible to see posts solely from followed accounts; Meta executives promise that a chronological feed is in the works, but, as on Facebook and Instagram, that feature is unlikely to be the default. As a result, much of what I see on Threads is the kind of banal celebrity and brand self-promotion that I tried to avoid on Twitter—posts from Chris Hemsworth and Ellen DeGeneres, Spotify asking fans for their favorite playlists, and suggestions to follow Kardashians. The Threads feed rarely appears in a chronological order and often serves up disparate posts from the same account in a row.
+
+What once made Twitter successful was its steadfast commitment to real-time information. It was a free-for-all shout fest of journalists, newsmakers, and creators, and anyone else could join the din on a relatively equal footing. Adam Mosseri, the head of Instagram, posted on Threads that the app would not “encourage” news, as Twitter once did: “There are more than enough amazing communities—sports, music, fashion, beauty, entertainment, etc.—to make a vibrant platform without needing to get into politics or hard news,” he wrote. Threads, he went on, is “a less angry place for conversations.” Of course, disavowing politics is a political move in itself and does not absolve Threads’ leadership of responsibility for the political impact of the platform’s content. TikTok, which impedes the spread of news and encourages entertainment content, is facing scrutiny for its moderation policies and its possible political connection to the Chinese government. So far, no one seems to know quite what to post on Threads, though the dominant tone is anodyne and sincere. The proprietors of popular Instagram accounts, who currently dominate the Threads space, don’t necessarily make for snappy writers. In his influential newsletter Garbage Day, Ryan Broderick described Threads content as “anti-culture nothingness that does well on Facebook or Instagram.”
+
+If the twenty-tens saw the sprawl of massive social networks, including Facebook, that centralized all forms of content, we may now be entering a post-platform phase, each app separately serving its own niche. Threads is just one flavor among a proliferating list of nonsensical names—Mastodon, Bluesky, Lemon8, Spill, Picnic—none of which has yet become a true center of social-media gravity. If Twitter is a bar at closing time, no one knows what the next stop is.
+
+Thus, the extremely online are left wandering aimlessly, trading invitations like speakeasy passwords, hoping to break into the next happening spot before it gets too crowded. Picnic is a social network popular with Gen Z where users exchange frenetic homemade videos and animations on themes such as anime and Roblox. (As a millennial, I find it fascinating but utterly incomprehensible.) Bluesky, a Twitter clone supported by the Twitter co-founder Jack Dorsey, which is in private beta, might have the most coherent identity. It’s a facsimile of early-days Twitter, when the site felt like a small community. Yet its tone is insular, and reconstructing any sort of network there requires hard work.
+
+The past few days I’ve been bouncing between Twitter, Bluesky, Threads, Instagram, and TikTok. It’s hard to remember where precisely I posted something. Likewise, I notice that the accounts I’m following post slight variations of the same content on each platform. It feels, above all, like an exhausting waste of time. Twitter’s usefulness for breaking news has decayed under Musk, and the platforms emerging now are more hierarchical; it’s harder to make yourself heard unless you already have a significant following to bring into a new space, and follower counts drop with each successive platform hop. At the same time, the platforms increasingly resemble one another; the only difference is which audience one is attempting to contact. Their users are all gambling, investing time in the hope that they’ll soon be logged on to the dominant social network of the future. What I still miss is the dependable simplicity of Twitter, the digital Brutalism of two-hundred-and-forty-character bursts of news in a constant stream. Neither Twitter itself nor its competitors have lately been able to capture that energy.
+Meta’s new Twitter rival, Threads, débuted to wide acclaim, gaining tens of millions of users overnight. Here are the features that are delighting the Threads community:
+
+The app automatically deactivates your phone’s screen-time-limit feature.
+Meta has promised a forthcoming Begrudgingly Agree button.
+Third-party Presidential candidates get pre-bullied before joining.
+The algorithm specifically filters out people you follow.
+It is more ethical than Twitter, as it’s run by a C.E.O. with slightly fewer billions of dollars.
+A hard ban on the word “fam” has been instituted.
+Moms are required to prove that they’re cool to join by uploading a photo of their record collections, or some interesting fibre art, or something.
+There are no hashtags, so no pretending that you know how to use them.
+There are no D.M.s, so you have to flaunt your perversions out in the open for all to see.
+Use your previously useless Bluesky invite code to get thirty per cent off your next Facebook Marketplace purchase.
+There’s a nudity filter, though it still needs beta testing. Who wants to go first? Looking at you, Obama.
+When you post a European-vacation photo, you must disclose how you were able to afford the trip.
+Hateful speech will not be tolerated—unless it’s directed at my snivelling, worthless neighbor, Gary. Eat lead, Gary. (Update: Zuckerberg has announced that the honeymoon phase will end on July 23rd, when he plans to let the racists in.)
+Unlike other social-media platforms, Threads boosts your self-esteem by making Likes nearly impossible to receive.
+Although user numbers remain comparatively low, fans will be able to connect with celebrities in more intimate ways, such as by threatening self-harm if Taylor Swift doesn’t give you free concert tickets.
+Since the app is linked to your Instagram, you can rest assured that your personal data were sold long before you even signed up.
+You can now take part in a trend colloquially known as “the shuffle”: spend all day on Threads; get fired from job; more time for Threads.
+Fake news is impossible to spread on Threads since it’s understood that no one means anything they say.
+It’s also understood that every Thread is meant to be read in a massively ironic voice.
+They only allow hotties on Threads. So, if you made it, congrats ;)
+"It should have been done a long time ago,” Musk said of the transition in a Twitter Spaces audio chat on Saturday.
+
+Twitter users, say your final goodbyes to the iconic bird logo!
+
+Elon Musk has announced that the feathery icon users have grown accustomed to is on its way out — and his preferred letter, “X,” is on the way in.
+
+The Space X CEO, 52, who purchased the company for $44 billion in October, teased a variety of changes to the social media platform on Saturday, including the departure of the bird, who has become synonymous with Twitter over its decade as the company's logo.
+
+Musk began by publicly playing with the concept of changing the platform’s default color from its current blue to black, a change he asked users about using Twitter’s poll feature.
+
+He also replied to the poll with a YouTube link to Lana Del Rey’s song “Off To The Races” — seemingly a hint that these adjustments are only the first of many sweeping changes. The Twitter owner also shared a photo of a black iteration of the current app logo and wrote, “Like this but X.”
+
+“To embody the imperfections in us all that make us unique,” he added of the design concept.
+
+He then tweeted that “soon we shall bid adieu to the twitter brand and, gradually, all the birds.”
+
+“If a good enough X logo is posted tonight, we’ll make [it] go live worldwide tomorrow,” he added.
+
+Though the “X” takeover has not yet begun, Musk did share a fanmade video — posted in response to his request for a “good enough X logo” — that shows the current Twitter logo becoming an “X” in a flashy, dramatic transition. He pinned the video to his account.
+
+In a Twitter Spaces audio chat this weekend, Musk was asked if the Twitter logo will change, which he confirmed, adding that "it should have been done a long time ago,” per Reuters.
+
+On Sunday morning, Musk joked about his obvious affinity for the letter "X," tweeting, “Not sure what subtle clues gave it [away], but I like the letter X,” alongside a photo of himself making an “X” with his arms in front of a wall covered in the letter.
+
+The company’s current logo, simply called the Twitter Bird, has gone through a metamorphosis since the Twitter’s 2006 launch, as detailed in The New York Times’ article titled “Who Made That Twitter Bird?”
+
+Originally named “Larry the Bird” (after the NBA legend), the bluebird’s importance was underscored by Twitter’s former creative director, Doug Bowman, when he implemented the current iteration in 2012.
+
+“Twitter is the bird, the bird is Twitter,” Bowman said during the redesign's introduction, per the NYT, adding that it is “the ultimate representation of freedom, hope and limitless possibility.”
+
+Musk’s announcement about the “gradual” transition to a new "X" logo and brand identity comes after Twitter was reported earlier this month to be threatening to take legal action against Meta after the Facebook and Instagram parent company launched Threads, a new text-based social media network.
+
+Musk-owned Twitter accused Meta of poaching Twitter employees for what it calls a "copycat" app, according to a cease-and-desist letter obtained by media site Semafor.
+
+In the letter, Alex Spiro, a lawyer for Twitter, accused Meta CEO Mark Zuckerberg of engaging in "systematic, willful, and unlawful misappropriation of Twitter’s trade secrets and other intellectual property," according to the outlet, which first reported on the letter. CNN also confirmed the letter's authenticity. 
+
+When reached for comment, Meta referred PEOPLE to Meta spokesperson Andy Stone's response on Threads. "No one on the Threads engineering team is a former Twitter employee — that’s just not a thing," Stone wrote.
+
+In its letter, Twitter claimed Meta hired "dozens" of former Twitter employees who "had and continue to have access to Twitter's trade secrets and other highly confidential information." Twitter alleges the employees have "ongoing obligations" to Twitter and "improperly retained Twitter documents and electronic devices." Meta "deliberately" assigned these employees to develop Threads "with the specific intent that they use Twitter's trade secrets and other intellectual property in order to accelerate" the development of Threads, the letter claims.
+
+According to Twitter, Meta allegedly violated both state and federal laws as well as the suspected employees' ongoing obligations to Twitter. The company reportedly "intends to strictly enforce its intellectual property rights."
+
+Musk's company claims it "reserves all rights" to seek "civil remedies and injunctive relief without further notice to prevent any further retention, disclosure, or use of its intellectual property by Meta.”
+
+"Competition is fine, cheating is not," Musk, 52, tweeted after reports of the letter were published. Spiro did not immediately respond to PEOPLE's request for comment.
+
+Meta, which is also the parent company of WhatsApp, launched Threads on July 2, months after rumors that the company was developing the platform. Threads users can post messages with up to 500 characters and include photos and videos up to five minutes long.
+
+Following the launch of the new platform, which Zuckerberg, 39, called “an open and friendly public space for conversation,” the Meta CEO shared his first tweet since 2012 — a meme of two identically dressed Spider-Man characters pointing at each other.
+Head to Apple's App Store or Google Play because there's a new social media platform on the market.
+
+On July 5, Meta — the parent company of Instagram, Facebook and WhatsApp — launched Threads, a new conversation-based app nearly identical to the format of Twitter.
+
+Backed by Meta CEO Mark Zuckerberg, Threads was unveiled after months of speculation and secrecy with rumors first starting to swirl in March 2023. The standalone platform has been deemed the "Twitter killer" by techies, with many predicting it to replace the Elon Musk-owned app completely.
+
+“We believe there’s an opportunity for a separate space where creators and public figures can share timely updates about their interests,” a Meta spokesperson said in a statement at the time when coding was underway on the then-untitled platform.
+
+The launch of Threads not only ramps up competition in the social media space, but continues the on-going rivalry between Zuckerberg and Musk. For nearly seven years, the two tech moguls have feuded on topics including artificial intelligence and rockets and most recently, have threatened to take their billionaire brawl to the cage.
+
+Since Musk acquired Twitter for $44 billion in October 2022, the app has seen several unpopular changes that have unsettled its users as a result. In addition to tinkering with its algorithm, he has overhauled its verification program and put a limit on reading tweets in an attempt to transform Twitter into an all-inclusive app.
+
+Now, Threads — which has racked up 10 million users within the first few hours of its launch — poses a serious threat to Twitter, which in contrast took 780 days to reach that mega milestone when it went live to the public in July 2006.
+
+Scroll on for everything to know about Threads, Instagram's take on Twitter.
+
+What is Threads?
+
+Threads is Meta's newly launched app that rivals Twitter, placing its primary focus on sharing short snippets of text on the free conversation-based platform. The Zuckerberg-backed platform is standalone, though, it is an online hub that's linked to Instagram (and requires an Instagram account to sign up).
+
+“The vision for Threads is to create an option and friendly public space for conversation,” Zuckerberg said in a verified Threads post following the launch. “We hope to take what Instagram does best and create a new experience around text, ideas, and discussing what's on your mind.”
+
+In addition to penning up to 500 characters, Threads allows users to share photos and videos up to five minutes long. The app is available in over 100 countries (with plans to expand further), though not in the European Union.
+
+Zuckerberg — who's already racked up over 1 million Threads followers less than 24 hours after its launch — has engaged with users on the platform, answering questions and sharing updates on his plan for the app moving forward.
+
+One "conflicted" user asked how the media mogul is "going to decide" what to share on Threads compared to his Instagram broadcast channel. "Good question," Zuckerberg replied.
+
+"I'm currently planning to use my Instagram broadcast channel for daily product updates and Threads for discussion and sharing thoughts, but we'll see where these platforms go..." he continued in response.
+
+Another Threads user posted: "Zuck is salivating as he waits to drop the ads on all his new Threads users 🤣." Meanwhile, the billionaire backer clarified his intent.
+
+"Our approach will be the same as all our other products: make the product work well first, then see if we can get it on a clear path to 1 billion people, and only then think about monetization at that point," Zuckerberg wrote.
+
+How do you sign up for Threads?
+Signing up for Threads is simple, but an Instagram account is required to login despite it being a completely separate app. Unlike Instagram, the new service can not be accessed via Threads.net (the website features a QR code that redirects users to the App Store).
+
+Once the Threads app is downloaded, it asks users to log in with their Instagram credentials or create an account if they don't already have one. Threads' link to Instagram is a benefit in comparison to Twitter, allowing users' settings to sync up directly to the new platform.
+
+Thanks to the Instagram integration, users don't have to build a following on Threads from scratch. It gives users the option to carry over their followers and following automatically, so it's easy to find their friends and favorite accounts. Plus, blocked accounts on Instagram will also carry over.
+
+How does Threads differ from Twitter?
+
+While Zuckerberg's Threads has been deemed by techies as a near-identical comparison to Musk's Twitter, there are several differences between the two conversation-based social media platforms.
+
+The transfer of users' Instagram followers and the accounts they're following to Threads is a significant difference compared to Twitter. Similar to Twitter, however, Threads allows its users to upload their posts to Instagram Stories.
+
+Another major difference between Threads and Twitter is the order in which posts are listed in users' feeds. Like Instagram and Facebook, Threads timelines are purely algorithmic, meaning posts don't show in reverse chronological order to show the most recent posts like Twitter timelines.
+
+Furthermore, the algorithm-driven timeline also includes posts created by accounts that users don't follow — similar to Twitter's “For You” tab, an alternate timeline that's separate from users' main feed solely featuring accounts they follow.
+
+Unlike Twitter, Threads doesn't limit the amount of posts users can consume daily. A few days before Threads launched, Twitter imposed a boundary that limits users to 600 posts a day and those paying a monthly subscription fee to 6,000 posts a day.
+
+Like previously mentioned, Threads is a mobile-only platform; Threads users can read posts on Threads.net, but they can't post or interact. Twitter, in comparison, is accessible via desktop and the Twitter app.
+
+Hashtags, a popular feature on Twitter (in addition to Instagram and Facebook), are not available on Threads. The platform also does not allow its users to search for specific content like the aforementioned.
+
+Similarly, there's no trending section on Threads. Therefore, the posts users are offered are subject to the algorithm Meta displays in their timelines.
+
+Also, Twitter has ads and Threads does not. But as Zuckerberg mentioned in a reply post to one user, only time will tell before monetization is implemented.
+Can users delete their Threads account?
+A downside to the Threads Instagram integration, according to the app's Supplemental Privacy Policy, is that users can not delete their Threads accounts without completely deleting their Instagram accounts.
+
+However, users can deactivate their Threads accounts if they choose, which then hides their profiles and uploaded content. Furthermore, they can set their privacy settings to private and delete Threads posts. Ultimately, though, Threads accounts can never disappear permanently.
+
+This policy prompted backlash from users, so Instagram head Adam Mosseri addressed the issue in a Threads post on June 6. "Threads is powered by Instagram, so right now it’s just one account, but we’re looking into a way to delete your Threads account separately," he wrote in part.
+
+Will Threads replace Twitter completely?
+
+While Threads is being considered the "Twitter killer" by many, it remains unknown whether Zuckerberg's latest app will replace the Musk-owned platform completely. However, Zuckerberg is known for his competitiveness and has tapped rival apps' features in the past.
+
+For example, Meta launched its own take on TikTok with Reels, an Instagram feature released in 2020 that allows its users to create and scroll through short-form videos in its own feed on the app and has become widely popular since.
+
+Zuckerberg also has a plan to intertwine Threads into the Fediverse, "a social network of different servers operated by third parties that are connected and can communicate with each other." Meta plans to use a protocol called ActivityPub, allowing users to interact with others on different servers that support the same plan.
+
+Simply put by the New York Times, "Instagram wants to make it easier for Threads to operate seamlessly with other platforms, which could appeal to creators and influencers so they do not have to start from scratch on each app."
+Twitter accused Meta of poaching "dozens" of former Twitter employees to develop Threads, according to a letter threatening to sue.
+
+Twitter is reportedly threatening to take legal action against Meta after the Facebook and Instagram parent company launched Threads, a new text-based social media network.
+
+The Elon Musk-owned Twitter accused Meta of poaching Twitter employees for what it calls a "copycat" app, according to a cease-and-desist letter obtained by media site Semafor.
+
+In the letter, Alex Spiro, a lawyer for Twitter, accused Meta CEO Mark Zuckerberg of engaging in "systematic, willful, and unlawful misappropriation of Twitter’s trade secrets and other intellectual property," according to the outlet, which first reported on the letter. CNN also confirmed the letter's authenticity. 
+
+"Twitter intends to strictly enforce its intellectual property rights, and demands that Meta take immediate steps to stop using any Twitter trade secrets or other highly confidential information," Spiro wrote in the letter, reports The Guardian. 
+
+When reached for comment, Meta referred PEOPLE to Meta spokesperson Andy Stone's response on Threads. "No one on the Threads engineering team is a former Twitter employee — that’s just not a thing," Stone wrote.
+
+In its letter, Twitter claimed Meta hired "dozens" of former Twitter employees who "had and continue to have access to Twitter's trade secrets and other highly confidential information." Twitter alleges the employees have "ongoing obligations" to Twitter and "improperly retained Twitter documents and electronic devices." Meta "deliberately" assigned these employees to develop Threads "with the specific intent that they use Twitter's trade secrets and other intellectual property in order to accelerate" the development of Threads, the letter claims.
+
+According to Twitter, Meta allegedly violated both state and federal laws as well as the suspected employees' ongoing obligations to Twitter. The company reportedly "intends to strictly enforce its intellectual property rights."
+
+Musk's company claims it "reserves all rights" to seek "civil remedies and injunctive relief without further notice to prevent any further retention, disclosure, or use of its intellectual property by Meta.”
+
+"Competition is fine, cheating is not," Musk, 52, tweeted after reports of the letter were published. Spiro did not immediately respond to PEOPLE's request for comment.
+
+Meta, which is also the parent company of WhatsApp, launched Threads on Wednesday, months after rumors that the company was developing the platform. Threads users can post messages with up to 500 characters and include photos and videos up to five minutes long.
+
+More than 30 million users signed up for Threads as of Thursday morning, Zuckerberg, 39, wrote in a verified Threads post.
+
+“Meet Threads, an open and friendly public space for conversation. ” Zuckerberg wrote on Instagram. “Our vision is to take the best parts of Instagram and create a new experience for text, ideas, and discussing what's on your mind. I think the world needs this kind of friendly community.”
+
+After Threads launched, Zuckerberg posted his first tweet since 2012, sharing a meme of two Spider-Man characters pointing at each other.
+Meta’s new text-based app Threads has joined a flood of new platforms looking to take market share from Twitter as the Elon Musk-owned company seeks to find a way toward profit under its new CEO Linda Yaccarino.
+
+Twitter has reportedly already sent Meta a letter raising concerns that Meta had engaged in “unlawful misappropriation” of its trade secrets and threatening legal action, Semafor reported. In response, a Meta spokesperson reportedly posted: “No one on the Threads engineering team is a former Twitter employee — that’s just not a thing.”
+
+Earlier on Thursday, Meta CEO Mark Zuckerberg said that the new app, available on Apple’s app store, Google Play and on the web, had seen 30 million sign-ups.
+
+Experts say the app, which is nearly identical to Twitter and has been billed by many as a “Twitter-killer,” is more than just another copycat, app: It’s also a reflection of a longstanding rivalry between two titans of the tech industry. “This latest entry is just an example of what has been a continuing rivalry between the two [companies],” says Darrell West, senior fellow at the Brookings Institution’s Center for Technology Innovation.
+
+More from TIME
+Other rivals to Twitter include Mastodon, Twitter co-founder Jack Dorsey’s Bluesky, and Spill, the Black-owned social media app.
+
+Read More: What to Know About Spill: The Black-Owned Twitter Alternative
+
+How to sign up for Threads
+“Whether you’re a creator or a casual poster, Threads offers a new, separate space for real-time updates and public conversations,” Meta said in a post. “Our vision with Threads is to take what Instagram does best and expand that to text, creating a positive and creative space to express your ideas.
+
+Threads is available for free download on iOS and Android in over 100 countries. Users can also sign up directly through the Instagram app by tapping the hamburger icon (three lines) on the top right of their profile and clicking “Threads” to be navigated to the app store.
+
+Read More: Why Twitter Rival Threads Isn’t Available in the E.U.
+
+The app will prompt users to log in with their Instagram accounts, and add profile information, like a profile picture and bio, or merge them from their Instagram. Users can then set their account’s privacy settings and find accounts to follow.
+
+Once a user has set up a profile on Threads, it can only be deleted if the associated Instagram account is also deleted.
+
+How Threads Compares to Twitter
+Threads is functionally identical to Twitter— and that’s the point. Meta executives reportedly touted the platform as a “sanely run” alternative to Twitter, The Verge reported. New platforms are not trying to reinvent the wheel as much as they are trying to replicate what Twitter used to be like before the app was plagued with technical issues, constantly changing strategy and criticism over content moderation, as Musk laid off roughly half the company’s workforce.
+
+Read More: A Brief History of Elon Musk Saying One Thing and Doing Another at Twitter
+
+“[There were] various needs that were being backed by the pre-existing systems…now folks are casting about to see if any of these new systems will meet those existing needs.” says Kevin Driscoll, assistant professor at the University of Virginia’s Department of Media Studies.
+
+Thread’s users will be able to sign up through their Instagram accounts, and will be able to keep their Instagram usernames and easily re-follow the same accounts on the new platform.
+
+Users can write posts of up to 500 characters—compared to Twitter’s 280 character-limit—and include links, photos, and videos up to 5 minutes in length. (Users of the paid subscription option Twitter Blue have a longer character limit of up to 25,000 on their posts.) The Threads algorithm is similar to Twitter’s and Instagram’s, and will show users a mix of content from followers and recommended content Vox reported.
+
+Responding to a question about whether Threads could eventually become bigger than Twitter, which has established a reputation as the world’s digital town square, Zuckerberg posted: “It’ll take some time, but I think there should be a public conversations app with 1 billion+ people on it. Twitter has had the opportunity to do this but hasn’t nailed it. Hopefully we will.”
+
+Unlike Twitter and Instagram, the service does not currently have any discovery features or options to send direct messages. The only way to view new posts on Threads is by scrolling through a feed.
+
+In a cluttered landscape, Meta’s reputation will give it a leg up against competitors like Mastodon and Bluesky, experts say. “’It’s an advantage to be associated with a big brand,” says West. “Threads is not going to be a niche player.”
+
+Meta’s reputation isn’t entirely positive, though. It has faced its own share of controversy, such as criticism of the spread of misinformation on its platforms—including during the Jan. 6 riots in the U.S. Capitol—and the Cambridge Analytica scandal. In 2021, disclosures by whistleblower Frances Haugen sparked a reckoning over what the company knew about how it contributed to harms ranging from Instagram’s impact on teenagers’ mental health and the extent of misinformation on its platforms, to human traffickers’ open use of its services.
+
+The historic rivalry between Meta and Twitter
+Threads is launching at a challenging time for Twitter under Musk’s leadership. In the immediate days after Musk’s $44 billion purchase of the company in October, the firm Bot Sentinel, estimated that around 877,000 accounts were deactivated and a further 497,000 were suspended.
+
+In the months since, the company has laid off thousands of workers, overhauled its verification process and relaxed its content moderation rules. Just last weekend, the platform announced it would be temporarily limiting the number of tweets users could view each day, a decision Musk said was taken to combat “extreme levels of data scraping.”
+
+“Twitter is very vulnerable. They’ve lost a huge amount of their advertising revenue and they’ve had to lay off a big percentage of their staff,” says West. “There’s a lot of user discontent on the platform. So the time is ripe for a competing product to move into this space.”
+
+Yaccarino, who worked as an advertising executive for many years, is expected to be focused on repairing the company’s reputation with advertisers as the company seeks to return to profitability.
+
+Read More: The 7 Biggest Challenges Twitter’s New CEO Faces
+
+Twitter, which last reported a profit in 2019, has long been an underdog among tech giants. It is dwarfed in size by the likes of Meta, which has a market value of around $760 billion. One recent estimate put Twitter’s valuation at just $15 billion—nearly a third of what Elon paid for it. Zuckerberg offered to buy Twitter during the company’s early days for ​​$500 million, but his bid was rejected.
+
+“Twitter has been David fighting the Goliath of Meta for many years,” says West. “There’s a long history of competition between the two firms.”
+
+Tensions between Musk and Zuckerberg simmering for years. In 2016, Zuckerberg said he was “deeply disappointed” after one of Musk’s SpaceX rockets hit a satellite Facebook was using to bring internet access to developing nations.
+
+Earlier this year, Musk tweeted that “Instagram makes people depressed,” and previously deleted the Facebook pages for Tesla and SpaceX, calling the platform “lame.”
+
+The two billionaires hold strongly opposing views on artificial intelligence. In 2017, Musk tweeted that Zuckerberg’s understanding of the threat of artificial intelligence “is limited.” In March, Elon Musk signed an open letter urging for a six-month pause in AI development. Zuckerberg, on the other hand, is trying to implement generative AI into Meta’s products, though the company has seen many of its AI researchers leave in the past year, the Wall Street Journal reported. (Musk’s longer term ambitions in the AI space remain unclear.)
+
+Now, the two are looking to take their battle offline. After news about Threads began to emerge, Musk challenged Zuckerberg to a physical fight tweeting that he was “up for a cage match if he is lol.” Zuckerburg responded by posting a screenshot of the tweet on his Instagram Stories along with the caption “send me location.” The Meta CEO has said he’s been practicing martial arts since the start of the pandemic and has won medals in Brazilian jiu-jitsu. Musk, meanwhile, has reportedly begun training for the fight.
+After months of chaos under its new owner, Twitter is facing its most heavyweight competitor yet in Threads, Meta’s text-based conversation platform, which launched in 100 countries Wednesday. The app has attracted 30 million users in less than a day, with celebrities and media platforms alike signing up, but its release in Europe has been delayed amid data privacy concerns.
+
+Meta CEO and Facebook founder Mark Zuckerberg billed the app as a “friendly” rival to Twitter, which has deterred some users since it was purchased by Elon Musk for $44 billion in October. “Let’s do this. Welcome to Threads,” Zuckerberg wrote in his debut post on the platform. He also offered up his first tweet since January 2012, making a jibe at Twitter by using a popular Spiderman meme that appears to acknowledge that apps have a similar interface.
+
+Read More: How Meta’s New Platform Threads Compares to Twitter
+
+Users on the social media app can share posts of up to 500 characters, as well as links and multimedia. Much like Twitter, it has ‘like’ and ‘comment’ functions but no direct messages can be sent. Threads is linked to Instagram, Meta’s photo-sharing app with over 2 billion users, and allows users to sign up using their Instagram usernames and networks.
+
+Responding to a post asking if the app is likely to supersede Twitter, Zuckerberg wrote: “It’ll take some time, but I think there should be a public conversations app with 1 billion+ people on it. Twitter has had the opportunity to do this but hasn’t nailed it. Hopefully we will.”
+
+Musk also engaged with a tweet about Instagram on Thursday, writing: “It is infinitely preferable to be attacked by strangers on Twitter, than indulge in the false happiness of hide-the-pain Instagram.” Threads’ release comes as Musk has relaxed Twitter moderation efforts and lost 50% of its annual advertising revenue. Twitter has also pivoted to an $8 per month premium service for features that were once free on the platform, leaving many users hungry for an alternative like Threads.
+
+But despite the obvious appetite for the new app, privacy concerns have prevented Meta from rolling the app out in many European countries.
+
+Why isn’t Threads available in the European Union?
+The release of Threads in the European Union was postponed amid regulatory uncertainty about how the app will use personal data. This is because of the E.U.’s Digital Markets Act, which includes provisions for sharing user data across multiple platforms. Meta must await approval from the European Commission, the E.U.’s executive arm, before it can launch Threads in E.U. countries.
+
+According to the app’s own data privacy disclosure, Threads can collect information about a user’s health, finance, contacts, search history, location, and other sensitive information via their digital activity. The app can also forward data to third parties about a user’s sexual orientation, religious and political beliefs, race and ethnicity, body, and employment status.
+
+Read More: What to Know About Spill: The Black-Owned Twitter Alternative
+
+Once a user has committed to a Threads account it can’t be deleted without the user also losing the associated Instagram account. Users wishing to keep their Instagram account will only be able to deactivate their Threads page.
+
+According to Ireland’s Independent newspaper, a spokesperson for Ireland’s Data Protection Commission (DPC) said that the watchdog had been in contact with Meta about Threads and that the platform wouldn’t be rolled out in the E.U. “at this point.”
+
+Meta’s recent history with E.U. regulators
+Two recent rulings have highlighted data and privacy concerns about Meta’s operations in the E.U. On Tuesday, Luxembourg’s Court of Justice of the European Union (CJEU) ruled that a German watchdog may investigate privacy breaches in which user consent was not acquired before the company used personal data to target adverts to users.
+
+Additionally, in May, Ireland’s DPC, which regulates Meta across the E.U., ordered Facebook to stop the transfer of data from within E.U. to the U.S. and fined the tech giant a record 1.2 billion euros ($1.3 billion) for breaching General Data Protection Regulation (GDPR) laws. Meta said it would appeal the decision and claimed it had been “singled out” by the DPC despite many other businesses using similar data migration processes.
+
+“We are therefore disappointed to have been singled out when using the same legal mechanism as thousands of other companies looking to provide services in Europe,” wrote Nick Clegg, Meta’s president of global affairs, and Jennifer Newstead, the company’s chief legal officer, in a statement on May 22.
+
+The statement added: “This decision is flawed, unjustified and sets a dangerous precedent for the countless other companies transferring data between the EU and US.”
+
+In 2018, before it rebranded to Meta, Facebook made headlines when a whistleblower revealed that the company had allowed British consulting firm Cambridge Analytica to access the personal data of up to 87 million users and which was used to build psychological profiles of voters. Last year Meta agreed to pay out $725 million to settle a class action lawsuit relating to Cambridge Analytica and other third parties.

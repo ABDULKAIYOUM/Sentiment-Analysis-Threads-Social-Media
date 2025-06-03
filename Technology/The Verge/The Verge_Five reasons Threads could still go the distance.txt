@@ -1,0 +1,49 @@
+On July 5th, Meta released Threads into the world. Its arrival came after months of anticipation, but ultimately a bit earlier than Meta had planned. Elon Musk’s characteristically self-defeating move to limit free users to viewing a small number of tweets each day had given Meta an unusually opportune moment to strike, and it seized the moment.
+
+The outsized success that followed — Threads was the fastest app to hit 100 million downloads, and later blew past 150 million — came as a surprise to almost everyone involved. That includes the app’s makers at Meta, who hadn’t built a homegrown hit this big since Facebook itself.
+
+It was not for lack of trying. The company has released well over a dozen social apps over the past decade, many of them springing from a standalone division of the company devoted to that purpose. But few of them, if any, acquired millions of downloads. Even when it was attempting to copy the success of others, as it did with now-forgotten Snapchat clones like Poke and Slingshot, Meta mostly couldn’t get them off the ground.
+
+I mention all this context because, as the early enthusiasm for Threads begins to fade, Meta is facing more questions about whether the app is here to stay. The analytics firm SimilarWeb estimated that Threads users had fallen from 49 million people 10 days ago to 23.6 million today, with time spent in the app declining from an average of 21 minutes per day to 6 minutes during the same period.
+
+While third-party estimates are never totally reliable, these figures seem consistent with my own Threads experience. In those first few days, nearly everything I posted generated hundreds of likes and new followers; my phone vibrated so much that I could watch its battery drain in real time. This week, though, the response has been notably more muted.
+
+So what’s going on?
+
+In the New York Times, Mike Isaac noted that the notorious flop Google+ once claimed 90 million users, only to fall apart shortly after reaching those heights. I thought the comparison was worth raising: every social network struggles to retain users over time, and the bare-bones, 1.0 version of Threads displays little on the surface to suggest how it could overtake a much more established rival like Twitter.
+
+It’s always a fool’s errand to judge the prospects of a new social network a couple weeks into its history. At the same time, if Threads does live up to its creators’ hopes, bringing decentralized apps into the mainstream, it could reshape the consumer internet in profound ways.
+
+For that reason, I feel compelled to offer some early thoughts on why I believe Threads is on its way to fully supplanting Twitter in the role that company once played in shaping public conversation.
+
+One, Threads proved decisively the demand for a new text-based conversation app. Until this month, it was unclear that tens of millions of people even wanted something Twitter-like in their lives. Twitter itself has been in a period of steep decline, and the various clones that have sprung up in its wake have stalled out in the low millions of users. That Threads attracted so many downloads in so short a period offers compelling evidence that lots of people have been waiting for a company to do public conversations the right way.
+
+Two, Threads immediately attracted the sort of high-profile user base that made Twitter so addictive for so long. Within days, my feed was populated with posts from athletes like Shaquille O’Neal, journalists like Katie Couric and Ezra Klein, and comedians like Kathy Griffin. They brought an instant legitimacy to Threads that rivals like Mastodon never quite cracked. Other Twitter clones, particularly the decentralized ones, have struggled to persuade people that they aren’t just for nerds. Threads never had that problem.
+
+Three, Instagram can serve as a long-term growth driver for Threads. One of the most impressive things about the Threads launch was how it connects to Instagram. A badge on your Instagram profile lets everyone know how early you joined Threads, spurring others to race to create accounts of their own. And from the start, Threads could be shared to Instagram stories with a couple of taps, bridging the two apps together in a smart and useful way. As both apps evolve, I expect we’ll see many more touches like this, with each leveraging its own strengths to promote the other.
+
+Four, Meta still has many other growth levers it can pull — many of which simply involve building basic features the user base has already requested. It will soon let users post and browse from the desktop, for example. It will let users browse a feed of posts created only by users they follow — a must for news junkies. Once it works through various data privacy issues, Threads will come to the European Union, with its hundreds of millions of potential users. (It’s a good sign for Meta that EU citizens are so intent on using it the company has had to block them at the VPN level.)
+
+Meta will also be able to promote Threads across its family of apps, in ways both expected and not. What happens once public figures on Facebook can add their most recent Threads posts to their pages? I bet we’ll find out.
+
+Five, Twitter’s deterioration continues to accelerate. Ad revenue is down by 50 percent, according to Musk, and — despite the company choosing not to pay many of its bills — the company is losing money. Rate limits continue to make the site unusable to many free users and even some paid ones. Spam is overwhelming users’ direct messages so much that the company disabled open DMs to free users. The company has lately been reduced to issuing bribe-like payouts to a handful of hand-picked creators, many of whom are aligned with right-wing politics.
+
+If that’s not a death spiral, what is? In Puck, William Cohan has written persuasively that Twitter could soon be subject to involuntary bankruptcy. And while that could be in Musk’s financial interests — making billions of dollars in debt disappear — the resulting chaos seems unlikely to restore the site to its former usability.
+
+So that’s the case for Threads working out in the end. The demand is there, the product is good, and its chief rival is circling the drain. (Other rivals don’t seem to be faring much better; Bluesky, which had been my favorite Twitter alternative in recent weeks, has been mired in internecine conflict over the past week related to the use of racial slurs in user names. Even worse, from a growth standpoint, is that the app remains invite-only.)
+
+Of course, lots could still go wrong for Meta. I’m particularly focused on what kind of posts are ultimately favored by Threads’ ranking algorithms.
+
+Instagram head Adam Mosseri drew headlines for saying the company is “not going to do anything to encourage” posting about politics or “hard news.” To me, this sounded mostly like marketing — “come use our app where everyone is arguing about politics” likely would not have drawn 100 million people to download the app in a week. I suspect Threads will ultimately lean into whatever its users are doing, even if it means hosting lots of fractious debates about democracy and fascism.
+
+But if Threads winds up writing Mosseri’s viewpoint here into the code, the app could be sapped of its lifeblood. Threads doesn’t only have to be about news, just as Twitter wasn’t. But the best version of Threads is an app where people go to learn about and discuss what’s happening in the moment, news included, and absent that the feed is going to feel like one more overstuffed shopping mall for a company that already has plenty of those. (The earliest days of Threads, when the timeline was dominated by brands posting cringey engagement-bait, offer a good roadmap for what the company should avoid.)
+
+Ultimately, despite encroaching doubts among critics, Meta CEO Mark Zuckerberg seems unfazed.
+
+“I’m very optimistic about how the Threads community is coming together,” he wrote in a Threads post today. “Early growth was off the charts, but more importantly 10s of millions of people now come back daily. That’s way ahead of what we expected.”
+
+Indeed, it’s a rare thing for any social network to claim tens of millions of daily active users, much less one that is barely more than a minimum viable product. BeReal, one of the more prominent upstarts of the past couple years, announced it had 20 million daily users in April — and I imagine that number is smaller now.
+
+To Zuckerberg, the concept has been proved out. The rest is simply an execution problem.
+
+“The focus for the rest of the year is improving the basics and retention,” he wrote. “It’ll take time to stabilize, but once we nail that then we’ll focus on growing the community. We’ve run this playbook many times (FB, IG, Stories, Reels, etc) and I’m confident Threads is on a good path too.”

@@ -1,0 +1,13 @@
+Meta’s Twitter competitor Threads has been off to a great start — it gained 100 million sign-ups within five days of the launch. But with its absence in the EU, some AI-powered content generator apps are trying to gain the advantage of the situation.
+
+Today, Apple removed one of the biggest gainers — an app called Threads for Insta developed by SocialKit LTD. It was a content generator, which lets you make posts through AI-powered models. The app was in the top charts in the social media category in countries like Germany, France, Spain, Sweden and the Netherlands before Apple removed it from the App Store. Germany-based developer duo Mysk first pointed out that this app is climbing charts in many countries. Mysk noted that Apple also suspended the developer account of SocialKit LTD and all the apps made by them.
+According to analytics firm Sensor Tower, the app has managed to get 300,000 downloads in a short time — mostly from EU-based users. The firm’s senior analyst Abe Yousef said that the app has been in the overall top 20 charts of the iOS app store in the Netherlands, Germany, France, Spain and Italy.
+
+The app seemingly appeared just after Meta launched Threads. There are a few other apps with similar names and functionality floating around on the App Store, but they haven’t appeared in any top charts yet.
+
+We reached out to Apple and Meta for a comment, and we’ll update the story if we hear back.
+
+The problem of Threads copycats isn’t limited to the App Store. Before Instagram launched Threads on July 6, a few impersonating apps were already doing rounds on the Play Store before Google eventually removed those.
+Impersonating popular apps is not a new trend in the App Store. Earlier this year, several apps with “ChatGPT” in their name took advantage of OpenAI not having an official ChatGPT app. At that time, the AI company didn’t even have an official ChatGPT API.
+
+Last week, Twitter threatened to sue Meta for allegedly poaching people from the Elon Musk–owned company. In response, Meta spokesperson Andy Stone said, “No one on the Threads engineering team is a former Twitter employee — that’s just not a thing.”
